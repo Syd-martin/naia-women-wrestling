@@ -1,6 +1,10 @@
 ---
-title: "NAIA Womens Wrestling Championships"
+title: "NAIA Women's Wrestling National Championships"
+subtitle: "2026 Team Standings & Individual Weight Class Brackets"
 ---
+
+Interactive results from the 2026 NAIA Women's Wrestling National Championships. Use the tabs below to view team standings or explore individual weight classes. Click any wrestler's row to view their individual match results.
+
 
 ```{r}
 #| echo: false
@@ -9,79 +13,270 @@ title: "NAIA Womens Wrestling Championships"
 
 library(tidyverse)
 library(reactable)
+library(htmltools)
 
-# Read the match data
+# Read the match data and team scores
 matches <- read_csv("data/trackwrestling_matches.csv", show_col_types = FALSE)
+team_scores <- read_csv("data/trackwrestling_team_scores.csv", show_col_types = FALSE)
+all_matches <- read_csv("data/naia_matches_all_years.csv", show_col_types = FALSE)
+
+# Color badge helpers for match methods and results
+badge_win_method <- \(value) {
+  if (is.na(value) || value == "") return("")
+  val <- tolower(as.character(value))
+  col <- if (grepl("fall|vfa", val)) "#dc2626" else if (grepl("tf|tech|vsu", val)) "#7c3aed" else if (grepl("dec|vpo", val)) "#2563eb" else "#64748b"
+  tags$span(
+    style = sprintf("display: inline-block; padding: 2px 8px; border-radius: 9999px; font-size: 0.75rem; font-weight: 600; background: %s18; color: %s;", col, col),
+    value
+  )
+}
+
+badge_result <- \(value) {
+  if (is.na(value) || value == "") return("")
+  col <- if (value == "Won") "#16a34a" else "#dc2626"
+  tags$span(
+    style = sprintf("display: inline-block; padding: 2px 8px; border-radius: 9999px; font-size: 0.75rem; font-weight: 600; background: %s18; color: %s;", col, col),
+    value
+  )
+}
+
+# Clean, modern theme for all tables
+tbl_theme <- reactableTheme(
+  borderColor = "#e2e8f0",
+  stripedColor = "#f8fafc",
+  highlightColor = "#eff6ff",
+  cellPadding = "8px 12px",
+  headerStyle = list(
+    backgroundColor = "#f8fafc",
+    borderBottom = "2px solid #cbd5e1",
+    fontWeight = 600,
+    fontSize = "0.875rem",
+    color = "#334155"
+  )
+)
 
 # Combine wins and losses so each wrestler has their full match log
 wrestler_matches <- bind_rows(
   matches |> transmute(weight_class, wrestler = winner, school = winner_school, result = "Won", opponent = paste0(loser, " (", loser_school, ")"), round, score),
   matches |> transmute(weight_class, wrestler = loser, school = loser_school, result = "Lost", opponent = paste0(winner, " (", winner_school, ")"), round, score)
 )
+
+# Function to build an interactive table for any weight class
+make_weight_table <- \(wt) {
+  summary_df <- wrestler_matches |>
+    filter(weight_class == wt) |>
+    group_by(wrestler, school) |>
+    summarize(
+      wins = sum(result == "Won"),
+      losses = sum(result == "Lost"),
+      record = paste0(wins, "-", losses),
+      .groups = "drop"
+    ) |>
+    arrange(desc(wins), losses) |>
+    select(wrestler, school, record)
+
+  reactable(
+    summary_df,
+    theme = tbl_theme,
+    searchable = TRUE,
+    striped = TRUE,
+    highlight = TRUE,
+    bordered = TRUE,
+    columns = list(
+      wrestler = colDef(name = "Wrestler"),
+      school = colDef(name = "School"),
+      record = colDef(name = "Record (W-L)", align = "center")
+    ),
+    details = \(index) {
+      w_name <- summary_df$wrestler[index]
+      sub_matches <- wrestler_matches |>
+        filter(weight_class == wt, wrestler == w_name) |>
+        select(round, opponent, result, score)
+      reactable(
+        sub_matches,
+        theme = tbl_theme,
+        outlined = TRUE,
+        striped = TRUE,
+        columns = list(
+          round = colDef(name = "Round"),
+          opponent = colDef(name = "Opponent"),
+          result = colDef(name = "Result", width = 85, align = "center", cell = badge_result),
+          score = colDef(name = "Score")
+        )
+      )
+    }
+  )
+}
 ```
 
+::: {.grid .mb-4}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.stat-card}
+<div class="stat-num">3,154</div>
+<div class="stat-label">All-Time Matches</div>
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.stat-card}
+<div class="stat-num">6</div>
+<div class="stat-label">National Tournaments (2019–2026)</div>
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.stat-card}
+<div class="stat-num">37</div>
+<div class="stat-label">Teams Competing (2026)</div>
+:::
+:::
+
+:::
+
 ::: {.panel-tabset}
+
+## Team Standings
+
+```{r}
+#| echo: false
+#| fig-height: 4.5
+team_scores |>
+  slice_max(score, n = 10) |>
+  ggplot(aes(x = score, y = reorder(team, score))) +
+  geom_col(fill = "#2563eb", width = 0.7) +
+  geom_text(aes(label = score), hjust = -0.2, size = 3.5, fontface = "bold", color = "#1e293b") +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.12))) +
+  labs(
+    title = "Top 10 Team Finishes",
+    subtitle = "Total team points at the 2026 National Championship",
+    caption = "Source: TrackWrestling",
+    x = "Team Points",
+    y = NULL
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    panel.grid.major.y = element_blank(),
+    panel.grid.minor = element_blank(),
+    plot.title = element_text(face = "bold")
+  )
+```
+
+```{r}
+#| echo: false
+reactable(
+  team_scores |> select(place, team, score),
+  theme = tbl_theme,
+  striped = TRUE,
+  highlight = TRUE,
+  bordered = TRUE,
+  defaultPageSize = 10,
+  columns = list(
+    place = colDef(name = "Place", width = 75, align = "center"),
+    team = colDef(name = "Team"),
+    score = colDef(name = "Points", width = 95, align = "right")
+  ),
+  searchable = TRUE
+)
+```
+
+## All-Time Matches (2019–2026)
+
+```{r}
+#| echo: false
+reactable(
+  all_matches,
+  theme = tbl_theme,
+  searchable = TRUE,
+  filterable = TRUE,
+  striped = TRUE,
+  highlight = TRUE,
+  bordered = TRUE,
+  defaultPageSize = 15,
+  showPageSizeOptions = TRUE,
+  pageSizeOptions = c(10, 15, 25, 50, 100),
+  columns = list(
+    year = colDef(name = "Year", width = 80, align = "center"),
+    weight_class = colDef(name = "Weight", width = 85, align = "center"),
+    round = colDef(name = "Round", minWidth = 130),
+    winner = colDef(name = "Winner", minWidth = 140),
+    winner_school = colDef(name = "Winner School", minWidth = 140),
+    win_method = colDef(name = "Method", width = 110, align = "center", cell = badge_win_method),
+    score = colDef(name = "Score / Time", minWidth = 100),
+    loser = colDef(name = "Loser", minWidth = 140),
+    loser_school = colDef(name = "Loser School", minWidth = 140)
+  )
+)
+```
 
 ## 103 lbs
 
 ```{r}
 #| echo: false
-
-summary_103 <- wrestler_matches |>
-  filter(weight_class == 103) |>
-  group_by(wrestler, school) |>
-  summarize(
-    wins = sum(result == "Won"),
-    losses = sum(result == "Lost"),
-    record = paste0(wins, "-", losses),
-    .groups = "drop"
-  ) |>
-  arrange(desc(wins), losses) |>
-  select(wrestler, school, record)
-
-reactable(
-  summary_103,
-  searchable = TRUE,
-  columns = list(
-    wrestler = colDef(name = "Wrestler"),
-    school = colDef(name = "School"),
-    record = colDef(name = "Record (W-L)")
-  ),
-  details = \(index) {
-    w_name <- summary_103$wrestler[index]
-    sub_matches <- wrestler_matches |>
-      filter(weight_class == 103, wrestler == w_name) |>
-      select(round, opponent, result, score)
-    reactable(
-      sub_matches,
-      outlined = TRUE,
-      columns = list(
-        round = colDef(name = "Round"),
-        opponent = colDef(name = "Opponent"),
-        result = colDef(name = "Result"),
-        score = colDef(name = "Score")
-      )
-    )
-  }
-)
+make_weight_table(103)
 ```
 
 ## 110 lbs
 
+```{r}
+#| echo: false
+make_weight_table(110)
+```
+
 ## 117 lbs
+
+```{r}
+#| echo: false
+make_weight_table(117)
+```
 
 ## 124 lbs
 
+```{r}
+#| echo: false
+make_weight_table(124)
+```
+
 ## 131 lbs
+
+```{r}
+#| echo: false
+make_weight_table(131)
+```
 
 ## 138 lbs
 
+```{r}
+#| echo: false
+make_weight_table(138)
+```
+
 ## 145 lbs
+
+```{r}
+#| echo: false
+make_weight_table(145)
+```
 
 ## 160 lbs
 
+```{r}
+#| echo: false
+make_weight_table(160)
+```
+
 ## 180 lbs
 
+```{r}
+#| echo: false
+make_weight_table(180)
+```
+
 ## 207 lbs
+
+```{r}
+#| echo: false
+make_weight_table(207)
+```
 
 :::
