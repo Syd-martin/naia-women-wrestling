@@ -1,0 +1,258 @@
+
+
+
+
+
+ 
+
+
+
+
+<html>
+<head>
+<script>console.log('ngwMode: optional');</script>
+<script src='https://cmp.osano.com/AzyWAQS5NWEEWkU9/df34419d-698a-4f5c-9dd9-72cd58fa57d7/osano.js?language=en'></script><style>.osano-cm-widget{display:none;}</style><script language='javascript' src='https://www.trackwrestling.com/google_tag_manager.js?version=47'></script>
+<script>dataLayer = [];</script>
+<!-- Begin comScore Tag --><script>window.addEventListener('load', () => {if (typeof _comscore === 'undefined' && window.self === window.top){(function() {window._comscore = window._comscore || [];_comscore.push({ c1: '2', c2: '10037191' });var s = document.createElement('script'), el = document.getElementsByTagName('script')[0]; s.async = true;s.src = 'https://sb.scorecardresearch.com/cs/10037191/beacon.js';el.parentNode.insertBefore(s, el);})();}});</script><noscript><img src='https://sb.scorecardresearch.com/p?c1=2&amp;c2=10037191&amp;cv=3.6.0&amp;cj=1'></noscript><!-- End comScore Tag --><script language='javascript' src='/segment.jsp?twSessionId=pionqnwjxp'></script>
+<script language='javascript' src='/jquery.min.js'></script>
+
+
+
+
+<title>
+Team Scores
+</title>
+
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="IE=edge, chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel='stylesheet' type='text/css' href='../twIconSet.css'></link>
+<link rel='stylesheet' type='text/css' href='../tw.css'></link>
+
+<!--[if lt IE 9]>
+	<script src='../html5.js'></script>
+<![endif]-->
+
+<script language='javascript' src='../jquery.min.js'></script>
+
+<script language='javascript' src='../Pile.js'></script>
+<script language='javascript' src='../Ajax.js'></script>
+<script language='javascript' src='../FormatFormFields.js'></script>
+<script language='javascript' src='../Essentials.js'></script>
+
+<script language='javascript' src='../TWPage.js'></script>
+<link rel='stylesheet' type='text/css' href='../tw_page.css'></link>
+<!--[if lt IE 9]>
+	<link rel='stylesheet' type='text/css' href='../ie-tw_page.css'></link>
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="../stylesheet.css"></link>
+
+<style>
+
+.tw-table {
+	 max-width: 960px;
+	 margin: 0 auto;
+}
+
+</style>
+
+<script language="javascript">
+
+function verifyUser(){
+	try{
+		if("true"=="false"){
+			location.href="../Login.jsp?TIM=1789664263730&twSessionId=pionqnwjxp";
+		}
+	}catch(error){
+		alert("An error occurred and below is the error message.\n\n" + error.message);
+	}
+}
+
+var yPos = -0;
+var lastYPos = 0;
+var yPosInc = 0;
+
+function startUp(){
+	
+	with(window.document.theForm){
+	
+		verifyUser();
+		drawPageHeader("Team Scores");
+		
+		drawPageMessages("<div class='messageIcon'>Printed on 09/17/2026 11:57 a.m.</div>");
+
+		if(true) addPageFunction("Filter", "openFilter()");
+		drawPageFunctions();
+	
+		if(false){
+			var jsonStr = "";
+			jsonStr += "[";
+			jsonStr += "	{\"linkName\":\"Team Scores\",\"linkURL\":\"javascript:displayLoadingMessage();location.href='PrintTeamScores.jsp?TIM=1789664263730&twSessionId=pionqnwjxp&displayResultLinks=true'\"},";
+			jsonStr += "	{\"linkName\":\"Team Results\",\"linkURL\":\"javascript:displayLoadingMessage();location.href='TeamResults.jsp?TIM=1789664263730&twSessionId=pionqnwjxp'\"},";
+			jsonStr += "	{\"linkName\":\"Tournament Results\",\"linkURL\":\"javascript:displayLoadingMessage();location.href='TournamentResults.jsp?TIM=1789664263730&twSessionId=pionqnwjxp'\"},";
+			jsonStr += "	{\"linkName\":\"Custom Results\",\"linkURL\":\"javascript:displayLoadingMessage();location.href='CustomResults.jsp?TIM=1789664263730&twSessionId=pionqnwjxp'\"}";
+			jsonStr += "]";
+			drawPageTopLinksFromJSON(jsonStr);
+		}
+
+		if(false){
+			classBox.value = "";
+			sortBy.value = "scores";
+			refreshRateBox.value = "0";
+			scrollRateBox.value = "0";
+			scrollSizeBox.value = "0";
+			limit.value = "";
+			fontSize.value = "10";
+			formatted.value = "Y";
+		}
+		
+	}
+	
+	try{
+		if("true"=="true"){
+			if(0 > 0){
+				setTimeout("submitToSelf()", 0*60000);
+			}
+			if(0 > 0 && 0 > 0){
+				setTimeout("autoScroll()", (0*1000) );
+			}
+		}
+	}catch(error){
+		alert("An error occurred and below is the error message.\n\n" + error.message);
+	}
+	
+	attachEventTrack();
+}
+
+function openFilter(){
+	location.href = "PrintTeamScores.jsp?TIM=1789664263730&displayResult=N&twSessionId=pionqnwjxp&fontSize=10&classBox=&refreshRateBox=0&scrollRateBox=0&scrollSizeBox=0&limit=0&formatted=Y&displayResult=Y&sortBy=scores";
+}
+
+function autoScroll(){
+	if(lastYPos==document.body.scrollTop){
+		if(yPos <= 0){
+			yPosInc = 0;
+		}else{
+			yPosInc = -0;
+		}
+	}
+	lastYPos = document.body.scrollTop;
+	yPos += yPosInc;
+	window.scroll(0, yPos);
+	setTimeout("autoScroll()", 0*1000);
+}
+
+function submitToSelf(){
+	try{
+		location.href = "PrintTeamScores.jsp?TIM=1789664263730&twSessionId=pionqnwjxp&fontSize=10&classBox=&refreshRateBox=0&scrollRateBox=0&scrollSizeBox=0&limit=0&formatted=Y&displayResult=Y&sortBy=scores";
+	}catch(error){
+		alert("An error occurred and below is the error message.\n\n" + error.message);
+	}
+}
+
+function viewTeamScores(){
+	try{
+		with(window.document.theForm){
+			if(!validateInteger(refreshRateBox,1,3,0,999)){
+			}else if(!validateDouble(scrollRateBox,true,0,3,0,2,0,999)){
+			}else if(!validateInteger(scrollSizeBox,1,4,0,9999)){
+			}else if(!validateInteger(limit,0,3,1,999)){
+			}else{
+
+				if(parseInt(refreshRateBox.value) > 0 && parseInt(refreshRateBox.value) < 3){
+					alert("Your refresh rate must be 3 minutes or greater.");
+					return;
+				}
+
+				action = "PrintTeamScores.jsp?TIM=1789664263730&twSessionId=pionqnwjxp";
+				submit();
+			}
+		}
+	}catch(error){
+		alert("An error occurred and below is the error message.\n\n" + error.message);
+	}
+}
+
+</script>
+
+<link rel='canonical' href='https://www.trackwrestling.com/opentournaments/PrintTeamScores.jsp'/>
+
+<script type='text/javascript'>var SSPstring = 'rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVzaG9sZHhwP0AAAAAAADB3CAAAAEAAAAAjdAAJU1NfVGVhbUlkdAAAdAAEV29yZHB0AAtTU19Vc2VyTmFtZXB0AAtPcmRlck51bWJlcnB0AAlteVRyYWNrSWRxAH4AA3QADXBhcnRpY2lwYW50SWRxAH4AA3QAEVRvdXJuYW1lbnRHcm91cElkcHQACGxlYWd1ZUlkcQB+AAN0AAhzdFRlYW1JZHEAfgADdAAIcG9ydGFsSWRxAH4AA3QADHRvdXJuYW1lbnRJZHEAfgADdAAFcHdvcmRxAH4AA3QADXRyYW5zRGV0YWlsSWRxAH4AA3QADVNTX1VzZXJUeXBlSWRwdAAKd3Jlc3RsZXJJZHEAfgADdAAIUGFzc3dvcmR0AAB0AAdldmVudElkcQB+AAN0AAZBVU5hbWVwdAAGQVBXb3JkcHQACFVzZXJOYW1lcQB+ABN0AAV1bmFtZXEAfgADdAANdHJhbnNhY3Rpb25JZHEAfgADdAAOVG91cm5hbWVudFR5cGV0AAEydAAGZHVhbElkcQB+AAN0AAdTU19HQklkcHQAE1N5c3RlbUFkbWluUGFzc3dvcmRwdAAGVXNlcklkcQB+ABN0AAZ0ZWFtSWRxAH4AA3QAClNTUF9leHBpcmV0AA0xNzg5NjY3ODYzNzMzdAAMVG91cm5hbWVudElkdAAJOTU0OTU4MTMydAAJcmFua2luZ0lkcQB+AAN0AAh1c2VyVHlwZXEAfgADdAALU1NfU2Vhc29uSWRwdAAIVXNlclR5cGV0AAZ2aWV3ZXJ0AAVTU19QV3B4';</script>
+</head>
+
+
+
+<body onload="startUp();">
+<script language='javascript'>
+try{ initGoogleTagManager(1); }catch(gtmError){}
+</script>
+
+
+<form id="theForm" name="theForm" method="post">
+<table style='position:absolute;z-index:200;' width='100%' border='0' cellspacing='0' cellpadding='0'><tr height='0'><td align='center'><div id='loadingMessage' class='loading'>LOADING...</div></td></tr></table>
+
+
+<iframe style="position:absolute" id="MethodCallerFrame" name="MethodCallerFrame" src="MethodCaller.jsp" width="1px" height="1px" frameborder="0"></iframe>
+
+<div id="pageContent">
+
+	<div class='modalFrame recordModal' id='recordModal'></div><div class='toolTipFrame' id='toolTipFrame'></div><div class='pageAlertFrame' id='pageAlertFrame'></div><div class='pageHeaderFrame' id='pageHeaderFrame'></div><div class='pageModalFrame' id='pageModalFrame'></div><div class='functionsAndLinksFrame'>	<div class='pageTopLinksFrame' id='pageTopLinksFrame'></div>	<div class='pageFunctionsFrame' id='pageFunctionsFrame'></div></div><div class='pageMessagesFrame' id='pageMessagesFrame'></div><div class='pageGridFrame' id='pageGridFrame'></div><div class='pageFooterFrame' id='pageFooterFrame'></div>
+	
+	<center style='position: relative;'>
+<div style='overflow: auto; margin: 1em 0; width: 100%; position: absolute;'>
+<table width='100%' cellpadding='0' cellspacing='0' border='0' style='font-size:10pt;' class='tw-table'>
+<tr><th align='center'>&nbsp;</th><th align='left'>Team</th><th align='left'>Abbr</th><th align='left'>Score</th></tr>
+<tr><td nowrap style='text-align: center;'>1</td><td align='left' width='34%' nowrap>Life</td><td align='left' width='33%'>LIFE</td><td align='left' width='33%'>169.0</td></tr>
+<tr><td nowrap style='text-align: center;'>2</td><td align='left' width='34%' nowrap>William Penn</td><td align='left' width='33%'>WPU</td><td align='left' width='33%'>158.5</td></tr>
+<tr><td nowrap style='text-align: center;'>3</td><td align='left' width='34%' nowrap>Grand View</td><td align='left' width='33%'>GV</td><td align='left' width='33%'>145.5</td></tr>
+<tr><td nowrap style='text-align: center;'>4</td><td align='left' width='34%' nowrap>Providence</td><td align='left' width='33%'>PROV</td><td align='left' width='33%'>101.0</td></tr>
+<tr><td nowrap style='text-align: center;'>5</td><td align='left' width='34%' nowrap>Wayland Baptist</td><td align='left' width='33%'>WYBT</td><td align='left' width='33%'>90.5</td></tr>
+<tr><td nowrap style='text-align: center;'>6</td><td align='left' width='34%' nowrap>Southern Oregon</td><td align='left' width='33%'>SORU</td><td align='left' width='33%'>88.0</td></tr>
+<tr><td nowrap style='text-align: center;'>7</td><td align='left' width='34%' nowrap>Indiana Tech</td><td align='left' width='33%'>INDT</td><td align='left' width='33%'>81.5</td></tr>
+<tr><td nowrap style='text-align: center;'>8</td><td align='left' width='34%' nowrap>Lindsey Wilson</td><td align='left' width='33%'>LWKY</td><td align='left' width='33%'>76.0</td></tr>
+<tr><td nowrap style='text-align: center;'>9</td><td align='left' width='34%' nowrap>Ottawa</td><td align='left' width='33%'>OTTU</td><td align='left' width='33%'>68.0</td></tr>
+<tr><td nowrap style='text-align: center;'>10</td><td align='left' width='34%' nowrap>Texas Wesleyan</td><td align='left' width='33%'>TXWL</td><td align='left' width='33%'>55.0</td></tr>
+<tr><td nowrap style='text-align: center;'>11</td><td align='left' width='34%' nowrap>Missouri Valley</td><td align='left' width='33%'>MOVA</td><td align='left' width='33%'>54.5</td></tr>
+<tr><td nowrap style='text-align: center;'>12</td><td align='left' width='34%' nowrap>Cumberlands</td><td align='left' width='33%'>CMSK</td><td align='left' width='33%'>39.0</td></tr>
+<tr><td nowrap style='text-align: center;'>13</td><td align='left' width='34%' nowrap>Doane</td><td align='left' width='33%'>DOAN</td><td align='left' width='33%'>37.5</td></tr>
+<tr><td nowrap style='text-align: center;'>14</td><td align='left' width='34%' nowrap>Oklahoma City</td><td align='left' width='33%'>OKCT</td><td align='left' width='33%'>36.0</td></tr>
+<tr><td nowrap style='text-align: center;'>15</td><td align='left' width='34%' nowrap>Evergreen State</td><td align='left' width='33%'>EVGN</td><td align='left' width='33%'>33.5</td></tr>
+<tr><td nowrap style='text-align: center;'>16</td><td align='left' width='34%' nowrap>Dickinson State</td><td align='left' width='33%'>DNST</td><td align='left' width='33%'>31.5</td></tr>
+<tr><td nowrap style='text-align: center;'>17</td><td align='left' width='34%' nowrap>Saint Mary</td><td align='left' width='33%'>STMY</td><td align='left' width='33%'>28.0</td></tr>
+<tr><td nowrap style='text-align: center;'>18</td><td align='left' width='34%' nowrap>Hastings</td><td align='left' width='33%'>HAST</td><td align='left' width='33%'>27.5</td></tr>
+<tr><td nowrap style='text-align: center;'>19</td><td align='left' width='34%' nowrap>Baker</td><td align='left' width='33%'>BAKE</td><td align='left' width='33%'>26.0</td></tr>
+<tr><td nowrap style='text-align: center;'>20</td><td align='left' width='34%' nowrap>Bismarck State</td><td align='left' width='33%'>BSC</td><td align='left' width='33%'>25.5</td></tr>
+<tr><td nowrap style='text-align: center;'>21</td><td align='left' width='34%' nowrap>Campbellsville</td><td align='left' width='33%'>CAMP</td><td align='left' width='33%'>22.5</td></tr>
+<tr><td nowrap style='text-align: center;'>22</td><td align='left' width='34%' nowrap>Avila</td><td align='left' width='33%'>AVI</td><td align='left' width='33%'>21.5</td></tr>
+<tr><td nowrap style='text-align: center;'>23</td><td align='left' width='34%' nowrap>Midland</td><td align='left' width='33%'>MIDL</td><td align='left' width='33%'>15.5</td></tr>
+<tr><td nowrap style='text-align: center;'>24</td><td align='left' width='34%' nowrap>Arizona Christian</td><td align='left' width='33%'>ACU</td><td align='left' width='33%'>14.0</td></tr>
+<tr><td nowrap style='text-align: center;'>25</td><td align='left' width='34%' nowrap>Missouri Baptist</td><td align='left' width='33%'>MBAP</td><td align='left' width='33%'>11.0</td></tr>
+<tr><td nowrap style='text-align: center;'>26</td><td align='left' width='34%' nowrap>Eastern Oregon</td><td align='left' width='33%'>EORE</td><td align='left' width='33%'>5.0</td></tr>
+<tr><td nowrap style='text-align: center;'>27</td><td align='left' width='34%' nowrap>Central Methodist</td><td align='left' width='33%'>CMU</td><td align='left' width='33%'>4.5</td></tr>
+<tr><td nowrap style='text-align: center;'>28</td><td align='left' width='34%' nowrap>Friends</td><td align='left' width='33%'>FRND</td><td align='left' width='33%'>3.0</td></tr>
+<tr><td nowrap style='text-align: center;'>29</td><td align='left' width='34%' nowrap>Rochester Christian</td><td align='left' width='33%'>ROCM</td><td align='left' width='33%'>3.0</td></tr>
+<tr><td nowrap style='text-align: center;'>30</td><td align='left' width='34%' nowrap>York</td><td align='left' width='33%'>YORK</td><td align='left' width='33%'>3.0</td></tr>
+<tr><td nowrap style='text-align: center;'>31</td><td align='left' width='34%' nowrap>Westcliff</td><td align='left' width='33%'>WCLF</td><td align='left' width='33%'>2.5</td></tr>
+<tr><td nowrap style='text-align: center;'>32</td><td align='left' width='34%' nowrap>William Woods</td><td align='left' width='33%'>WWMO</td><td align='left' width='33%'>2.5</td></tr>
+<tr><td nowrap style='text-align: center;'>33</td><td align='left' width='34%' nowrap>Waldorf</td><td align='left' width='33%'>WALD</td><td align='left' width='33%'>1.0</td></tr>
+<tr><td nowrap style='text-align: center;'>34</td><td align='left' width='34%' nowrap>Georgetown</td><td align='left' width='33%'>GTKY</td><td align='left' width='33%'>0.0</td></tr>
+<tr><td nowrap style='text-align: center;'>35</td><td align='left' width='34%' nowrap>Montreat</td><td align='left' width='33%'>MTNC</td><td align='left' width='33%'>0.0</td></tr>
+<tr><td nowrap style='text-align: center;'>36</td><td align='left' width='34%' nowrap>Rio Grande</td><td align='left' width='33%'>RIOG</td><td align='left' width='33%'>0.0</td></tr>
+</table>
+</div>
+</center>
+
+	
+</div>
+
+</form>
+
+<script language="javascript" src="../Footer.js"></script>
+
+</body>
+
+
+</html>
+
