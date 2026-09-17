@@ -2,6 +2,26 @@
 title: "NAIA Womens Wrestling Championships"
 ---
 
-This is a Quarto website.
+::: {.panel-tabset}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## 103 lbs
+
+## 110 lbs
+
+## 117 lbs
+
+## 124 lbs
+
+## 131 lbs
+
+## 138 lbs
+
+## 145 lbs
+
+## 160 lbs
+
+## 180 lbs
+
+## 207 lbs
+
+:::
