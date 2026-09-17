@@ -2,9 +2,69 @@
 title: "NAIA Womens Wrestling Championships"
 ---
 
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(tidyverse)
+library(reactable)
+
+# Read the match data
+matches <- read_csv("data/trackwrestling_matches.csv", show_col_types = FALSE)
+
+# Combine wins and losses so each wrestler has their full match log
+wrestler_matches <- bind_rows(
+  matches |> transmute(weight_class, wrestler = winner, school = winner_school, result = "Won", opponent = paste0(loser, " (", loser_school, ")"), round, score),
+  matches |> transmute(weight_class, wrestler = loser, school = loser_school, result = "Lost", opponent = paste0(winner, " (", winner_school, ")"), round, score)
+)
+```
+
 ::: {.panel-tabset}
 
 ## 103 lbs
+
+```{r}
+#| echo: false
+
+summary_103 <- wrestler_matches |>
+  filter(weight_class == 103) |>
+  group_by(wrestler, school) |>
+  summarize(
+    wins = sum(result == "Won"),
+    losses = sum(result == "Lost"),
+    record = paste0(wins, "-", losses),
+    .groups = "drop"
+  ) |>
+  arrange(desc(wins), losses) |>
+  select(wrestler, school, record)
+
+reactable(
+  summary_103,
+  searchable = TRUE,
+  columns = list(
+    wrestler = colDef(name = "Wrestler"),
+    school = colDef(name = "School"),
+    record = colDef(name = "Record (W-L)")
+  ),
+  details = \(index) {
+    w_name <- summary_103$wrestler[index]
+    sub_matches <- wrestler_matches |>
+      filter(weight_class == 103, wrestler == w_name) |>
+      select(round, opponent, result, score)
+    reactable(
+      sub_matches,
+      outlined = TRUE,
+      columns = list(
+        round = colDef(name = "Round"),
+        opponent = colDef(name = "Opponent"),
+        result = colDef(name = "Result"),
+        score = colDef(name = "Score")
+      )
+    )
+  }
+)
+```
 
 ## 110 lbs
 
