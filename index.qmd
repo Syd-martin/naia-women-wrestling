@@ -55,10 +55,22 @@ tbl_theme <- reactableTheme(
   )
 )
 
+# Extract podium placements from medal rounds
+placements <- bind_rows(
+  matches |> filter(round == "1st Place Match") |> transmute(weight_class, wrestler = winner, place = 1, finish = "👑 Champion"),
+  matches |> filter(round == "1st Place Match") |> transmute(weight_class, wrestler = loser, place = 2, finish = "🥈 2nd Place"),
+  matches |> filter(round == "3rd Place Match") |> transmute(weight_class, wrestler = winner, place = 3, finish = "🥉 3rd Place"),
+  matches |> filter(round == "3rd Place Match") |> transmute(weight_class, wrestler = loser, place = 4, finish = "🏅 4th Place"),
+  matches |> filter(round == "5th Place Match") |> transmute(weight_class, wrestler = winner, place = 5, finish = "🏅 5th Place"),
+  matches |> filter(round == "5th Place Match") |> transmute(weight_class, wrestler = loser, place = 6, finish = "🏅 6th Place"),
+  matches |> filter(round == "7th Place Match") |> transmute(weight_class, wrestler = winner, place = 7, finish = "🏅 7th Place"),
+  matches |> filter(round == "7th Place Match") |> transmute(weight_class, wrestler = loser, place = 8, finish = "🏅 8th Place")
+)
+
 # Combine wins and losses so each wrestler has their full match log
 wrestler_matches <- bind_rows(
-  matches |> transmute(weight_class, wrestler = winner, school = winner_school, result = "Won", opponent = paste0(loser, " (", loser_school, ")"), round, score),
-  matches |> transmute(weight_class, wrestler = loser, school = loser_school, result = "Lost", opponent = paste0(winner, " (", winner_school, ")"), round, score)
+  matches |> transmute(weight_class, wrestler = winner, school = winner_school, result = "Won", win_type, opponent = paste0(loser, " (", loser_school, ")"), round, score),
+  matches |> transmute(weight_class, wrestler = loser, school = loser_school, result = "Lost", win_type, opponent = paste0(winner, " (", winner_school, ")"), round, score)
 )
 
 # Function to build an interactive table for any weight class
@@ -70,38 +82,115 @@ make_weight_table <- \(wt) {
       wins = sum(result == "Won"),
       losses = sum(result == "Lost"),
       record = paste0(wins, "-", losses),
+      pins = sum(result == "Won" & grepl("fall", tolower(win_type))),
+      tfs = sum(result == "Won" & grepl("tech", tolower(win_type))),
+      decs = sum(result == "Won" & grepl("dec", tolower(win_type))),
       .groups = "drop"
     ) |>
-    arrange(desc(wins), losses) |>
-    select(wrestler, school, record)
+    left_join(placements |> filter(weight_class == wt), by = "wrestler") |>
+    mutate(
+      place = replace_na(place, 99),
+      finish = replace_na(finish, "Competitor")
+    ) |>
+    arrange(place, desc(wins), losses)
 
   reactable(
-    summary_df,
+    summary_df |> select(finish, wrestler, school, record),
     theme = tbl_theme,
     searchable = TRUE,
     striped = TRUE,
     highlight = TRUE,
     bordered = TRUE,
+    rowStyle = \(index) {
+      if (summary_df$place[index] == 1) {
+        list(background = "#fefce8", fontWeight = "600")
+      }
+    },
     columns = list(
+      finish = colDef(
+        name = "Finish",
+        width = 150,
+        align = "center",
+        cell = \(value, index) {
+          p <- summary_df$place[index]
+          if (p == 1) {
+            tags$span(
+              style = "display: inline-block; padding: 4px 12px; border-radius: 9999px; font-weight: 800; font-size: 0.85rem; background: #fef08a; color: #854d0e; border: 1.5px solid #facc15; box-shadow: 0 2px 6px rgba(250, 204, 21, 0.4);",
+              "👑 CHAMPION"
+            )
+          } else if (p == 2) {
+            tags$span(style = "display: inline-block; padding: 3px 10px; border-radius: 9999px; font-weight: 600; font-size: 0.8rem; background: #f1f5f9; color: #334155; border: 1px solid #cbd5e1;", "🥈 2nd Place")
+          } else if (p == 3) {
+            tags$span(style = "display: inline-block; padding: 3px 10px; border-radius: 9999px; font-weight: 600; font-size: 0.8rem; background: #ffedd5; color: #9a3412; border: 1px solid #fed7aa;", "🥉 3rd Place")
+          } else if (p <= 8) {
+            tags$span(style = "display: inline-block; padding: 3px 10px; border-radius: 9999px; font-weight: 600; font-size: 0.8rem; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;", paste0("🏅 ", p, "th Place"))
+          } else {
+            tags$span(style = "color: #94a3b8; font-size: 0.8rem;", "Competitor")
+          }
+        }
+      ),
       wrestler = colDef(name = "Wrestler"),
       school = colDef(name = "School"),
       record = colDef(name = "Record (W-L)", align = "center")
     ),
     details = \(index) {
-      w_name <- summary_df$wrestler[index]
+      row <- summary_df[index, ]
       sub_matches <- wrestler_matches |>
-        filter(weight_class == wt, wrestler == w_name) |>
+        filter(weight_class == wt, wrestler == row$wrestler) |>
         select(round, opponent, result, score)
-      reactable(
-        sub_matches,
-        theme = tbl_theme,
-        outlined = TRUE,
-        striped = TRUE,
-        columns = list(
-          round = colDef(name = "Round"),
-          opponent = colDef(name = "Opponent"),
-          result = colDef(name = "Result", width = 85, align = "center", cell = badge_result),
-          score = colDef(name = "Score")
+
+      div(
+        style = "padding: 16px 20px; background: #f8fafc; border-radius: 10px; margin: 8px 0; border: 1px solid #e2e8f0;",
+        
+        # Header profile card
+        div(
+          style = "display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 12px; padding-bottom: 10px; border-bottom: 1px solid #e2e8f0;",
+          div(
+            h5(style = "margin: 0; font-weight: 700; color: #0f172a;", paste0("🤼‍♀️ ", row$wrestler)),
+            span(style = "color: #64748b; font-size: 0.875rem;", row$school)
+          ),
+          div(
+            span(
+              style = paste0(
+                "display: inline-block; padding: 4px 12px; border-radius: 9999px; font-weight: 700; font-size: 0.85rem; ",
+                if (row$place == 1) "background: #fef08a; color: #854d0e; border: 1px solid #facc15;"
+                else if (row$place <= 8) "background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;"
+                else "background: #f1f5f9; color: #64748b;"
+              ),
+              row$finish
+            )
+          )
+        ),
+        
+        # Fun Stat Pills
+        div(
+          style = "display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px;",
+          span(style = "background: #ffffff; border: 1px solid #cbd5e1; padding: 4px 10px; border-radius: 6px; font-size: 0.8rem; font-weight: 600; color: #334155;",
+            paste0("📊 Record: ", row$record)
+          ),
+          span(style = "background: #ffffff; border: 1px solid #cbd5e1; padding: 4px 10px; border-radius: 6px; font-size: 0.8rem; font-weight: 600; color: #dc2626;",
+            paste0("📌 Pins: ", row$pins)
+          ),
+          span(style = "background: #ffffff; border: 1px solid #cbd5e1; padding: 4px 10px; border-radius: 6px; font-size: 0.8rem; font-weight: 600; color: #7c3aed;",
+            paste0("⚡ Tech Falls: ", row$tfs)
+          ),
+          span(style = "background: #ffffff; border: 1px solid #cbd5e1; padding: 4px 10px; border-radius: 6px; font-size: 0.8rem; font-weight: 600; color: #2563eb;",
+            paste0("⏱️ Decisions: ", row$decs)
+          )
+        ),
+        
+        # Match History Table
+        reactable(
+          sub_matches,
+          theme = tbl_theme,
+          outlined = TRUE,
+          striped = TRUE,
+          columns = list(
+            round = colDef(name = "Round"),
+            opponent = colDef(name = "Opponent"),
+            result = colDef(name = "Result", width = 85, align = "center", cell = badge_result),
+            score = colDef(name = "Score")
+          )
         )
       )
     }
