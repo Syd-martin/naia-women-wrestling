@@ -17,6 +17,8 @@ website:
         text: Rosters
       - href: matches.qmd
         text: Match Results
+      - href: about.qmd
+        text: About Sydney Martin
 
 format:
   html:

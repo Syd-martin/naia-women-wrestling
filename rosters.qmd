@@ -1,7 +1,11 @@
 ---
-title: "🤼 Wrestler Rosters"
-subtitle: "Search every national championship participant, their collegiate program, and their tournament record."
+title: "🤼 Wrestler Rosters by School"
+subtitle: "Explore collegiate programs and expand any school to view all affiliated athletes, weight classes, and tournament records."
 ---
+
+::: {.callout-note appearance="simple" icon="false"}
+💡 **Tip:** Click on any school row or dropdown arrow below to expand and view the full roster of athletes who competed for that program across national tournament years.
+:::
 
 ```{r}
 #| echo: false
@@ -10,8 +14,41 @@ subtitle: "Search every national championship participant, their collegiate prog
 
 source("_setup.R")
 
+roster_clean <- roster_df |>
+  filter(wrestler != "Baptist") |>
+  mutate(
+    wrestler = if_else(wrestler == "Asia", "Asia Ray", wrestler),
+    school = if_else(wrestler == "Asia Ray", "Wayland Baptist", school),
+    school_norm = map_to_geo(school),
+    school_norm = case_when(
+      grepl("^Life Pacific", school) ~ "Life Pacific University",
+      is.na(school_norm) | school_norm %in% c("—", "", "Unknown") ~ "Unattached / Independent",
+      TRUE ~ school_norm
+    )
+  )
+
+schools_roster_summary <- roster_clean |>
+  group_by(school_norm) |>
+  summarize(
+    total_athletes = n_distinct(wrestler),
+    total_entries = n(),
+    years_active = paste(sort(unique(year)), collapse = ", "),
+    all_americans = sum(place != "Competitor"),
+    champions = sum(grepl("1st", place)),
+    .groups = "drop"
+  ) |>
+  left_join(schools_geo |> select(school, state, city) |> distinct(), by = c("school_norm" = "school")) |>
+  mutate(
+    state = case_when(
+      school_norm == "Life Pacific University" ~ "CA",
+      school_norm == "Unattached / Independent" ~ "—",
+      TRUE ~ replace_na(state, "—")
+    )
+  ) |>
+  arrange(school_norm == "Unattached / Independent", desc(total_athletes), school_norm)
+
 reactable(
-  roster_df,
+  schools_roster_summary,
   theme = tbl_theme,
   searchable = TRUE,
   filterable = TRUE,
@@ -20,14 +57,63 @@ reactable(
   bordered = TRUE,
   defaultPageSize = 15,
   showPageSizeOptions = TRUE,
-  pageSizeOptions = c(10, 15, 25, 50, 100),
+  pageSizeOptions = c(10, 15, 25, 55),
+  onClick = "expand",
   columns = list(
-    year = colDef(name = "Year", width = 85, align = "center"),
-    weight_class = colDef(name = "Weight", width = 90, align = "center"),
-    wrestler = colDef(name = "Wrestler", minWidth = 160),
-    school = colDef(name = "School", minWidth = 160),
-    record = colDef(name = "Record (W-L)", width = 120, align = "center"),
-    place = colDef(name = "Tournament Finish", minWidth = 150, cell = badge_place)
-  )
+    school_norm = colDef(name = "Collegiate Program", minWidth = 200),
+    state = colDef(name = "State", width = 85, align = "center", cell = badge_state),
+    total_athletes = colDef(
+      name = "Athletes",
+      width = 110,
+      align = "center",
+      cell = \(v) tags$span(style = "font-weight: 700; color: #0f172a;", paste0(v, " wrestlers"))
+    ),
+    all_americans = colDef(name = "All-Americans", width = 130, align = "center", cell = badge_aa_count),
+    champions = colDef(name = "National Titles", width = 130, align = "center", cell = badge_champ_count),
+    years_active = colDef(name = "Years Competed", minWidth = 160),
+    total_entries = colDef(show = FALSE),
+    city = colDef(show = FALSE)
+  ),
+  details = function(index) {
+    sch_name <- schools_roster_summary$school_norm[index]
+    athletes <- roster_clean |>
+      filter(school_norm == sch_name) |>
+      select(wrestler, year, weight_class, record, place) |>
+      arrange(desc(year), weight_class, wrestler)
+    
+    div(
+      style = "padding: 14px 20px; background: #f8fafc; border-left: 5px solid #1d4ed8; border-radius: 8px; margin: 6px 0; box-shadow: inset 0 1px 3px rgba(0,0,0,0.03);",
+      div(
+        style = "display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;",
+        tags$h5(
+          style = "margin: 0; font-family: var(--font-display); font-weight: 800; color: #0f172a;",
+          paste("🤼", sch_name, "— Roster of Athletes")
+        ),
+        tags$span(
+          style = "font-size: 0.8rem; font-weight: 600; color: #64748b;",
+          paste(nrow(athletes), "tournament entries across", n_distinct(athletes$wrestler), "athletes")
+        )
+      ),
+      reactable(
+        athletes,
+        theme = tbl_theme,
+        searchable = TRUE,
+        compact = TRUE,
+        bordered = TRUE,
+        striped = TRUE,
+        highlight = TRUE,
+        defaultPageSize = 10,
+        showPageSizeOptions = TRUE,
+        pageSizeOptions = c(5, 10, 20, 50),
+        columns = list(
+          wrestler = colDef(name = "Athlete", minWidth = 160, style = list(fontWeight = 600)),
+          year = colDef(name = "Year", width = 85, align = "center"),
+          weight_class = colDef(name = "Weight", width = 95, align = "center", cell = \(v) paste0(v, " lbs")),
+          record = colDef(name = "Tournament Record", width = 130, align = "center"),
+          place = colDef(name = "Tournament Finish", minWidth = 150, cell = badge_place)
+        )
+      )
+    )
+  }
 )
 ```

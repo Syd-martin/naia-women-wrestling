@@ -1,31 +1,17 @@
 [
   {
+    "objectID": "rosters.html",
+    "href": "rosters.html",
+    "title": "🤼 Wrestler Rosters by School",
+    "section": "",
+    "text": "💡 Tip: Click on any school row or dropdown arrow below to expand and view the full roster of athletes who competed for that program across national tournament years."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Website Context",
+    "title": "About Sydney Martin",
     "section": "",
-    "text": "Women’s wrestling is one of the fastest-growing sports in the country, and the National Association of Intercollegiate Athletics (NAIA) made history by becoming the very first collegiate governing body to grant women’s wrestling full championship sport status.\nFrom the inaugural national invitational in 2019 to the 2026 National Championships, the NAIA has provided an arena for thousands of female student-athletes to compete, lead, and excel on the collegiate stage.\n\n\n\n\nThis site was created to celebrate, preserve, and explore this groundbreaking athletic movement through data:\n\n2026 National Championship Showcase: Complete team standings, interactive weight class brackets, and detailed athlete profile cards tracking records, pins, and podium finishes.\n3,100+ All-Time Bouts Archive: A searchable historical dataset spanning six championship tournaments (2019–2026), capturing every fall, tech fall, and clutch decision.\nHonoring the Champions: Spotlighting the national champions and All-American medalists who continue to elevate collegiate women’s wrestling.\n\n\n\n\n\nThe data powering this archive was gathered from official championship bout logs and tournament results. The interactive site is built using R, Quarto, tidyverse, and reactable to make wrestling data accessible and engaging for fans, coaches, and athletes alike."
-  },
-  {
-    "objectID": "about.html#the-pioneering-movement",
-    "href": "about.html#the-pioneering-movement",
-    "title": "Website Context",
-    "section": "",
-    "text": "Women’s wrestling is one of the fastest-growing sports in the country, and the National Association of Intercollegiate Athletics (NAIA) made history by becoming the very first collegiate governing body to grant women’s wrestling full championship sport status.\nFrom the inaugural national invitational in 2019 to the 2026 National Championships, the NAIA has provided an arena for thousands of female student-athletes to compete, lead, and excel on the collegiate stage."
-  },
-  {
-    "objectID": "about.html#what-this-website-is-about",
-    "href": "about.html#what-this-website-is-about",
-    "title": "Website Context",
-    "section": "",
-    "text": "This site was created to celebrate, preserve, and explore this groundbreaking athletic movement through data:\n\n2026 National Championship Showcase: Complete team standings, interactive weight class brackets, and detailed athlete profile cards tracking records, pins, and podium finishes.\n3,100+ All-Time Bouts Archive: A searchable historical dataset spanning six championship tournaments (2019–2026), capturing every fall, tech fall, and clutch decision.\nHonoring the Champions: Spotlighting the national champions and All-American medalists who continue to elevate collegiate women’s wrestling."
-  },
-  {
-    "objectID": "about.html#data-methodology",
-    "href": "about.html#data-methodology",
-    "title": "Website Context",
-    "section": "",
-    "text": "The data powering this archive was gathered from official championship bout logs and tournament results. The interactive site is built using R, Quarto, tidyverse, and reactable to make wrestling data accessible and engaging for fans, coaches, and athletes alike."
+    "text": "By: Sydney Martin\n\n\n\n\nAbout the Creator\nWelcome! My name is Sydney Martin. I created this project to share the importance of collegiate women’s wrestling and to inform people about this rapidly growing sport to expand public knowledge and showcase its unprecedented rise.\nAs female student-athletes continue to break barriers and push the boundaries of collegiate combat sports, having accessible data, comprehensive tournament archives, and clear visibility is essential to honoring their achievements and inspiring the next generation.\n\n\nWhy This Project Matters\n\nSharing the Importance: Highlighting the dedication, grit, and athletic excellence of female wrestlers competing at the highest collegiate levels.\nInforming & Expanding Knowledge: Providing an accessible, searchable archive covering 3,100+ bouts, team legacies, All-American placers, and rosters.\nShowcasing Explosive Growth: Documenting how NAIA women’s wrestling pioneered collegiate combat sports by becoming the first association to grant full championship status.\n\n\n\n\n\n🤼 Project Overview\n\nCreator: Sydney Martin\nProject: NAIA Women’s Wrestling Championships Archive\nCoverage: 2019–2026 National Championships\nBuilt With: R, Quarto, Tidyverse, Reactable, Plotly, Leaflet"
   },
   {
     "objectID": "growth.html",
@@ -49,17 +35,17 @@
     "text": "Why This Matters: The Importance & Rapid Growth\nWomen’s wrestling is breaking barriers across collegiate athletics. When the National Association of Intercollegiate Athletics (NAIA) became the first collegiate governing body to grant women’s wrestling full championship sport status, it ignited a nationwide movement:\n\nEmpowering Female Athletes: Women’s wrestling requires immense discipline, technical precision, and resilience, providing female student-athletes an elite collegiate arena in one of the world’s most demanding combat sports.\nExplosive National Growth: What began in 2019 as a 20-team invitational has rapidly expanded into over 40 varsity programs spanning coast to coast, fielding hundreds of collegiate competitors annually.\nPreserving Every Historic Milestone: From the inaugural pins in 2019 to the newest 2026 national champions, this archive preserves the individual legacies and team rivalries driving the sport forward."
   },
   {
-    "objectID": "index.html#data-methodology",
-    "href": "index.html#data-methodology",
-    "title": "NAIAWomen’s WrestlingChampionships",
-    "section": "Data & Methodology",
-    "text": "Data & Methodology\nThe data powering this archive was gathered from official championship bout logs and tournament results (2019–2026). Built using R, Quarto, tidyverse, and reactable, this project aims to preserve history and provide an interactive platform that demonstrates the enduring power and growth of collegiate women’s wrestling."
-  },
-  {
     "objectID": "index.html#explore-the-archive",
     "href": "index.html#explore-the-archive",
     "title": "NAIAWomen’s WrestlingChampionships",
     "section": "Explore The Archive",
     "text": "Explore The Archive\nBrowse tournament records, search individual schools, and explore the data across six championship years:\n\n\n\n👑 National Placers\nBrowse 1st through 8th place All-American podium finishers across all weight classes and tournament years.\n\n\n\n\n🏫 Team Search\nFilter programs by state or school to review national titles, All-American counts, and overall bout records.\n\n\n\n\n📈 Growth Explosion\nInteractive charts tracking the rapid rise in participating collegiate programs and national qualifiers.\n\n\n\n\n🤼 Wrestler Rosters\nSearch every competitor who stepped on the national mats, complete with school affiliation and W-L records.\n\n\n\n\n📋 Match Results\nThe comprehensive bout archive featuring round-by-round results, pin times, tech falls, and decision scores."
+  },
+  {
+    "objectID": "index.html#data-methodology",
+    "href": "index.html#data-methodology",
+    "title": "NAIAWomen’s WrestlingChampionships",
+    "section": "Data & Methodology",
+    "text": "Data & Methodology\nThe data powering this archive was gathered from official championship bout logs and tournament results (2019–2026). Built using R, Quarto, tidyverse, and reactable, this project aims to preserve history and provide an interactive platform that demonstrates the enduring power and growth of collegiate women’s wrestling."
   }
 ]

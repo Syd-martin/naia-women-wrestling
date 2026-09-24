@@ -274,3 +274,18 @@ h2 {
   line-height: 1.6;
   margin-bottom: 0;
 }
+
+/* --------------------------------------------------------------------------
+   Byline Text
+   -------------------------------------------------------------------------- */
+
+.byline-text {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--sport-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: -0.5rem;
+  margin-bottom: 1.5rem;
+}
+

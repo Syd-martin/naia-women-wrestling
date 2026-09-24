@@ -1,36 +1,37 @@
 ---
-title: "Website Context"
-subtitle: "Pioneering the Mat: The Story of NAIA Women's Wrestling"
+title: "About Sydney Martin"
 ---
+
+<div class="byline-text">By: Sydney Martin</div>
 
 ::: {.grid .mb-4}
 
-::: {.g-col-12}
-::: {.tab-content}
+::: {.g-col-12 .g-col-md-8}
 
-## The Pioneering Movement
+### About the Creator
 
-Women's wrestling is one of the fastest-growing sports in the country, and the **National Association of Intercollegiate Athletics (NAIA)** made history by becoming the very first collegiate governing body to grant women's wrestling full championship sport status. 
+Welcome! My name is **Sydney Martin**. I created this project to share the importance of collegiate women's wrestling and to inform people about this rapidly growing sport to expand public knowledge and showcase its unprecedented rise.
 
-From the inaugural national invitational in 2019 to the 2026 National Championships, the NAIA has provided an arena for thousands of female student-athletes to compete, lead, and excel on the collegiate stage.
+As female student-athletes continue to break barriers and push the boundaries of collegiate combat sports, having accessible data, comprehensive tournament archives, and clear visibility is essential to honoring their achievements and inspiring the next generation.
 
----
+### Why This Project Matters
 
-## What This Website Is About
-
-This site was created to celebrate, preserve, and explore this groundbreaking athletic movement through data:
-
-- **2026 National Championship Showcase:** Complete team standings, interactive weight class brackets, and detailed athlete profile cards tracking records, pins, and podium finishes.
-- **3,100+ All-Time Bouts Archive:** A searchable historical dataset spanning six championship tournaments (2019–2026), capturing every fall, tech fall, and clutch decision.
-- **Honoring the Champions:** Spotlighting the national champions and All-American medalists who continue to elevate collegiate women's wrestling.
-
----
-
-## Data & Methodology
-
-The data powering this archive was gathered from official championship bout logs and tournament results. The interactive site is built using **R**, **Quarto**, **tidyverse**, and **reactable** to make wrestling data accessible and engaging for fans, coaches, and athletes alike.
+- **Sharing the Importance:** Highlighting the dedication, grit, and athletic excellence of female wrestlers competing at the highest collegiate levels.
+- **Informing & Expanding Knowledge:** Providing an accessible, searchable archive covering 3,100+ bouts, team legacies, All-American placers, and rosters.
+- **Showcasing Explosive Growth:** Documenting how NAIA women's wrestling pioneered collegiate combat sports by becoming the first association to grant full championship status.
 
 :::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.stat-card}
+#### 🤼 Project Overview
+- **Creator:** Sydney Martin
+- **Project:** NAIA Women's Wrestling Championships Archive
+- **Coverage:** 2019–2026 National Championships
+- **Built With:** R, Quarto, Tidyverse, Reactable, Plotly, Leaflet
+:::
+
 :::
 
 :::
