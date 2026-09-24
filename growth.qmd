@@ -1,0 +1,122 @@
+---
+title: "📈 Growth Explosion"
+subtitle: "How NAIA women's wrestling participation surged from 2019 to 2026."
+---
+
+::: {.grid .mb-3}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.stat-card .card-blue}
+<div class="stat-num">+100%</div>
+<div class="stat-label">Program Growth</div>
+<p style="font-size: 0.85rem; color: #64748b; margin-top: 0.5rem; margin-bottom: 0;">Surged from 20 inaugural colleges in 2019 to 40 varsity programs competing nationwide.</p>
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.stat-card .card-red}
+<div class="stat-num">1st in USA</div>
+<div class="stat-label">Championship Milestone</div>
+<p style="font-size: 0.85rem; color: #64748b; margin-top: 0.5rem; margin-bottom: 0;">In 2023, NAIA became the first collegiate association in America to award full championship status.</p>
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.stat-card .card-blue}
+<div class="stat-num">1,000+</div>
+<div class="stat-label">National Athletes</div>
+<p style="font-size: 0.85rem; color: #64748b; margin-top: 0.5rem; margin-bottom: 0;">Over a thousand collegiate women wrestlers have stepped onto the national championship mats.</p>
+:::
+:::
+
+:::
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+source("_setup.R")
+
+plot_ly(growth_df, x = ~factor(year), height = 430) |>
+  add_bars(
+    y = ~Colleges,
+    name = "Colleges Fielded",
+    text = ~paste0(Colleges, " schools"),
+    textposition = "inside",
+    insidetextanchor = "middle",
+    textfont = list(color = "#ffffff", size = 12, family = "sans-serif"),
+    marker = list(
+      color = "#2563eb",
+      line = list(color = "#1d4ed8", width = 1.5)
+    ),
+    hovertemplate = "<b>Year %{x}</b><br>Colleges: %{y}<extra></extra>"
+  ) |>
+  add_lines(
+    y = ~Athletes,
+    name = "National Competitors",
+    yaxis = "y2",
+    line = list(color = "#e11d48", width = 3.5),
+    marker = list(color = "#e11d48", size = 8),
+    text = ~paste0(Athletes, " athletes"),
+    textposition = "top center",
+    textfont = list(color = "#be123c", size = 12, family = "sans-serif"),
+    mode = "lines+markers+text",
+    hovertemplate = "<b>Year %{x}</b><br>Athletes: %{y}<extra></extra>"
+  ) |>
+  layout(
+    title = list(
+      text = "<b>NAIA Women's Wrestling Participation Surge (2019–2026)</b>",
+      font = list(size = 17, color = "#0f172a", family = "Montserrat, sans-serif")
+    ),
+    xaxis = list(
+      title = "<b>Championship Tournament Year</b>",
+      tickfont = list(size = 13, color = "#1e293b"),
+      titlefont = list(size = 13, color = "#334155")
+    ),
+    yaxis = list(
+      title = "<b>Colleges Fielded (Bars)</b>",
+      titlefont = list(color = "#1d4ed8", size = 13),
+      tickfont = list(color = "#1d4ed8", size = 12),
+      range = c(0, 55),
+      gridcolor = "#f1f5f9"
+    ),
+    yaxis2 = list(
+      title = "<b>National Competitors (Line)</b>",
+      titlefont = list(color = "#e11d48", size = 13),
+      tickfont = list(color = "#e11d48", size = 12),
+      overlaying = "y",
+      side = "right",
+      range = c(0, 375),
+      showgrid = FALSE
+    ),
+    legend = list(
+      orientation = "h",
+      x = 0.5,
+      xanchor = "center",
+      y = 1.12,
+      font = list(size = 12)
+    ),
+    plot_bgcolor = "#ffffff",
+    paper_bgcolor = "#ffffff",
+    margin = list(t = 70, b = 50, l = 60, r = 60)
+  )
+```
+
+::: {.grid .mt-4}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.callout-note appearance="simple"}
+## 📋 Note on 2023 Tournament Data
+Official match-by-match bout logs and participant counts for the **2023 National Championship** were not available in the public tournament archives, so 2023 numbers are omitted from the timeline (similarly, the 2020 tournament was cancelled nationwide due to COVID-19).
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.callout-tip appearance="simple"}
+## 🏫 Why School Numbers Shifted After 2022
+Between 2022 and 2024, the tournament transitioned from an **open national invitational** to an **official championship sport**. In the open era (2019–2022), any school could enter multiple athletes, leading to an uncapped peak of 40 colleges in 2022. Beginning in 2024, NAIA instituted **strict conference qualifying tournaments** and capped brackets at 20 wrestlers per weight class, so only the top ~35–36 schools with automatic conference qualifiers advance to nationals.
+:::
+:::
+
+:::

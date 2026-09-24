@@ -1,0 +1,36 @@
+---
+title: "📋 All-Time Match Results"
+subtitle: "Search 3,100+ championship bouts from 2019 to 2026 by round, winner, method, and score."
+---
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+source("_setup.R")
+
+reactable(
+  all_matches,
+  theme = tbl_theme,
+  searchable = TRUE,
+  filterable = TRUE,
+  striped = TRUE,
+  highlight = TRUE,
+  bordered = TRUE,
+  defaultPageSize = 15,
+  showPageSizeOptions = TRUE,
+  pageSizeOptions = c(10, 15, 25, 50, 100),
+  columns = list(
+    year = colDef(name = "Year", width = 85, align = "center"),
+    weight_class = colDef(name = "Weight", width = 90, align = "center"),
+    round = colDef(name = "Round", minWidth = 140),
+    winner = colDef(name = "Winner", minWidth = 140),
+    winner_school = colDef(name = "Winner School", minWidth = 140),
+    win_method = colDef(name = "Method", width = 110, align = "center", cell = badge_win_method),
+    score = colDef(name = "Score / Time", minWidth = 100),
+    loser = colDef(name = "Loser", minWidth = 140),
+    loser_school = colDef(name = "Loser School", minWidth = 140)
+  )
+)
+```

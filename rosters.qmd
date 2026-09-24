@@ -1,0 +1,33 @@
+---
+title: "🤼 Wrestler Rosters"
+subtitle: "Search every national championship participant, their collegiate program, and their tournament record."
+---
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+source("_setup.R")
+
+reactable(
+  roster_df,
+  theme = tbl_theme,
+  searchable = TRUE,
+  filterable = TRUE,
+  striped = TRUE,
+  highlight = TRUE,
+  bordered = TRUE,
+  defaultPageSize = 15,
+  showPageSizeOptions = TRUE,
+  pageSizeOptions = c(10, 15, 25, 50, 100),
+  columns = list(
+    year = colDef(name = "Year", width = 85, align = "center"),
+    weight_class = colDef(name = "Weight", width = 90, align = "center"),
+    wrestler = colDef(name = "Wrestler", minWidth = 160),
+    school = colDef(name = "School", minWidth = 160),
+    record = colDef(name = "Record (W-L)", width = 120, align = "center"),
+    place = colDef(name = "Tournament Finish", minWidth = 150, cell = badge_place)
+  )
+)
+```

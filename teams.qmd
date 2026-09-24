@@ -1,0 +1,60 @@
+---
+title: "🏫 Team & State Search"
+subtitle: "Filter collegiate programs by state or school to see their national championship legacy."
+---
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+source("_setup.R")
+
+reactable(
+  school_legacy_table |> select(school, state, city, national_champions, all_americans, bouts_won, win_pct),
+  theme = tbl_theme,
+  searchable = TRUE,
+  filterable = TRUE,
+  striped = TRUE,
+  highlight = TRUE,
+  bordered = TRUE,
+  defaultPageSize = 15,
+  showPageSizeOptions = TRUE,
+  pageSizeOptions = c(10, 15, 25, 50),
+  columns = list(
+    school = colDef(name = "Collegiate Program", minWidth = 190),
+    state = colDef(name = "State", width = 85, align = "center", cell = badge_state),
+    city = colDef(name = "City", minWidth = 130),
+    national_champions = colDef(name = "National Titles", width = 130, align = "center", cell = badge_champ_count),
+    all_americans = colDef(name = "All-Americans", width = 130, align = "center", cell = badge_aa_count),
+    bouts_won = colDef(name = "Bouts Won", width = 110, align = "center"),
+    win_pct = colDef(name = "Win %", width = 90, align = "center")
+  ),
+  details = function(index) {
+    sch_name <- school_legacy_table$school[index]
+    sch_placers <- all_school_placers |> filter(school == sch_name) |> arrange(desc(year), place)
+    champs <- sch_placers |> filter(grepl("1st", place))
+    other_aa <- sch_placers |> filter(!grepl("1st", place))
+    
+    div(
+      style = "padding: 10px 16px; background: #f8fafc; border-left: 4px solid #38bdf8; border-radius: 4px; margin: 4px 0;",
+      if (nrow(champs) > 0) {
+        div(
+          tags$b(style = "color: #92400e;", "👑 National Champions: "),
+          paste(sprintf("%s (%s, %s lbs)", champs$wrestler, champs$year, champs$weight_class), collapse = " • ")
+        )
+      },
+      if (nrow(other_aa) > 0) {
+        div(
+          style = if (nrow(champs) > 0) "margin-top: 6px;" else "",
+          tags$b(style = "color: #334155;", "🎖️ All-Americans: "),
+          paste(sprintf("%s (%s - %s, %s lbs)", other_aa$wrestler, other_aa$place, other_aa$year, other_aa$weight_class), collapse = " • ")
+        )
+      },
+      if (nrow(sch_placers) == 0) {
+        div(style = "color: #64748b; font-style: italic;", "Emerging collegiate program / national competitor.")
+      }
+    )
+  }
+)
+```

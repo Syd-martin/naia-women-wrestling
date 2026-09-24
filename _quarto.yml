@@ -6,15 +6,20 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Statistics
-      - href: about.qmd
-        text: Website Context
+        text: Overview
+      - href: placers.qmd
+        text: National Placers
+      - href: teams.qmd
+        text: Team Search
+      - href: growth.qmd
+        text: Growth
+      - href: rosters.qmd
+        text: Rosters
+      - href: matches.qmd
+        text: Match Results
 
 format:
   html:
     theme: zephyr
     css: styles.css
     toc: true
-
-
-

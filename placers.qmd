@@ -1,0 +1,48 @@
+---
+title: "👑 National Placers (1st–8th)"
+subtitle: "Explore national champions and All-American podium finishers across all weight classes (2019–2026)."
+---
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+source("_setup.R")
+
+reactable(
+  placers_df |> select(place, wrestler, school, weight_class, year, record, medal_bout),
+  theme = tbl_theme,
+  searchable = TRUE,
+  filterable = TRUE,
+  highlight = TRUE,
+  bordered = TRUE,
+  defaultPageSize = 15,
+  showPageSizeOptions = TRUE,
+  pageSizeOptions = c(10, 15, 25, 50, 80),
+  rowStyle = \(index) {
+    if (placers_df$place_num[index] == 1) {
+      list(background = "#fffbeb", fontWeight = "600")
+    }
+  },
+  columns = list(
+    place = colDef(name = "Podium Finish", minWidth = 140, cell = badge_place),
+    wrestler = colDef(
+      name = "Wrestler",
+      minWidth = 160,
+      cell = \(value, index) {
+        if (placers_df$place_num[index] == 1) {
+          tags$span(style = "font-weight: 750; color: #0f172a;", paste0("⭐ ", value))
+        } else {
+          tags$span(value)
+        }
+      }
+    ),
+    school = colDef(name = "Collegiate Team", minWidth = 180),
+    weight_class = colDef(name = "Weight", width = 95, align = "center", format = colFormat(suffix = " lbs")),
+    year = colDef(name = "Year", width = 80, align = "center"),
+    record = colDef(name = "Tourney Record", width = 125, align = "center"),
+    medal_bout = colDef(name = "Medal Round Outcome", minWidth = 240)
+  )
+)
+```
