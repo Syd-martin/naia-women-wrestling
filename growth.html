@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>NAIA Women’s Wrestling Championships – NAIA Women's Wrestling Championships</title>
+<title>📈 Growth Explosion – NAIA Women’s Wrestling Championships</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -74,16 +74,13 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
-<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-<link href="site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
-<script src="site_libs/leaflet-1.3.1/leaflet.js"></script>
-<link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
-<script src="site_libs/proj4-2.6.2/proj4.min.js"></script>
-<script src="site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
-<link href="site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
-<script src="site_libs/leaflet-binding-2.2.3/leaflet.js"></script>
-<script src="site_libs/leaflet-providers-3.0.0/leaflet-providers.js"></script>
-<script src="site_libs/leaflet-providers-plugin-2.2.3/leaflet-providers-plugin.js"></script>
+<script src="site_libs/plotly-binding-4.12.1/plotly.js"></script>
+<script src="site_libs/typedarray-0.1/typedarray.min.js"></script>
+<script src="site_libs/jquery-3.5.1/jquery.min.js"></script>
+<link href="site_libs/crosstalk-1.2.2/css/crosstalk.min.css" rel="stylesheet">
+<script src="site_libs/crosstalk-1.2.2/js/crosstalk.min.js"></script>
+<link href="site_libs/plotly-htmlwidgets-css-2.25.2/plotly-htmlwidgets.css" rel="stylesheet">
+<script src="site_libs/plotly-main-2.25.2/plotly-latest.min.js"></script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -107,7 +104,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Overview</span></a>
   </li>  
   <li class="nav-item">
@@ -119,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Team Search</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./growth.html"> 
+    <a class="nav-link active" href="./growth.html" aria-current="page"> 
 <span class="menu-text">Growth</span></a>
   </li>  
   <li class="nav-item">
@@ -141,25 +138,16 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#the-rise-of-collegiate-womens-wrestling" id="toc-the-rise-of-collegiate-womens-wrestling" class="nav-link active" data-scroll-target="#the-rise-of-collegiate-womens-wrestling">⚡ The Rise of Collegiate Women’s Wrestling</a></li>
-  <li><a href="#why-this-matters-the-importance-rapid-growth" id="toc-why-this-matters-the-importance-rapid-growth" class="nav-link" data-scroll-target="#why-this-matters-the-importance-rapid-growth">Why This Matters: The Importance &amp; Rapid Growth</a></li>
-  <li><a href="#explore-the-archive" id="toc-explore-the-archive" class="nav-link" data-scroll-target="#explore-the-archive">Explore The Archive</a></li>
-  <li><a href="#data-methodology" id="toc-data-methodology" class="nav-link" data-scroll-target="#data-methodology">Data &amp; Methodology</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="badge-naia">NAIA</span><br><span class="title-main">Women’s Wrestling</span><br><span class="title-accent">Championships</span></h1>
-<p class="subtitle lead">Explore 1,600+ historic bouts, 50 collegiate programs nationwide, and every national podium finish (2019–2026).</p>
+<h1 class="title">📈 Growth Explosion</h1>
+<p class="subtitle lead">How NAIA women’s wrestling participation surged from 2019 to 2026.</p>
 </div>
 
 
@@ -176,103 +164,87 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="the-rise-of-collegiate-womens-wrestling" class="level3 mission-box">
-<h3 class="anchored" data-anchor-id="the-rise-of-collegiate-womens-wrestling">⚡ The Rise of Collegiate Women’s Wrestling</h3>
-<p>Women’s wrestling is surging across America, breaking barriers and redefining collegiate athletics. From 20 trailblazing programs at the inaugural 2019 invitational to more than 40 varsity squads and 1,000+ national competitors today, this archive documents every hard-fought bout, buzzer-beating pin, and historic podium finish.</p>
-</section>
-<p>From buzzer-beating pins to dominant title runs, explore the athletes and programs defining collegiate women’s wrestling. Hover or click on the map to discover schools across the nation.</p>
-<div class="cell">
-<div class="cell-output-display">
-<div id="htmlwidget-5310c242c6cf7c8bfa15" style="width:100%;height:400px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-5310c242c6cf7c8bfa15">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addProviderTiles","args":["CartoDB.Positron",null,null,{"errorTileUrl":"","noWrap":false,"detectRetina":false}]},{"method":"addCircleMarkers","args":[[33.948,42.1906,36.7437,41.6162,37.3456,47.4912,39.1172,35.495,37.4561,41.3094,41.0772,34.1856,38.6044,45.3218,32.7307,46.9142,38.6447,40.5928,38.7772,41.4394,35.772,39.2947,43.2647,37.1026,40.6247,40.8678,39.1464,32.1821,44.8872,38.9136,38.3697,46.8853,37.6839,47.0722,41.7142,33.6608,40.6067,46.8189,34.7539,33.6846,38.8475,35.6536,41.9056,33.6386,43.7144,38.2136,32.5892,38.9953,42.6681,27.385,40.9678,40.15,45.51],[-84.5167,-122.6953,-84.1566,-93.5976,-85.34220000000001,-111.2725,-93.1896,-97.54349999999999,-122.1897,-92.6468,-85.12779999999999,-101.716,-95.2636,-118.0858,-97.2882,-98.7032,-90.505,-98.3719,-95.1878,-96.4975,-91.6374,-94.908,-93.6374,-85.3086,-96.95359999999999,-97.5925,-92.7058,-82.5932,-122.9567,-94.5772,-97.64919999999999,-102.7877,-97.3592,-122.9772,-83.705,-117.9042,-122.3386,-100.8172,-79.4678,-117.8265,-91.9547,-82.2989,-84.0264,-112.1856,-98.0189,-84.55719999999999,-95.2056,-82.3789,-83.1533,-82.5594,-91.5543,-89.36669999999999,-122.6],6,null,null,{"interactive":true,"className":"","stroke":true,"color":"#1e40af","weight":1.5,"opacity":0.5,"fill":true,"fillColor":"#2563eb","fillOpacity":0.85},null,null,["<strong>Life University<\/strong><br/>Marietta, GA","<strong>Southern Oregon University<\/strong><br/>Ashland, OR","<strong>University of the Cumberlands<\/strong><br/>Williamsburg, KY","<strong>Grand View University<\/strong><br/>Des Moines, IA","<strong>Campbellsville University<\/strong><br/>Campbellsville, KY","<strong>University of Providence<\/strong><br/>Great Falls, MT","<strong>Missouri Valley College<\/strong><br/>Marshall, MO","<strong>Oklahoma City University<\/strong><br/>Oklahoma City, OK","<strong>Menlo College<\/strong><br/>Atherton, CA","<strong>William Penn University<\/strong><br/>Oskaloosa, IA","<strong>Indiana Tech<\/strong><br/>Fort Wayne, IN","<strong>Wayland Baptist University<\/strong><br/>Plainview, TX","<strong>Ottawa University<\/strong><br/>Ottawa, KS","<strong>Eastern Oregon University<\/strong><br/>La Grande, OR","<strong>Texas Wesleyan University<\/strong><br/>Fort Worth, TX","<strong>University of Jamestown<\/strong><br/>Jamestown, ND","<strong>Missouri Baptist University<\/strong><br/>St. Louis, MO","<strong>Hastings College<\/strong><br/>Hastings, NE","<strong>Baker University<\/strong><br/>Baldwin City, KS","<strong>Midland University<\/strong><br/>Fremont, NE","<strong>Lyon College<\/strong><br/>Batesville, AR","<strong>University of Saint Mary<\/strong><br/>Leavenworth, KS","<strong>Waldorf University<\/strong><br/>Forest City, IA","<strong>Lindsey Wilson College<\/strong><br/>Columbia, KY","<strong>Doane University<\/strong><br/>Crete, NE","<strong>York University<\/strong><br/>York, NE","<strong>Central Methodist University<\/strong><br/>Fayette, MO","<strong>Brewton-Parker College<\/strong><br/>Mount Vernon, GA","<strong>Corban University<\/strong><br/>Salem, OR","<strong>Avila University<\/strong><br/>Kansas City, MO","<strong>Central Christian College<\/strong><br/>McPherson, KS","<strong>Dickinson State University<\/strong><br/>Dickinson, ND","<strong>Friends University<\/strong><br/>Wichita, KS","<strong>Evergreen State College<\/strong><br/>Olympia, WA","<strong>Lourdes University<\/strong><br/>Sylvania, OH","<strong>Vanguard University<\/strong><br/>Costa Mesa, CA","<strong>Simpson University<\/strong><br/>Redding, CA","<strong>Bismarck State College<\/strong><br/>Bismarck, ND","<strong>St. Andrews University<\/strong><br/>Laurinburg, NC","<strong>Westcliff University<\/strong><br/>Irvine, CA","<strong>William Woods University<\/strong><br/>Fulton, MO","<strong>Montreat College<\/strong><br/>Montreat, NC","<strong>Siena Heights University<\/strong><br/>Adrian, MI","<strong>Arizona Christian University<\/strong><br/>Glendale, AZ","<strong>Dakota Wesleyan University<\/strong><br/>Mitchell, SD","<strong>Georgetown College<\/strong><br/>Georgetown, KY","<strong>Jarvis Christian University<\/strong><br/>Hawkins, TX","<strong>University of Rio Grande<\/strong><br/>Rio Grande, OH","<strong>Rochester Christian University<\/strong><br/>Rochester Hills, MI","<strong>New College of Florida<\/strong><br/>Sarasota, FL","<strong>Iowa Wesleyan University<\/strong><br/>Mount Pleasant, IA","<strong>Lincoln College<\/strong><br/>Lincoln, IL","<strong>Warner Pacific University<\/strong><br/>Portland, OR"],null,["Life University (Marietta, GA)","Southern Oregon University (Ashland, OR)","University of the Cumberlands (Williamsburg, KY)","Grand View University (Des Moines, IA)","Campbellsville University (Campbellsville, KY)","University of Providence (Great Falls, MT)","Missouri Valley College (Marshall, MO)","Oklahoma City University (Oklahoma City, OK)","Menlo College (Atherton, CA)","William Penn University (Oskaloosa, IA)","Indiana Tech (Fort Wayne, IN)","Wayland Baptist University (Plainview, TX)","Ottawa University (Ottawa, KS)","Eastern Oregon University (La Grande, OR)","Texas Wesleyan University (Fort Worth, TX)","University of Jamestown (Jamestown, ND)","Missouri Baptist University (St. Louis, MO)","Hastings College (Hastings, NE)","Baker University (Baldwin City, KS)","Midland University (Fremont, NE)","Lyon College (Batesville, AR)","University of Saint Mary (Leavenworth, KS)","Waldorf University (Forest City, IA)","Lindsey Wilson College (Columbia, KY)","Doane University (Crete, NE)","York University (York, NE)","Central Methodist University (Fayette, MO)","Brewton-Parker College (Mount Vernon, GA)","Corban University (Salem, OR)","Avila University (Kansas City, MO)","Central Christian College (McPherson, KS)","Dickinson State University (Dickinson, ND)","Friends University (Wichita, KS)","Evergreen State College (Olympia, WA)","Lourdes University (Sylvania, OH)","Vanguard University (Costa Mesa, CA)","Simpson University (Redding, CA)","Bismarck State College (Bismarck, ND)","St. Andrews University (Laurinburg, NC)","Westcliff University (Irvine, CA)","William Woods University (Fulton, MO)","Montreat College (Montreat, NC)","Siena Heights University (Adrian, MI)","Arizona Christian University (Glendale, AZ)","Dakota Wesleyan University (Mitchell, SD)","Georgetown College (Georgetown, KY)","Jarvis Christian University (Hawkins, TX)","University of Rio Grande (Rio Grande, OH)","Rochester Christian University (Rochester Hills, MI)","New College of Florida (Sarasota, FL)","Iowa Wesleyan University (Mount Pleasant, IA)","Lincoln College (Lincoln, IL)","Warner Pacific University (Portland, OR)"],{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"setView":[[39.5,-98.34999999999999],4,[]],"limits":{"lat":[27.385,47.4912],"lng":[-122.9772,-79.4678]}},"evals":[],"jsHooks":[]}</script>
-</div>
-</div>
-<div class="grid mb-4">
+<div class="grid mb-3">
 <div class="g-col-12 g-col-md-4">
 <div class="stat-card card-blue">
 <div class="stat-num">
-3,154
++100%
 </div>
 <div class="stat-label">
-Total Matches
+Program Growth
 </div>
+<p style="font-size: 0.85rem; color: #64748b; margin-top: 0.5rem; margin-bottom: 0;">
+Surged from 20 inaugural colleges in 2019 to 40 varsity programs competing nationwide.
+</p>
 </div>
 </div>
 <div class="g-col-12 g-col-md-4">
 <div class="stat-card card-red">
 <div class="stat-num">
-6
+1st in USA
 </div>
 <div class="stat-label">
-Tournaments (2019–2026)
+Championship Milestone
 </div>
+<p style="font-size: 0.85rem; color: #64748b; margin-top: 0.5rem; margin-bottom: 0;">
+In 2023, NAIA became the first collegiate association in America to award full championship status.
+</p>
 </div>
 </div>
 <div class="g-col-12 g-col-md-4">
 <div class="stat-card card-blue">
 <div class="stat-num">
-931
+1,000+
 </div>
 <div class="stat-label">
-Unique Wrestlers
+National Athletes
+</div>
+<p style="font-size: 0.85rem; color: #64748b; margin-top: 0.5rem; margin-bottom: 0;">
+Over a thousand collegiate women wrestlers have stepped onto the national championship mats.
+</p>
 </div>
 </div>
 </div>
+<div class="cell">
+<div class="cell-output-display">
+<div id="htmlwidget-26ebce86a490a7fb6e58" style="width:100%;height:415px;" class="plotly html-widget"></div>
+<script type="application/json" data-for="htmlwidget-26ebce86a490a7fb6e58">{"x":{"visdat":{"97db6f673250":["function () ","plotlyVisDat"]},"cur_data":"97db6f673250","attrs":{"97db6f673250":{"x":{},"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"y":{},"type":"bar","name":"Colleges Fielded","text":{},"textposition":"inside","insidetextanchor":"middle","textfont":{"color":"#ffffff","size":12,"family":"sans-serif"},"marker":{"color":"#2563eb","line":{"color":"#1d4ed8","width":1.5}},"hovertemplate":"<b>Year %{x}<\/b><br>Colleges: %{y}<extra><\/extra>","inherit":true},"97db6f673250.1":{"x":{},"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"y":{},"type":"scatter","mode":"lines","name":"National Competitors","yaxis":"y2","line":{"color":"#e11d48","width":3.5},"marker":{"color":"#e11d48","size":8},"text":{},"textposition":"top center","textfont":{"color":"#be123c","size":12,"family":"sans-serif"},"hovertemplate":"<b>Year %{x}<\/b><br>Athletes: %{y}<extra><\/extra>","inherit":true}},"layout":{"height":430,"margin":{"b":50,"l":60,"t":70,"r":60},"title":{"text":"<b>NAIA Women's Wrestling Participation Surge (2019–2026)<\/b>","font":{"size":17,"color":"#0f172a","family":"Montserrat, sans-serif"}},"xaxis":{"domain":[0,1],"automargin":true,"title":"<b>Championship Tournament Year<\/b>","tickfont":{"size":13,"color":"#1e293b"},"titlefont":{"size":13,"color":"#334155"},"type":"category","categoryorder":"array","categoryarray":["2019","2021","2022","2024","2025","2026"]},"yaxis":{"domain":[0,1],"automargin":true,"title":"<b>Colleges Fielded (Bars)<\/b>","titlefont":{"color":"#1d4ed8","size":13},"tickfont":{"color":"#1d4ed8","size":12},"range":[0,55],"gridcolor":"#f1f5f9"},"yaxis2":{"title":"<b>National Competitors (Line)<\/b>","titlefont":{"color":"#e11d48","size":13},"tickfont":{"color":"#e11d48","size":12},"overlaying":"y","side":"right","range":[0,375],"showgrid":false},"legend":{"orientation":"h","x":0.5,"xanchor":"center","y":1.1200000000000001,"font":{"size":12}},"plot_bgcolor":"#ffffff","paper_bgcolor":"#ffffff","hovermode":"closest","showlegend":true},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"x":["2019","2021","2022","2024","2025","2026"],"y":[20,32,40,36,35,36],"type":"bar","name":"Colleges Fielded","text":["20 schools","32 schools","40 schools","36 schools","35 schools","36 schools"],"textposition":["inside","inside","inside","inside","inside","inside"],"insidetextanchor":"middle","textfont":{"color":"#ffffff","size":12,"family":"sans-serif"},"marker":{"color":"#2563eb","line":{"color":"#1d4ed8","width":1.5}},"hovertemplate":["<b>Year %{x}<\/b><br>Colleges: %{y}<extra><\/extra>","<b>Year %{x}<\/b><br>Colleges: %{y}<extra><\/extra>","<b>Year %{x}<\/b><br>Colleges: %{y}<extra><\/extra>","<b>Year %{x}<\/b><br>Colleges: %{y}<extra><\/extra>","<b>Year %{x}<\/b><br>Colleges: %{y}<extra><\/extra>","<b>Year %{x}<\/b><br>Colleges: %{y}<extra><\/extra>"],"error_y":{"color":"rgba(31,119,180,1)"},"error_x":{"color":"rgba(31,119,180,1)"},"xaxis":"x","yaxis":"y","frame":null},{"x":["2019","2021","2022","2024","2025","2026"],"y":[154,260,310,200,213,210],"type":"scatter","mode":"lines+markers+text","name":"National Competitors","yaxis":"y2","line":{"color":"#e11d48","width":3.5},"marker":{"color":"#e11d48","size":8,"line":{"color":"rgba(255,127,14,1)"}},"text":["154 athletes","260 athletes","310 athletes","200 athletes","213 athletes","210 athletes"],"textposition":["top center","top center","top center","top center","top center","top center"],"textfont":{"color":"#be123c","size":12,"family":"sans-serif"},"hovertemplate":["<b>Year %{x}<\/b><br>Athletes: %{y}<extra><\/extra>","<b>Year %{x}<\/b><br>Athletes: %{y}<extra><\/extra>","<b>Year %{x}<\/b><br>Athletes: %{y}<extra><\/extra>","<b>Year %{x}<\/b><br>Athletes: %{y}<extra><\/extra>","<b>Year %{x}<\/b><br>Athletes: %{y}<extra><\/extra>","<b>Year %{x}<\/b><br>Athletes: %{y}<extra><\/extra>"],"error_y":{"color":"rgba(255,127,14,1)"},"error_x":{"color":"rgba(255,127,14,1)"},"xaxis":"x","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
 </div>
-<hr>
-<section id="why-this-matters-the-importance-rapid-growth" class="level2">
-<h2 class="anchored" data-anchor-id="why-this-matters-the-importance-rapid-growth">Why This Matters: The Importance &amp; Rapid Growth</h2>
-<p>Women’s wrestling is breaking barriers across collegiate athletics. When the <strong>National Association of Intercollegiate Athletics (NAIA)</strong> became the first collegiate governing body to grant women’s wrestling full championship sport status, it ignited a nationwide movement:</p>
-<ul>
-<li><strong>Empowering Female Athletes:</strong> Women’s wrestling requires immense discipline, technical precision, and resilience, providing female student-athletes an elite collegiate arena in one of the world’s most demanding combat sports.</li>
-<li><strong>Explosive National Growth:</strong> What began in 2019 as a 20-team invitational has rapidly expanded into over 40 varsity programs spanning coast to coast, fielding hundreds of collegiate competitors annually.</li>
-<li><strong>Preserving Every Historic Milestone:</strong> From the inaugural pins in 2019 to the newest 2026 national champions, this archive preserves the individual legacies and team rivalries driving the sport forward.</li>
-</ul>
-<hr>
-</section>
-<section id="explore-the-archive" class="level2">
-<h2 class="anchored" data-anchor-id="explore-the-archive">Explore The Archive</h2>
-<p>Browse tournament records, search individual schools, and explore the data across six championship years:</p>
-<div class="grid mt-3 mb-4">
-<div class="g-col-12 g-col-md-4">
-<section id="national-placers" class="level4 stat-card">
-<h4 class="anchored" data-anchor-id="national-placers">👑 <a href="./placers.html">National Placers</a></h4>
-<p>Browse 1st through 8th place All-American podium finishers across all weight classes and tournament years.</p>
-</section>
 </div>
-<div class="g-col-12 g-col-md-4">
-<section id="team-search" class="level4 stat-card">
-<h4 class="anchored" data-anchor-id="team-search">🏫 <a href="./teams.html">Team Search</a></h4>
-<p>Filter programs by state or school to review national titles, All-American counts, and overall bout records.</p>
-</section>
+<div class="grid mt-4">
+<div class="g-col-12 g-col-md-6">
+<div class="callout callout-style-simple callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<div class="g-col-12 g-col-md-4">
-<section id="growth-explosion" class="level4 stat-card">
-<h4 class="anchored" data-anchor-id="growth-explosion">📈 <a href="./growth.html">Growth Explosion</a></h4>
-<p>Interactive charts tracking the rapid rise in participating collegiate programs and national qualifiers.</p>
-</section>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>📋 Note on 2023 Tournament Data
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Official match-by-match bout logs and participant counts for the <strong>2023 National Championship</strong> were not available in the public tournament archives, so 2023 numbers are omitted from the timeline (similarly, the 2020 tournament was cancelled nationwide due to COVID-19).</p>
+</div>
+</div>
 </div>
 <div class="g-col-12 g-col-md-6">
-<section id="wrestler-rosters" class="level4 stat-card">
-<h4 class="anchored" data-anchor-id="wrestler-rosters">🤼 <a href="./rosters.html">Wrestler Rosters</a></h4>
-<p>Search every competitor who stepped on the national mats, complete with school affiliation and W-L records.</p>
-</section>
+<div class="callout callout-style-simple callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<div class="g-col-12 g-col-md-6">
-<section id="match-results" class="level4 stat-card">
-<h4 class="anchored" data-anchor-id="match-results">📋 <a href="./matches.html">Match Results</a></h4>
-<p>The comprehensive bout archive featuring round-by-round results, pin times, tech falls, and decision scores.</p>
-</section>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>🏫 Why School Numbers Shifted After 2022
 </div>
 </div>
-<hr>
-</section>
-<section id="data-methodology" class="level2">
-<h2 class="anchored" data-anchor-id="data-methodology">Data &amp; Methodology</h2>
-<p>The data powering this archive was gathered from official championship bout logs and tournament results (2019–2026). Built using <strong>R</strong>, <strong>Quarto</strong>, <strong>tidyverse</strong>, and <strong>reactable</strong>, this project aims to preserve history and provide an interactive platform that demonstrates the enduring power and growth of collegiate women’s wrestling.</p>
+<div class="callout-body-container callout-body">
+<p>Between 2022 and 2024, the tournament transitioned from an <strong>open national invitational</strong> to an <strong>official championship sport</strong>. In the open era (2019–2022), any school could enter multiple athletes, leading to an uncapped peak of 40 colleges in 2022. Beginning in 2024, NAIA instituted <strong>strict conference qualifying tournaments</strong> and capped brackets at 20 wrestlers per weight class, so only the top ~35–36 schools with automatic conference qualifiers advance to nationals.</p>
+</div>
+</div>
+</div>
+</div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
