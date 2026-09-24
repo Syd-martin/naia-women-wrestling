@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NAIAWomen’s WrestlingChampionships",
+    "section": "",
+    "text": "From buzzer-beating pins to dominant title runs, explore the athletes and programs defining collegiate women’s wrestling. Hover or click on the map to discover schools across the nation.\n\n\n\n\n\n\n\n\n\n\n3,154\n\n\nTotal Matches\n\n\n\n\n\n\n6\n\n\nTournaments (2019–2026)\n\n\n\n\n\n\n931\n\n\nUnique Wrestlers\n\n\n\n\n\n👑 National Placers (1st–8th)🏫 Team / State Search📈 Growth ExplosionWrestler RostersMatch Results\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n+100%\n\n\nProgram Growth\n\n\nSurged from 20 inaugural colleges in 2019 to 40 varsity programs competing nationwide.\n\n\n\n\n\n\n1st in USA\n\n\nChampionship Milestone\n\n\nIn 2023, NAIA became the first collegiate association in America to award full championship status.\n\n\n\n\n\n\n1,000+\n\n\nNational Athletes\n\n\nOver a thousand collegiate women wrestlers have stepped onto the national championship mats.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote📋 Note on 2023 Tournament Data\n\n\n\nOfficial match-by-match bout logs and participant counts for the 2023 National Championship were not available in the public tournament archives, so 2023 numbers are omitted from the timeline (similarly, the 2020 tournament was cancelled nationwide due to COVID-19).\n\n\n\n\n\n\n\n\n\n\nTip🏫 Why School Numbers Shifted After 2022\n\n\n\nBetween 2022 and 2024, the tournament transitioned from an open national invitational to an official championship sport. In the open era (2019–2022), any school could enter multiple athletes, leading to an uncapped peak of 40 colleges in 2022. Beginning in 2024, NAIA instituted strict conference qualifying tournaments and capped brackets at 20 wrestlers per weight class, so only the top ~35–36 schools with automatic conference qualifiers advance to nationals."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Website Context",
+    "section": "",
+    "text": "Women’s wrestling is one of the fastest-growing sports in the country, and the National Association of Intercollegiate Athletics (NAIA) made history by becoming the very first collegiate governing body to grant women’s wrestling full championship sport status.\nFrom the inaugural national invitational in 2019 to the 2026 National Championships, the NAIA has provided an arena for thousands of female student-athletes to compete, lead, and excel on the collegiate stage.\n\n\n\n\nThis site was created to celebrate, preserve, and explore this groundbreaking athletic movement through data:\n\n2026 National Championship Showcase: Complete team standings, interactive weight class brackets, and detailed athlete profile cards tracking records, pins, and podium finishes.\n3,100+ All-Time Bouts Archive: A searchable historical dataset spanning six championship tournaments (2019–2026), capturing every fall, tech fall, and clutch decision.\nHonoring the Champions: Spotlighting the national champions and All-American medalists who continue to elevate collegiate women’s wrestling.\n\n\n\n\n\nThe data powering this archive was gathered from official championship bout logs and tournament results. The interactive site is built using R, Quarto, tidyverse, and reactable to make wrestling data accessible and engaging for fans, coaches, and athletes alike."
+  },
+  {
+    "objectID": "about.html#the-pioneering-movement",
+    "href": "about.html#the-pioneering-movement",
+    "title": "Website Context",
+    "section": "",
+    "text": "Women’s wrestling is one of the fastest-growing sports in the country, and the National Association of Intercollegiate Athletics (NAIA) made history by becoming the very first collegiate governing body to grant women’s wrestling full championship sport status.\nFrom the inaugural national invitational in 2019 to the 2026 National Championships, the NAIA has provided an arena for thousands of female student-athletes to compete, lead, and excel on the collegiate stage."
+  },
+  {
+    "objectID": "about.html#what-this-website-is-about",
+    "href": "about.html#what-this-website-is-about",
+    "title": "Website Context",
+    "section": "",
+    "text": "This site was created to celebrate, preserve, and explore this groundbreaking athletic movement through data:\n\n2026 National Championship Showcase: Complete team standings, interactive weight class brackets, and detailed athlete profile cards tracking records, pins, and podium finishes.\n3,100+ All-Time Bouts Archive: A searchable historical dataset spanning six championship tournaments (2019–2026), capturing every fall, tech fall, and clutch decision.\nHonoring the Champions: Spotlighting the national champions and All-American medalists who continue to elevate collegiate women’s wrestling."
+  },
+  {
+    "objectID": "about.html#data-methodology",
+    "href": "about.html#data-methodology",
+    "title": "Website Context",
+    "section": "",
+    "text": "The data powering this archive was gathered from official championship bout logs and tournament results. The interactive site is built using R, Quarto, tidyverse, and reactable to make wrestling data accessible and engaging for fans, coaches, and athletes alike."
+  }
+]
