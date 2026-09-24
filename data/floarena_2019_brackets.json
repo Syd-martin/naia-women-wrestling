@@ -1,0 +1,1688 @@
+{
+  "status": "SUCCESS",
+  "response": {
+    "guid": "5ecd0f3d-645e-3337-4eee-aa90aa688ac3",
+    "name": "2019 NAIA Women's National Invitaional",
+    "divisions": [
+      {
+        "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+        "name": "NAIA",
+        "sequence": 2,
+        "isDual": false,
+        "divisionProfile": {
+          "guid": "6e59959d-8208-4b66-a6ba-19777d7783c2"
+        },
+        "maskSeeds": false,
+        "showSeedsTo": null,
+        "hideByes": false,
+        "measurementUnit": "lbs",
+        "weightClasses": [
+          {
+            "guid": "0681f9ed-5334-484d-8d22-f994ef98790f",
+            "name": "101",
+            "boutPools": [
+              {
+                "guid": "5c54c936-420a-4849-bb22-9ff7d426e283",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "2bf155ed-50b1-49eb-9987-f8a30eba9fd6",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "ccc4ab15-2187-4211-ab48-428ad00a3b38",
+                    "wrestler": {
+                      "guid": "7f6f8f82-270b-4262-9d03-ff8202eaa368",
+                      "firstName": "Asia",
+                      "lastName": "Ray",
+                      "team": {
+                        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+                        "name": "Wayland Baptist University W",
+                        "abbreviation": "WBU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "3fe56018-47ba-47a6-80b3-e9fe4e8a5437"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "db9fb5ec-9ee6-4f89-b33e-96ef93d0bf2d",
+                    "wrestler": {
+                      "guid": "e1e51ea4-38ba-4747-948e-776b6bfcd6cb",
+                      "firstName": "Nina",
+                      "lastName": "Pham",
+                      "team": {
+                        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+                        "name": "Wayland Baptist University W",
+                        "abbreviation": "WBU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "6148b484-c3b4-4c8d-978b-9449099d4fe1"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "db472aff-e2d8-426f-abbe-3902c78168cc",
+                    "wrestler": {
+                      "guid": "250e3d6c-0723-470b-84fa-d4adb3c6dfa5",
+                      "firstName": "Junnette",
+                      "lastName": "Caldera",
+                      "team": {
+                        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+                        "name": "University of Jamestown",
+                        "abbreviation": "UJ",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": "818452c7-7f6b-4d02-9771-5ca9f51370a1"
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "cf3458eb-fa15-46b4-91e2-6a3baaa2e4e3",
+                    "wrestler": {
+                      "guid": "e45477d5-0ab7-4d60-b0c0-8603198d2703",
+                      "firstName": "Hiba",
+                      "lastName": "Salem",
+                      "team": {
+                        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+                        "name": "Menlo",
+                        "abbreviation": "MWC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": "d8b547da-19f4-4daf-867f-e920b9a1db88"
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "c4687fe3-0106-4047-b1ae-b8978270ad53",
+                    "wrestler": {
+                      "guid": "59202547-e085-4f31-b17a-dd9b5bc47477",
+                      "firstName": "Jessica",
+                      "lastName": "Rodriguez",
+                      "team": {
+                        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+                        "name": "University of the Cumberlands",
+                        "abbreviation": "UC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": "9d5d68a4-6874-4180-b57c-7692fdcfc040"
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "35f313ef-3d03-47b7-83b4-12fd84af7b4d",
+                    "wrestler": {
+                      "guid": "87f93359-f218-443a-8cc9-fe6dfda3836d",
+                      "firstName": "Kassidy",
+                      "lastName": "Ramirez",
+                      "team": {
+                        "guid": "189dbb25-a528-4e46-8ca0-127dd389b6ac",
+                        "name": "Lyon College",
+                        "abbreviation": "LC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "67ed8175-13f9-4b5b-9e21-27ec6f6efd6a"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "1e3a055e-0611-4b0f-b40a-48a4e0793a78",
+                    "wrestler": {
+                      "guid": "2dc07dfc-78fc-4175-8de5-11387f5208b7",
+                      "firstName": "Faye",
+                      "lastName": "Cherrier",
+                      "team": {
+                        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+                        "name": "Life University W",
+                        "abbreviation": "LIFE",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "399c319d-85ba-4d91-a2a2-00d7db4fb09b"
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "fdc23869-99e7-4ec6-8d9c-5c96fc3248d0",
+                    "wrestler": {
+                      "guid": "b44f308b-4369-47dd-9aee-eec9f8ccb4f0",
+                      "firstName": "Amber",
+                      "lastName": "Garriga",
+                      "team": {
+                        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+                        "name": "Life University W",
+                        "abbreviation": "LIFE",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 6,
+                      "identityPersonGuid": "0e79c43e-3905-45e6-a3e8-4dcd287503ae"
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 1,
+            "divisionGuid": "09752b69-04b4-4b74-af7c-13e53766ebf8"
+          },
+          {
+            "guid": "d173a105-e8a4-4e7a-a17e-83e37fa00546",
+            "name": "109",
+            "boutPools": [
+              {
+                "guid": "96f440f3-8d0d-4bdb-9c42-0382de917dce",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "2bf155ed-50b1-49eb-9987-f8a30eba9fd6",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "72734873-cdec-4ade-808c-d8a6006cc5fd",
+                    "wrestler": {
+                      "guid": "0e459529-d352-4401-a436-bd3916916dd6",
+                      "firstName": "Alleida",
+                      "lastName": "Martinez",
+                      "team": {
+                        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+                        "name": "Menlo",
+                        "abbreviation": "MWC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "aa614295-c165-401f-880f-c8e744e1ac84"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "3cd50346-f149-432e-aee3-71da2b841b2b",
+                    "wrestler": {
+                      "guid": "62a6e880-bbd2-4744-b1b0-f98774a59ac4",
+                      "firstName": "McKayla",
+                      "lastName": "Campbell",
+                      "team": {
+                        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+                        "name": "Campbellsville University W",
+                        "abbreviation": "CU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "acaff9d1-6363-48dc-94a4-a034eb39177c"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "ee0e22d4-5bd2-42d4-b6c9-057ba756c4a3",
+                    "wrestler": {
+                      "guid": "04161d61-5560-4bbd-8c15-aa209e0b025d",
+                      "firstName": "Tyesha",
+                      "lastName": "Topps",
+                      "team": {
+                        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+                        "name": "Life University W",
+                        "abbreviation": "LIFE",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": "07e162e6-bd7c-4aa6-ac8b-24ac71a8d374"
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "066eb210-d9ce-4445-ba04-52427cb0c99d",
+                    "wrestler": {
+                      "guid": "8cc04890-9f8e-4ea8-9ae6-5eb354aa90d8",
+                      "firstName": "Raven",
+                      "lastName": "Guidry",
+                      "team": {
+                        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+                        "name": "Oklahoma City University",
+                        "abbreviation": "OKCU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": "9f135d86-1aef-47c6-b3bf-70363759faef"
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "0d56cbe3-dd49-4675-8a10-83ad800a5c5c",
+                    "wrestler": {
+                      "guid": "d6495ef3-bac6-4b29-af03-99495ef78764",
+                      "firstName": "Brianna",
+                      "lastName": "Ribucan-Leong",
+                      "team": {
+                        "guid": "189dbb25-a528-4e46-8ca0-127dd389b6ac",
+                        "name": "Lyon College",
+                        "abbreviation": "LC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": "d3b0ee63-121d-4738-8a8c-801a2a19920b"
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "f4e67846-7489-42cd-8f62-f30fa2555699",
+                    "wrestler": {
+                      "guid": "ece9db19-0205-4ab6-bfdb-68dbc27ea7c2",
+                      "firstName": "Cassidy",
+                      "lastName": "Freeman",
+                      "team": {
+                        "guid": "0dd651a0-c1d5-4e28-9ffd-98bffc9a5dd0",
+                        "name": "Eastern Oregon University",
+                        "abbreviation": "EOU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "16590f38-926e-4d4d-9a09-4524a20a93b5"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "dd0fdd0e-5833-4daa-8dd8-09c5f725155f",
+                    "wrestler": {
+                      "guid": "3200d79b-714e-4b14-803a-fe2650effb1e",
+                      "firstName": "Diana",
+                      "lastName": "Leyva",
+                      "team": {
+                        "guid": "32461529-2bd7-489b-89b4-d69304dd56e1",
+                        "name": "Waldorf University",
+                        "abbreviation": "WU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "6d377120-879c-4a0c-a8c2-38d902463908"
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "10a31614-1758-4c1b-bf64-1a6864de4740",
+                    "wrestler": {
+                      "guid": "d68c1964-52f7-4977-ace6-519508fbd516",
+                      "firstName": "Alessia",
+                      "lastName": "Cokeley",
+                      "team": {
+                        "guid": "aa53b12f-f264-4159-a96d-c1a1a6fb4a74",
+                        "name": "Ottawa University W",
+                        "abbreviation": "OU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "0327d0a1-5bfc-4a35-a0f0-641eaeb94e70"
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 2,
+            "divisionGuid": "09752b69-04b4-4b74-af7c-13e53766ebf8"
+          },
+          {
+            "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+            "name": "116",
+            "boutPools": [
+              {
+                "guid": "9dc11b34-87da-435c-9b32-c89ce60addc6",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "2bf155ed-50b1-49eb-9987-f8a30eba9fd6",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "d90a849d-6ace-4522-9a69-751ba7db4933",
+                    "wrestler": {
+                      "guid": "20efbe27-f9bf-432d-8092-d5d14226a5c7",
+                      "firstName": "Jathiya",
+                      "lastName": "Isaac",
+                      "team": {
+                        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+                        "name": "Wayland Baptist University W",
+                        "abbreviation": "WBU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "d009d18f-2507-4c9e-8e18-feed1be0b3a3"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "413cc424-1c6d-4c28-ba3a-2c8a3a85c61b",
+                    "wrestler": {
+                      "guid": "2fe9c143-0959-4784-b230-a7f9eadc288d",
+                      "firstName": "Gracie",
+                      "lastName": "Figueroa",
+                      "team": {
+                        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+                        "name": "Menlo",
+                        "abbreviation": "MWC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "7ad9978d-a325-45f3-ba82-0ae9f4c19883"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "6e3feb13-5de9-455b-80ac-3d337aa13bcc",
+                    "wrestler": {
+                      "guid": "1804ca67-afbf-4426-8acd-5b3bc0069dbf",
+                      "firstName": "Cassidy",
+                      "lastName": "Jasperson",
+                      "team": {
+                        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+                        "name": "Oklahoma City University",
+                        "abbreviation": "OKCU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": "114a37b8-4a5f-4482-8b1d-2b2eede6e0cc"
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "74590a82-f9e0-4a12-8f42-6cd8e25e0f96",
+                    "wrestler": {
+                      "guid": "8a296e2f-0609-418d-8c98-88b7a57daf07",
+                      "firstName": "Madison",
+                      "lastName": "Angelito",
+                      "team": {
+                        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+                        "name": "University of the Cumberlands",
+                        "abbreviation": "UC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": "f0ae6c37-4ee3-40aa-9381-1dfc72cd7e44"
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "645be066-e17d-4f82-9816-df09873641e3",
+                    "wrestler": {
+                      "guid": "d77e303d-4cf9-4f4b-bffd-0bf9878a97ec",
+                      "firstName": "Glory",
+                      "lastName": "Konecny",
+                      "team": {
+                        "guid": "7f613043-a5bf-4bfc-8884-80369cea0073",
+                        "name": "Southern Oregon",
+                        "abbreviation": "SO",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "06d69f6a-0ee9-4df7-8738-1b48db3b5e28"
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "dcca5ddc-809c-4ae7-b1ab-91dda46c2bb5",
+                    "wrestler": {
+                      "guid": "a453cdb7-117c-4468-8c61-e154c7a8a85d",
+                      "firstName": "Taryn",
+                      "lastName": "Ichimura",
+                      "team": {
+                        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+                        "name": "Menlo",
+                        "abbreviation": "MWC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 7,
+                      "identityPersonGuid": "2a31a3d7-fab9-4bf1-987b-ce9bedb71856"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "ab44e9e3-e9da-4f21-9c13-b80722e8808a",
+                    "wrestler": {
+                      "guid": "13dca01a-f255-4734-b0c6-c1957847fdfa",
+                      "firstName": "Chelsea",
+                      "lastName": "Dionisio",
+                      "team": {
+                        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+                        "name": "University of Jamestown",
+                        "abbreviation": "UJ",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 6,
+                      "identityPersonGuid": "5d4a475e-fabc-4904-8bef-4996bfcf2d26"
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "81df255a-1e63-41df-bb91-485f99bfd597",
+                    "wrestler": {
+                      "guid": "87b5d837-ca24-4344-9eaa-cfc3e72b2eff",
+                      "firstName": "Jamayia",
+                      "lastName": "Blackston",
+                      "team": {
+                        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+                        "name": "University of Jamestown",
+                        "abbreviation": "UJ",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 8,
+                      "identityPersonGuid": "df80b2df-adb3-4cc9-ba18-3179c554d0ee"
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 3,
+            "divisionGuid": "09752b69-04b4-4b74-af7c-13e53766ebf8"
+          },
+          {
+            "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+            "name": "123",
+            "boutPools": [
+              {
+                "guid": "5b7b6768-667a-4203-ab57-ffe0d11f4240",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "2bf155ed-50b1-49eb-9987-f8a30eba9fd6",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "5f42c93c-f49f-44b9-a2a6-a8fb1acf1fb0",
+                    "wrestler": {
+                      "guid": "7f24f6cb-c708-4e57-b347-2593869ce614",
+                      "firstName": "Tiana",
+                      "lastName": "Jackson",
+                      "team": {
+                        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+                        "name": "Menlo",
+                        "abbreviation": "MWC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": "7da395dd-6631-4bf2-942e-b01ea7aed85c"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "5497ef6a-f9bb-4ceb-b1cc-1357fdc4ed08",
+                    "wrestler": {
+                      "guid": "e1e8a115-663e-4f83-a139-21728b0abe32",
+                      "firstName": "Koral",
+                      "lastName": "Sugiyama",
+                      "team": {
+                        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+                        "name": "Campbellsville University W",
+                        "abbreviation": "CU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "cfe08429-d9d3-4e02-a183-45567f76fde3"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "86ae4471-e6f9-4711-83a0-64a635683fbc",
+                    "wrestler": {
+                      "guid": "644aacfb-84f8-40c4-9b9c-206aed2d914a",
+                      "firstName": "Dajan",
+                      "lastName": "Treder",
+                      "team": {
+                        "guid": "7883104d-09e3-45a3-84c4-ba983b3625f8",
+                        "name": "Providence",
+                        "abbreviation": "PROV",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "66ab45e0-04ae-44bf-8846-6f582d4c011d",
+                    "wrestler": {
+                      "guid": "a6cd56dd-86c5-49f0-98b6-49f98810d848",
+                      "firstName": "Macy",
+                      "lastName": "Higa",
+                      "team": {
+                        "guid": "0dd651a0-c1d5-4e28-9ffd-98bffc9a5dd0",
+                        "name": "Eastern Oregon University",
+                        "abbreviation": "EOU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "c78e05db-b910-42c6-a3c1-d5c8f6ccb487"
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "782e5832-5e01-45e3-b6c0-b2b4f4b238c1",
+                    "wrestler": {
+                      "guid": "fd2bff7a-a376-4f14-a8c8-e96553b90d53",
+                      "firstName": "Alanah",
+                      "lastName": "Vetterick",
+                      "team": {
+                        "guid": "fce508e3-e49e-4fdd-859a-ac7a20792507",
+                        "name": "Midland University",
+                        "abbreviation": "MU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "58494a29-6e2f-4393-8338-967e0e081360"
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "01128113-918b-4226-a42e-6453af523189",
+                    "wrestler": {
+                      "guid": "b2be29ba-b433-4422-8382-6d18e6ea28d5",
+                      "firstName": "Victoria",
+                      "lastName": "Norris",
+                      "team": {
+                        "guid": "aa53b12f-f264-4159-a96d-c1a1a6fb4a74",
+                        "name": "Ottawa University W",
+                        "abbreviation": "OU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 8,
+                      "identityPersonGuid": "2f7ee695-dc2a-4b71-8f7f-caef883fe9e9"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "5e3dde1d-671e-42ca-8b78-3957854f18a2",
+                    "wrestler": {
+                      "guid": "e2a48c15-8498-41ed-8180-fa92227eb864",
+                      "firstName": "Arianna",
+                      "lastName": "Marrufo",
+                      "team": {
+                        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+                        "name": "University of Jamestown",
+                        "abbreviation": "UJ",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "d9e60d66-ef53-4b38-b4cf-24ff5f72c8ec"
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "c677abff-55e8-40ca-aa20-9b0c615d9d71",
+                    "wrestler": {
+                      "guid": "ab60fe8a-ee1c-4cba-9bcc-8f8ec4edc22f",
+                      "firstName": "Daniela",
+                      "lastName": "Flores",
+                      "team": {
+                        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+                        "name": "Oklahoma City University",
+                        "abbreviation": "OKCU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 7,
+                      "identityPersonGuid": "5789a9a9-93d3-4a5b-a29f-83e604932264"
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 4,
+            "divisionGuid": "09752b69-04b4-4b74-af7c-13e53766ebf8"
+          },
+          {
+            "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+            "name": "130",
+            "boutPools": [
+              {
+                "guid": "025be125-225a-4b1b-8d20-810c55294ed0",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "2bf155ed-50b1-49eb-9987-f8a30eba9fd6",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "16c248c0-4366-4f35-baac-51c47a34da6f",
+                    "wrestler": {
+                      "guid": "216407dd-a9f5-4475-8356-0f7a708a0fac",
+                      "firstName": "Andribeth",
+                      "lastName": "Rivera",
+                      "team": {
+                        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+                        "name": "Campbellsville University W",
+                        "abbreviation": "CU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "c08b9ef6-c884-454f-b3d9-11d1248a911a"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "9b311473-0816-4e41-9d67-4f5489d26855",
+                    "wrestler": {
+                      "guid": "cbe33a6d-86b5-4d9d-8da4-f09b894f3c41",
+                      "firstName": "Cara",
+                      "lastName": "Romeike",
+                      "team": {
+                        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+                        "name": "University of Jamestown",
+                        "abbreviation": "UJ",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "8ce0f974-e776-473f-aa1e-c78f8fe7c08c"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "06497912-2eb0-4dff-accd-4d106f0964d2",
+                    "wrestler": {
+                      "guid": "399a382e-869e-4ef1-8d5f-378d130a1cf9",
+                      "firstName": "Sydney",
+                      "lastName": "Freund",
+                      "team": {
+                        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+                        "name": "Oklahoma City University",
+                        "abbreviation": "OKCU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "a8d81d38-c8b2-4971-ab9f-9aea2a2d476d"
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "676ab3cb-6986-4aaa-b850-78e59118c0b9",
+                    "wrestler": {
+                      "guid": "133dc432-e5b2-4e42-854c-888ec9833b68",
+                      "firstName": "Anesia",
+                      "lastName": "Ramirez",
+                      "team": {
+                        "guid": "7f613043-a5bf-4bfc-8884-80369cea0073",
+                        "name": "Southern Oregon",
+                        "abbreviation": "SO",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": "a9335cc9-0c24-4e70-b9d3-73355243b068"
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "0f1d3d8e-2713-46d0-9a91-74027239073d",
+                    "wrestler": {
+                      "guid": "b3e82923-3f4e-4b72-beba-ddc46e2f96e4",
+                      "firstName": "Julissa",
+                      "lastName": "Taitano",
+                      "team": {
+                        "guid": "7f613043-a5bf-4bfc-8884-80369cea0073",
+                        "name": "Southern Oregon",
+                        "abbreviation": "SO",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": "965c9916-02be-4c19-a512-a7f75f287884"
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "4bf1c7b1-7de0-4c2d-acbc-22cbeb37c3bc",
+                    "wrestler": {
+                      "guid": "26f75118-b08e-407f-86c2-ae9aad2265bf",
+                      "firstName": "Jocelyn",
+                      "lastName": "Murphy",
+                      "team": {
+                        "guid": "ec0073e2-4288-4842-b370-7095f15bfb33",
+                        "name": "Missouri Valley College",
+                        "abbreviation": null,
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 6,
+                      "identityPersonGuid": "49e1f759-429f-4b6a-ac2d-4bb066b1eaf3"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "690e1355-9480-4c00-98dc-b1a5451e9bf5",
+                    "wrestler": {
+                      "guid": "1e99c286-9d73-4b75-b70f-46367553dc4c",
+                      "firstName": "Breannah",
+                      "lastName": "Duduoit-Vasquez",
+                      "team": {
+                        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+                        "name": "Wayland Baptist University W",
+                        "abbreviation": "WBU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "785cf4d4-3d7e-4e65-9171-e00cda2e2bd5",
+                    "wrestler": {
+                      "guid": "1f28edbe-009f-4708-bce2-4fa7b377f393",
+                      "firstName": "Aysia",
+                      "lastName": "Cortez",
+                      "team": {
+                        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+                        "name": "Life University W",
+                        "abbreviation": "LIFE",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "972aebda-7dc5-4297-b7ea-ac93b3817866"
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 5,
+            "divisionGuid": "09752b69-04b4-4b74-af7c-13e53766ebf8"
+          },
+          {
+            "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+            "name": "136",
+            "boutPools": [
+              {
+                "guid": "ec9b41bd-2968-4491-95ca-0c8f9fcbbd81",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "2bf155ed-50b1-49eb-9987-f8a30eba9fd6",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "232a547d-1fce-42f7-b6a8-07f1f2911ac5",
+                    "wrestler": {
+                      "guid": "5e2aa806-d417-4568-ad3b-ab27819dca73",
+                      "firstName": "Solin",
+                      "lastName": "Piearcy",
+                      "team": {
+                        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+                        "name": "Menlo",
+                        "abbreviation": "MWC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "670ed5e7-e15a-41ff-8ac4-2599bcbaec19"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "0a47c3a2-fd13-4590-93c1-5b511471e3fa",
+                    "wrestler": {
+                      "guid": "95f8a38f-6fe9-40a6-9953-4de517cfb58e",
+                      "firstName": "Erica",
+                      "lastName": "Sotelo",
+                      "team": {
+                        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+                        "name": "Life University W",
+                        "abbreviation": "LIFE",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": "a9e7cb13-8246-42c4-b1ce-6915ac2f33c7"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "b6deb86c-934a-4b56-82c6-371bc89029a3",
+                    "wrestler": {
+                      "guid": "c3e2246c-ca13-4dc6-b85f-7e299115e5b5",
+                      "firstName": "Destiny",
+                      "lastName": "Lyng",
+                      "team": {
+                        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+                        "name": "Oklahoma City University",
+                        "abbreviation": "OKCU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": "3e6862c3-d1a7-4333-b6f6-bcf7da0ae6d0"
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "3a7d0ed4-4df5-473f-9916-3de6ddb6724f",
+                    "wrestler": {
+                      "guid": "95fe6099-8748-4801-bdb5-8abe50a00e29",
+                      "firstName": "Bridgette",
+                      "lastName": "Duty",
+                      "team": {
+                        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+                        "name": "University of the Cumberlands",
+                        "abbreviation": "UC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": "cb395fd1-3c45-4de1-a91c-b14d6e10d721"
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "16e4c79c-6987-47e5-a13f-927183938d6a",
+                    "wrestler": {
+                      "guid": "c5d0c6ba-57ed-41b6-922f-010b718a3588",
+                      "firstName": "Akina",
+                      "lastName": "Yamada",
+                      "team": {
+                        "guid": "32461529-2bd7-489b-89b4-d69304dd56e1",
+                        "name": "Waldorf University",
+                        "abbreviation": "WU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "690e39c3-c1d8-4db3-ad8a-4ea2a6294b13"
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "e291932d-dc55-4b82-ba10-bc2574de45bc",
+                    "wrestler": {
+                      "guid": "6e6936a2-7fbd-46cd-97af-eca851cb3420",
+                      "firstName": "Elissa",
+                      "lastName": "Douglass",
+                      "team": {
+                        "guid": "189dbb25-a528-4e46-8ca0-127dd389b6ac",
+                        "name": "Lyon College",
+                        "abbreviation": "LC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 7,
+                      "identityPersonGuid": "e32d555d-dba9-45da-9fcf-31565e2366a8"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "05cd3ecd-9b4e-456f-9b0b-a69af1b1abb8",
+                    "wrestler": {
+                      "guid": "d5df7a57-936b-4899-9c7e-b897642472c8",
+                      "firstName": "Brittany",
+                      "lastName": "Woods-Orrison",
+                      "team": {
+                        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+                        "name": "Menlo",
+                        "abbreviation": "MWC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 6,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "4f9f1a1e-0543-40fa-ae6b-ca83f017f93c",
+                    "wrestler": {
+                      "guid": "9e5441cb-dbe6-47f4-8ce5-99dcb4b70f50",
+                      "firstName": "Sophia",
+                      "lastName": "Carson",
+                      "team": {
+                        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+                        "name": "Campbellsville University W",
+                        "abbreviation": "CU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 6,
+            "divisionGuid": "09752b69-04b4-4b74-af7c-13e53766ebf8"
+          },
+          {
+            "guid": "364028e0-a568-427f-a745-442dcd18b314",
+            "name": "143",
+            "boutPools": [
+              {
+                "guid": "91b75960-6055-4772-819e-4eacb431e9ef",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "2bf155ed-50b1-49eb-9987-f8a30eba9fd6",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "fe6d247c-400b-4ed6-a2b9-743ff46459d8",
+                    "wrestler": {
+                      "guid": "451a3169-d770-4f36-b4eb-45e44560b0e6",
+                      "firstName": "Marilyn",
+                      "lastName": "Garcia",
+                      "team": {
+                        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+                        "name": "Menlo",
+                        "abbreviation": "MWC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": "ce26e2bf-1efa-4c09-a867-1c4a6d64f8ce"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "efad557e-1aeb-41d4-a14c-4c138bf58c4a",
+                    "wrestler": {
+                      "guid": "57821ea6-7f43-438a-9a24-8490540dcc71",
+                      "firstName": "Angela",
+                      "lastName": "Peralta",
+                      "team": {
+                        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+                        "name": "Menlo",
+                        "abbreviation": "MWC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "d7ee7244-97ac-46fb-b261-21d349e1674a"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "cbc53755-8388-4ce5-8a04-6a874ed8021f",
+                    "wrestler": {
+                      "guid": "591b2c69-9c9e-4480-80e1-af1691536624",
+                      "firstName": "Margaret",
+                      "lastName": "Douma",
+                      "team": {
+                        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+                        "name": "Oklahoma City University",
+                        "abbreviation": "OKCU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "49fd3610-8c23-42b8-8964-c5a19ad3d49b"
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "352147c8-acc4-4628-beb7-19a56023897b",
+                    "wrestler": {
+                      "guid": "5b774d17-b794-4a90-a086-d45642fdde4c",
+                      "firstName": "Zoe",
+                      "lastName": "Wight",
+                      "team": {
+                        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+                        "name": "Life University W",
+                        "abbreviation": "LIFE",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": "93f6abd3-80c9-46f2-9255-899341a2bf04"
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "4e075a84-12db-495e-9047-896b19b15614",
+                    "wrestler": {
+                      "guid": "d7fcbbe1-3277-45b1-ac67-17eb249d1ce4",
+                      "firstName": "Sienna",
+                      "lastName": "Ramirez",
+                      "team": {
+                        "guid": "7f613043-a5bf-4bfc-8884-80369cea0073",
+                        "name": "Southern Oregon",
+                        "abbreviation": "SO",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": "1ea9e155-4214-4391-bb14-edaaf2a0ec63"
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "b0bdebcf-fc04-486a-8a7f-b31514ff5b14",
+                    "wrestler": {
+                      "guid": "d274856b-3093-4ab1-adf7-86153622b966",
+                      "firstName": "Cierra",
+                      "lastName": "Foster",
+                      "team": {
+                        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+                        "name": "Oklahoma City University",
+                        "abbreviation": "OKCU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "52e23b86-9ee0-4b19-9bf9-32d0193e37be"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "46a20e88-d69a-42f2-87a6-413192f59514",
+                    "wrestler": {
+                      "guid": "54a1d7a2-92c9-41a4-aabb-776389d7de61",
+                      "firstName": "Joy",
+                      "lastName": "Muniz",
+                      "team": {
+                        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+                        "name": "University of Jamestown",
+                        "abbreviation": "UJ",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 6,
+                      "identityPersonGuid": "1c92f66a-5135-40c4-8978-beb3856be110"
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "09c6d450-3c3b-42ce-900c-8f3e0fcab5f6",
+                    "wrestler": {
+                      "guid": "c5959785-faff-4d83-85da-c98fedd8d272",
+                      "firstName": "Morgan",
+                      "lastName": "Shines",
+                      "team": {
+                        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+                        "name": "Life University W",
+                        "abbreviation": "LIFE",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 8,
+                      "identityPersonGuid": "2ddcc539-2376-4c61-8d2d-4c017905d6ba"
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 7,
+            "divisionGuid": "09752b69-04b4-4b74-af7c-13e53766ebf8"
+          },
+          {
+            "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+            "name": "155",
+            "boutPools": [
+              {
+                "guid": "3cc46626-5726-41d8-8647-dd5242067c65",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "2bf155ed-50b1-49eb-9987-f8a30eba9fd6",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "de1fcd41-d53c-4587-acd3-16a2db651f7f",
+                    "wrestler": {
+                      "guid": "7612440e-d705-43c1-9dc8-6fc6738fa0a2",
+                      "firstName": "Iman",
+                      "lastName": "Kazem",
+                      "team": {
+                        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+                        "name": "Menlo",
+                        "abbreviation": "MWC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "6c263f32-642c-4ec5-a610-d4d0cec28686",
+                    "wrestler": {
+                      "guid": "033b56cf-3c44-4b42-8c5c-721719c38ca9",
+                      "firstName": "Anna",
+                      "lastName": "Naylor",
+                      "team": {
+                        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+                        "name": "University of the Cumberlands",
+                        "abbreviation": "UC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "0cb3009b-ce74-4ba5-8822-befc478cdf95"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "d0f1481f-5093-459c-851e-1796e4c9ec9e",
+                    "wrestler": {
+                      "guid": "33cb49a1-3bb7-417e-91bf-04841def7eca",
+                      "firstName": "Myranda",
+                      "lastName": "Velazquez",
+                      "team": {
+                        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+                        "name": "University of Jamestown",
+                        "abbreviation": "UJ",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": "72454ab9-f760-49cb-88bf-a1f95051787d"
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "ac40262c-35f4-46d5-9c19-221f202cbdb9",
+                    "wrestler": {
+                      "guid": "5b8f4ab6-1a99-4c45-b1b0-f5b1fe6da6a8",
+                      "firstName": "Shamera",
+                      "lastName": "McTier",
+                      "team": {
+                        "guid": "ec0073e2-4288-4842-b370-7095f15bfb33",
+                        "name": "Missouri Valley College",
+                        "abbreviation": null,
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": "4a65b813-3f9c-4237-82c8-d8c71df5ce05"
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "272b1e07-c3f2-4c42-be5c-a04a7ae49a3f",
+                    "wrestler": {
+                      "guid": "321f4df7-5fb6-44a2-af92-b88d44b9231f",
+                      "firstName": "Destinee",
+                      "lastName": "Rivera",
+                      "team": {
+                        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+                        "name": "Life University W",
+                        "abbreviation": "LIFE",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 8,
+                      "identityPersonGuid": "ad4cb126-c69c-43c4-a274-82762f8e7aec"
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "4db0a8bd-5caf-4a84-b7eb-766a4e48e79f",
+                    "wrestler": {
+                      "guid": "77ae4ead-1754-444f-bcd2-59239e065a4a",
+                      "firstName": "Gabriela",
+                      "lastName": "Hunter",
+                      "team": {
+                        "guid": "fce508e3-e49e-4fdd-859a-ac7a20792507",
+                        "name": "Midland University",
+                        "abbreviation": "MU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "8614178f-1925-4fa0-9d6d-bbf827eb9d90",
+                    "wrestler": {
+                      "guid": "5a69a1c7-ad60-4dba-a824-8be7f963e3ab",
+                      "firstName": "Sierra",
+                      "lastName": "Talmadge",
+                      "team": {
+                        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+                        "name": "University of Jamestown",
+                        "abbreviation": "UJ",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 6,
+                      "identityPersonGuid": "2cb3fd7e-f999-4960-8cbc-c14def87c7ed"
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "f17f7706-049a-446c-8f28-47fafa1dc78f",
+                    "wrestler": {
+                      "guid": "ed3bba37-d23f-4425-8fa4-7ab259f3340e",
+                      "firstName": "Isabella",
+                      "lastName": "Ricchiazzi",
+                      "team": {
+                        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+                        "name": "University of the Cumberlands",
+                        "abbreviation": "UC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "c5539b6f-1fc6-40e6-ac52-1abee2814c05"
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 8,
+            "divisionGuid": "09752b69-04b4-4b74-af7c-13e53766ebf8"
+          },
+          {
+            "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+            "name": "170",
+            "boutPools": [
+              {
+                "guid": "3d0d6e62-b99c-4ae3-9c13-f7f0e8c1e666",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "2bf155ed-50b1-49eb-9987-f8a30eba9fd6",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "b7dd0948-7e41-4e4f-8646-dcfc2fd4d1cc",
+                    "wrestler": {
+                      "guid": "f49cf109-4f23-4647-8d11-ff2f604d90d8",
+                      "firstName": "Dymond",
+                      "lastName": "Guilford",
+                      "team": {
+                        "guid": "68a21374-d734-4760-a152-ba3ca62c4fff",
+                        "name": "Missouri Baptist University",
+                        "abbreviation": "MBU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "360ef1c0-1aa0-4c4d-945a-2685707ad0c6"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "11a8f60e-e4eb-45b3-90b7-e52ec02d1c4c",
+                    "wrestler": {
+                      "guid": "4331dba0-ef8d-4dd6-af27-a65241997e2a",
+                      "firstName": "Precious",
+                      "lastName": "Bell",
+                      "team": {
+                        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+                        "name": "Menlo",
+                        "abbreviation": "MWC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": "d9fe3dc4-c94a-4b32-b8a9-662e1ba2b688"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "c9dbb86e-95fe-4e6a-8df3-45a1f6168455",
+                    "wrestler": {
+                      "guid": "1ca2ee23-0ca9-4143-b100-4ab98f9949f3",
+                      "firstName": "Rachel",
+                      "lastName": "Watters",
+                      "team": {
+                        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+                        "name": "Oklahoma City University",
+                        "abbreviation": "OKCU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": "5dc05cbc-f3a1-4caf-ba42-d2be5273db97"
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "0b82952d-c50b-4d47-9824-d71785c36307",
+                    "wrestler": {
+                      "guid": "544dc719-2023-47fd-9b62-8d336b2bdbc4",
+                      "firstName": "Mariah",
+                      "lastName": "Harris",
+                      "team": {
+                        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+                        "name": "Campbellsville University W",
+                        "abbreviation": "CU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "7f87f16e-6dd5-42aa-96a2-e58d0116e1e1"
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "3ea54666-4ffe-4d80-b98a-0e1fdac94694",
+                    "wrestler": {
+                      "guid": "7b40d06f-216d-4706-9a25-5ee3858d274c",
+                      "firstName": "Jordan",
+                      "lastName": "Nelson",
+                      "team": {
+                        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+                        "name": "Life University W",
+                        "abbreviation": "LIFE",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 6,
+                      "identityPersonGuid": "62410458-7af3-4bdb-bf9d-a82b43ba50f5"
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "073be93b-51cb-49a8-b7a9-8267723308c1",
+                    "wrestler": {
+                      "guid": "5da9d566-1804-439d-abee-a492cedbeeeb",
+                      "firstName": "Kenya-Lee",
+                      "lastName": "Sloan",
+                      "team": {
+                        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+                        "name": "Campbellsville University W",
+                        "abbreviation": "CU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 7,
+                      "identityPersonGuid": "8c698c8d-68dc-4c0a-b896-f2adf7db74ce"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "e3228101-9fab-4328-a598-47d18b3db96f",
+                    "wrestler": {
+                      "guid": "280d873d-98ae-4027-bb62-d13a1360ce92",
+                      "firstName": "Payton",
+                      "lastName": "Rigert",
+                      "team": {
+                        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+                        "name": "University of the Cumberlands",
+                        "abbreviation": "UC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "9ee31914-1b58-4c62-bf3b-db392fdf6c18"
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "b576cd3b-3540-4519-a709-649fff6eb47b",
+                    "wrestler": {
+                      "guid": "c3003cf5-da68-479f-b2df-5a7139540327",
+                      "firstName": "Alyssa",
+                      "lastName": "Schrull",
+                      "team": {
+                        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+                        "name": "University of Jamestown",
+                        "abbreviation": "UJ",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 8,
+                      "identityPersonGuid": "1b4718ff-b5cc-45fc-a25e-2ed0ffe7bc89"
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 9,
+            "divisionGuid": "09752b69-04b4-4b74-af7c-13e53766ebf8"
+          },
+          {
+            "guid": "3cb2bde7-7158-46e2-87d0-9526c029e9a7",
+            "name": "191",
+            "boutPools": [
+              {
+                "guid": "5e18ea84-c6ee-48b3-9bfb-728b8248fd7c",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "2bf155ed-50b1-49eb-9987-f8a30eba9fd6",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "49308244-01b3-44b1-a78c-d54a5cdeb02c",
+                    "wrestler": {
+                      "guid": "06ee4935-c4f1-43ee-a7df-735ee4c39e25",
+                      "firstName": "Paige",
+                      "lastName": "Baynes",
+                      "team": {
+                        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+                        "name": "Wayland Baptist University W",
+                        "abbreviation": "WBU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": "9f2798df-80bb-487b-83b2-43a0b5c83b4d"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "9f734c16-ae0d-4fcc-9df7-21092969a710",
+                    "wrestler": {
+                      "guid": "cd6d51b7-495e-42f7-bffe-2ae176a23ae1",
+                      "firstName": "Chi Chi",
+                      "lastName": "Nwankwo",
+                      "team": {
+                        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+                        "name": "Oklahoma City University",
+                        "abbreviation": "OKCU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "957ea348-567b-44e4-bee1-9749e7fcdae0"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "a5ecc45d-e93c-47cd-a97d-f4b3ef3401da",
+                    "wrestler": {
+                      "guid": "5128b119-28ca-4f15-a102-90c55d820136",
+                      "firstName": "Leilani",
+                      "lastName": "Camargo-Naone",
+                      "team": {
+                        "guid": "fce508e3-e49e-4fdd-859a-ac7a20792507",
+                        "name": "Midland University",
+                        "abbreviation": "MU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": "6aa7bd00-3a0b-4ed1-8754-038d2a1a0ad0"
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "f4716b5d-0d8d-43dd-85c4-345acd143f54",
+                    "wrestler": {
+                      "guid": "3c629930-5371-4f31-a319-bd82e60780f4",
+                      "firstName": "Agatha",
+                      "lastName": "Andrews",
+                      "team": {
+                        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+                        "name": "University of Jamestown",
+                        "abbreviation": "UJ",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "3f9f132f-0386-4696-afcd-c2eaac07c26f"
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "af5194d7-8f61-4a7b-9f9c-e9e40a19a4ab",
+                    "wrestler": {
+                      "guid": "b81d85af-22d4-4c6a-968e-ba03bd8ac331",
+                      "firstName": "Alexandra",
+                      "lastName": "Castillo",
+                      "team": {
+                        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+                        "name": "Campbellsville University W",
+                        "abbreviation": "CU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 6,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "aafdbf7e-fa7f-4d5e-9f30-41cfadddf4ac",
+                    "wrestler": {
+                      "guid": "23ba0018-2c11-4345-9665-0982526cbdd7",
+                      "firstName": "Jesse",
+                      "lastName": "Kirby",
+                      "team": {
+                        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+                        "name": "University of the Cumberlands",
+                        "abbreviation": "UC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": "0166b12e-9301-4d3f-b236-ae86a354f808"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "b7d7d5aa-51c2-4b5f-977e-60cb16fb5492",
+                    "wrestler": {
+                      "guid": "59b34b49-ca41-4ac7-b3b5-4ffd7948d35b",
+                      "firstName": "Emily",
+                      "lastName": "Sandoval",
+                      "team": {
+                        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+                        "name": "Menlo",
+                        "abbreviation": "MWC",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "0830b808-efb3-4a45-969f-2b82e0138083"
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "78d139b6-6ef1-4404-9357-adebb0448b68",
+                    "wrestler": {
+                      "guid": "da03c757-fd41-46d2-94ed-6b64c8cf755e",
+                      "firstName": "Angel",
+                      "lastName": "Ochoa",
+                      "team": {
+                        "guid": "68a21374-d734-4760-a152-ba3ca62c4fff",
+                        "name": "Missouri Baptist University",
+                        "abbreviation": "MBU",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "2a2f775a-b207-45b2-b724-e0fb333750bd"
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 10,
+            "divisionGuid": "09752b69-04b4-4b74-af7c-13e53766ebf8"
+          }
+        ],
+        "bracketPhase": {
+          "guid": "2bf155ed-50b1-49eb-9987-f8a30eba9fd6",
+          "sequenceNumber": 1,
+          "segmentSize": 1,
+          "segmentFinalsSize": 8
+        },
+        "dualPools": [],
+        "firstColor": "red",
+        "secondColor": "blue",
+        "publishBrackets": true,
+        "publishWrestlersDateTimeUtc": null
+      }
+    ],
+    "timeZone": "America/Chicago",
+    "startDateTimezone": "2019-03-15T12:00:00-05:00",
+    "endDateTimezone": "2019-03-17T23:59:59-05:00"
+  }
+}

@@ -1,0 +1,263 @@
+athlete_id,first_name,last_name,full_name,team,team_abbreviation,weight_class,seed,division
+221beeaf-96b9-46c6-b51d-b3ad819a628e,Abbie,Jones,Abbie Jones,Baker (W),BKR,136,,NAIA
+3af7a109-61a0-4555-9cf7-1b2200787c93,Abigail,Halstead,Abigail Halstead,Baker (W),BKR,109,,NAIA
+fa5dd239-1cd3-4f86-92d0-c8eb3bc6fb77,Akemi,Garcia,Akemi Garcia,Lourdes,LRDS,123,,NAIA
+1b347225-9fe2-4eaa-99d0-ec15d588cd0f,Akina,Yamada,Akina Yamada,Waldorf (W),WU,143,9,NAIA
+7c02b2d0-ca01-4948-84ef-047387baea31,Alaura,Couch,Alaura Couch,Grand View (W),GRVW,101,8,NAIA
+c53084a6-76b0-4863-9eb1-95f4f1126dc2,Alesandra,Burgos,Alesandra Burgos,Brewton Parker (W),BPC,123,,NAIA
+fefc32d7-4eb6-47ba-bff3-53bee6ae657f,Alessia,Cokeley,Alessia Cokeley,Ottawa (W),OU,109,,NAIA
+423d6c8c-71e5-4bc4-a079-014a191bd2f7,Alexandra,Martinez,Alexandra Martinez,Brewton Parker (W),BPC,109,,NAIA
+7c613749-5c10-4da5-885c-7b0b5cc94cd2,Alexandra,Baudhuin,Alexandra Baudhuin,Jamestown (W),JMST,130,6,NAIA
+92c4a6c6-239f-4c6f-a5a8-74311bfc6347,Alexandra,Castillo,Alexandra Castillo,Campbellsville (W),CU,170,1,NAIA
+53f69a7c-5024-4fe1-970b-757b1340a3b6,Alexandrea,Banag,Alexandrea Banag,Lyon (W),LC,143,,NAIA
+6f6b9eb7-172c-4b85-a568-5e2f92e66a5e,Alexis,Lopez,Alexis Lopez,Grand View (W),GRVW,155,,NAIA
+28321745-3319-421e-8713-d1082bbb515a,Alisha	Van,Scoy,Alisha	Van Scoy,St. Mary (W),STM,123,,NAIA
+de96b6e8-d55d-42d0-8de0-0eb10d3c0646,Aliyah,Ashby,Aliyah Ashby,Central Methodist (W),CMTH,155,,NAIA
+8fb1ccff-6a87-45cf-86db-b3d081f60922,Allyson,Arrington,Allyson Arrington,Cumberlands (W),UC,136,,NAIA
+38943ddf-6863-4a8d-9c74-48480ddb0d3a,Alyssa,Schuller,Alyssa Schuller,Indiana Tech,INDT,116,6,NAIA
+adbb5e48-28a0-4d34-82c8-b89cac88bc1b,Amy,Fuller,Amy Fuller,Hastings,HSTG,136,11,NAIA
+45044b98-600a-4e88-839a-365ae3e33159,Anastasia,Hardin,Anastasia Hardin,Providence (W),PRO,155,,NAIA
+4853470d-7584-4254-85e2-6c9c8f662ce9,Andrea,Montoya,Andrea Montoya,Central Methodist (W),CMTH,136,,NAIA
+863a3a37-7f5e-4186-a224-bbc4db7edb7e,Andrea,Schlabach,Andrea Schlabach,Grand View (W),GRVW,136,3,NAIA
+17748856-b7fd-4151-8323-9b8e0b8bd623,Angela,Vitiritti,Angela Vitiritti,Campbellsville (W),CU,130,2,NAIA
+f5339dbd-98c9-4e23-a59d-727d8447e194,Angelina,Prado,Angelina Prado,Life (W),LIFE,136,5,NAIA
+e433a767-ff9d-49a0-9194-bc1938e3aa6e,Angelina,Casteneda,Angelina Casteneda,Cumberlands (W),UC,101,,NAIA
+8f854652-e096-4315-9c1e-88a5ea33014e,Angelique,Cervantes,Angelique Cervantes,Life Pacific (W),LPCF,101,,NAIA
+56b540b8-5a18-431e-a0aa-91bf26070e2a,Anjelynn,Baron,Anjelynn Baron,Eastern Oregon (W),EOU,123,,NAIA
+8fa12523-78e4-4039-800e-e1b76825e172,Ann,Marie	Hidalgo,Ann Marie	Hidalgo,Jamestown (W),JMST,109,,NAIA
+8c0f1afd-7cc9-464f-aa10-25894916ebe3,Aphrodite,Ayala,Aphrodite Ayala,Simpson (W),SIMP,116,,NAIA
+6ff4ecc8-ac04-4ce1-81f9-b0a848216165,Ariana,Pereria,Ariana Pereria,Cumberlands (W),UC,191,,NAIA
+1b654e46-ce5a-46cd-b489-7ed913eaa92d,Arianna,Marrufo,Arianna Marrufo,Jamestown (W),JMST,116,8,NAIA
+c5e272e0-77e6-497b-90c4-864ba4bcc692,Ashlee,Palimo'o,Ashlee Palimo'o,Midland (W),MIDL,136,,NAIA
+1acdc865-f89c-489d-87c2-8e51fb4d0565,Ashley,Ikner,Ashley Ikner,Cumberlands (W),UC,143,7,NAIA
+afd469bd-6c91-459a-8f15-4b3fc869099c,Ashley,Whetzal,Ashley Whetzal,Lyon (W),LC,123,4,NAIA
+5a3eed22-85f0-4199-81f3-e0ec407c7db3,Asia,Ray,Asia Ray,Wayland Baptist (W),WBU,109,3,NAIA
+852cd3c6-7e7b-48b1-bea6-850090da2f6b,Audree,Garcia,Audree Garcia,Central Christian (W),CCCK,101,,NAIA
+d86799bf-f40e-4b20-9ff0-2328fbdd39fc,Autumn,Barela,Autumn Barela,Central Methodist (W),CMTH,130,,NAIA
+ffd4707a-9e0b-43a5-a257-807795ddc5f5,Avery,Thomason,Avery Thomason,Midland (W),MIDL,123,,NAIA
+0585e64b-6c4b-48a7-906a-068da9a11913,Bailey,Dennis,Bailey Dennis,Southern Oregon (W),SO,170,,NAIA
+575aaf36-b150-4bf4-90a5-3bc831d22784,Baylie,Koonce,Baylie Koonce,St. Mary (W),STM,123,,NAIA
+cf15830b-902b-40b8-8916-22542c430e32,Bella,Mitchell,Bella Mitchell,York (W),YORK,155,9,NAIA
+41dab8d4-8594-4074-a6d7-ab0a30bd3444,Berenice,Espino,Berenice Espino,Waldorf (W),WU,155,,NAIA
+f92ad07c-d0a9-42d0-9753-2f4225433050,Beyonce,Garcia,Beyonce Garcia,Southern Oregon (W),SO,155,,NAIA
+a56c0cee-19a4-43b3-9928-843c28b84755,Breanna,Mestas,Breanna Mestas,Corban,CRBN,116,,NAIA
+8bf69162-b980-4ca7-8eea-5914836260ba,Briana,Kellin,Briana Kellin,Life (W),LIFE,130,5,NAIA
+612219d2-592e-4973-beb8-4bf7e4b3ece2,Brianna,Staebler,Brianna Staebler,Campbellsville (W),CU,191,,NAIA
+2774d913-845c-4338-883b-6c776d1551af,Bridgette,Duty,Bridgette Duty,Cumberlands (W),UC,130,1,NAIA
+0f44e551-2dbc-4f65-b5c6-84b0b0fb2068,Brigid,Shannon,Brigid Shannon,Corban,CRBN,136,,NAIA
+fd87d046-8c78-4dab-ae1b-2f48c98b1666,Brittani,Burgess,Brittani Burgess,Ottawa (W),OU,143,,NAIA
+153bb312-762b-4863-9b78-5fe5ba574f50,Brooke,Burrows,Brooke Burrows,Corban,CRBN,101,,NAIA
+2a4b16b7-860d-49cf-8af0-45427bac8854,Brooke,Lynn Rush,Brooke Lynn Rush,Missouri Valley (W),MVC,155,,NAIA
+789922e5-2819-4275-bbaa-3aa5ef119125,Brooke,Cicierski,Brooke Cicierski,Providence (W),PRO,130,,NAIA
+b754fafa-f128-4053-a1b1-3c4275690a71,Brooklyn,Hermel,Brooklyn Hermel,Oklahoma City (W),OCU,116,,NAIA
+2348395e-5f7c-4a0b-9168-495fa2ad55be,Cameryn,Hulbert,Cameryn Hulbert,York (W),YORK,143,,NAIA
+896b1bfd-82f3-4490-861e-398d096cba7f,Camille,Fournier,Camille Fournier,Texas Wesleyan (W),TXWS,116,2,NAIA
+0c17e7ce-9426-4814-94df-bcfe07e25cdd,Carolina,Johnson,Carolina Johnson,Southern Oregon (W),SO,116,,NAIA
+b0d2a68c-ebb0-451e-97c0-89f339de21dc,Carson,Williams,Carson Williams,Corban,CRBN,136,,NAIA
+4b3f4599-c84f-4d9e-930c-d08ecd5c8a9d,Caryssa,Aguirre,Caryssa Aguirre,Wayland Baptist (W),WBU,101,11,NAIA
+b0d5d18b-f4f4-4d82-b29c-d225c722b5cd,Cassidy,Anderson,Cassidy Anderson,Central Christian (W),CCCK,130,,NAIA
+2925f791-8871-4b4d-a22b-bd0795f6b372,Catherine,McNulty,Catherine McNulty,Indiana Tech,INDT,170,,NAIA
+c7ae3f84-1993-4ac5-9048-556821e25f3d,Catherine,Palmieri,Catherine Palmieri,Life (W),LIFE,191,5,NAIA
+effd8aa8-7fc1-4e61-b873-f218b994ac4e,Chalimar,Rodriguez,Chalimar Rodriguez,William Penn,WPEN,101,10,NAIA
+b764233e-bec5-4cdf-99ba-8caf804bd5ca,Chamira,Cooper,Chamira Cooper,Cumberlands (W),UC,170,4,NAIA
+4b6d2792-2575-4e96-bd0a-5897b6b13e56,Charity,Goldsmith-Ding,Charity Goldsmith-Ding,York (W),YORK,191,6,NAIA
+9b1a3788-ecae-4942-bb00-5d30d1eba886,Charlotte,Fowler,Charlotte Fowler,Campbellsville (W),CU,116,7,NAIA
+6e970203-2b42-404e-8487-658ebcdda238,Charmayne,DeLong,Charmayne DeLong,Indiana Tech,INDT,136,8,NAIA
+67186be6-af1b-4e90-a53d-6a0ff599a014,Chloe,Krebsbach,Chloe Krebsbach,Grand View (W),GRVW,109,10,NAIA
+a50aad2c-7a04-4854-b60e-3eb519408bcd,Cierra,Broukal,Cierra Broukal,Campbellsville (W),CU,116,,NAIA
+b6871c28-83c5-4325-b653-d9d7598b6e89,Cierra,Foster,Cierra Foster,Oklahoma City (W),OCU,155,1,NAIA
+27bdaae4-bfca-45b0-bb98-cae00334c0bf,Claire,Payne,Claire Payne,York (W),YORK,109,,NAIA
+d2d84bda-f622-4f39-8ec0-bbf4c914df40,Cora,Johnson,Cora Johnson,Central Methodist (W),CMTH,116,,NAIA
+b029102c-8ab5-4d22-b124-a1909603f93a,Corinne,Robertson,Corinne Robertson,Ottawa (W),OU,130,,NAIA
+f70662bf-1018-45b1-89d8-dd55f9543f9c,Daniella,Seely,Daniella Seely,Missouri Baptist (W),MBU,191,,NAIA
+5deae358-0615-4ecf-8687-d267c8395b95,Danielle,Saldivar,Danielle Saldivar,Missouri Valley (W),MVC,170,9,NAIA
+7f82ee59-c29d-46b9-8bf4-fa479b30bd7c,Daviona,Bonner,Daviona Bonner,Central Methodist (W),CMTH,116,,NAIA
+02ab4514-2f9e-4ec2-b116-83b6cb6e1026,De'anna,Prince,De'anna Prince,Wayland Baptist (W),WBU,130,10,NAIA
+280152f4-5044-480b-909c-736c2f6cb38d,Dempsi,Talkington,Dempsi Talkington,Eastern Oregon (W),EOU,155,,NAIA
+456c36a2-0c81-4fbd-8f72-c6fe673c7759,Derriane,Morrison,Derriane Morrison,Ottawa (W),OU,155,,NAIA
+ae09acc3-512f-479a-a1be-6ae4199d9aee,Desiree,Zavala,Desiree Zavala,Wayland Baptist (W),WBU,136,1,NAIA
+33af43fa-58c5-4870-9ce2-c6be06aca318,Destinee,Rivera,Destinee Rivera,Life (W),LIFE,155,7,NAIA
+28109c48-8af0-4609-ab56-4e6f561da4de,Destiny,Shelton,Destiny Shelton,Indiana Tech,INDT,101,,NAIA
+d44cab3b-b951-47a7-8cd4-a65673f5b264,Destiny,Lyng,Destiny Lyng,Oklahoma City (W),OCU,136,4,NAIA
+2ddbe3c4-7789-4b69-b876-121c971d7db5,Devyn,Gomez,Devyn Gomez,Life (W),LIFE,101,,NAIA
+a252cb63-7c34-43ab-bbf1-f509c93c287e,Diana,Dzasezeva,Diana Dzasezeva,Waldorf (W),WU,130,11,NAIA
+b1935720-c48c-472f-a7c4-46821b32c686,Diana,Leyva,Diana Leyva,York (W),YORK,116,,NAIA
+19674856-c440-4db1-9945-97d98cddf567,Elisa,Robinson,Elisa Robinson,Baker (W),BKR,191,2,NAIA
+06824392-58b3-46c4-ae43-63ec511f8822,Elizabeth,Dosado,Elizabeth Dosado,Cumberlands (W),UC,101,2,NAIA
+105ffa81-3eb3-45ba-83cc-57b9ee8650cb,Elizabeth,Carrillo,Elizabeth Carrillo,Waldorf (W),WU,143,,NAIA
+e92599c9-d29a-41c0-91f3-0eae72632a8a,Elizabeth,Hubbard,Elizabeth Hubbard,Lyon (W),LC,191,,NAIA
+f6c1fb78-108c-4bc3-9e6d-767ae9776a86,Ella,Whitaker,Ella Whitaker,York (W),YORK,101,,NAIA
+605c1151-604b-4d74-8c7e-6302f487a96f,Emely,Carrillo,Emely Carrillo,Waldorf (W),WU,136,,NAIA
+8596d8ab-7732-4e34-b3ab-1514962942d2,Emilee,Demann,Emilee Demann,St. Mary (W),STM,155,,NAIA
+62618405-e569-4e16-baeb-9accbea98183,Emily,Lorring,Emily Lorring,Providence (W),PRO,143,,NAIA
+b0fee6a5-7bf0-470d-9ae8-e990154879e9,Emily,Fergeson,Emily Fergeson,York (W),YORK,116,,NAIA
+bb47fdfc-59a8-498d-aabb-37a572317aa9,Emily,Alderman,Emily Alderman,Wayland Baptist (W),WBU,130,,NAIA
+032109be-5242-4727-87c2-bedbdaf149d7,Emma,Walker,Emma Walker,Campbellsville (W),CU,143,3,NAIA
+08d44d71-64da-43e5-a4b4-e7bef682e504,Emma,Cochran,Emma Cochran,Grand View (W),GRVW,109,6,NAIA
+45ffe26e-6def-47f8-843c-2620d4130ca9,Emma,De Brum,Emma De Brum,Lyon (W),LC,116,,NAIA
+58f309cf-d2d6-44a0-b54a-697eccfa2b49,Erin,Redford,Erin Redford,Eastern Oregon (W),EOU,143,6,NAIA
+a14791de-0422-4799-8218-caaa7c7cc1f3,Esthella,Trevino,Esthella Trevino,Southern Oregon (W),SO,101,4,NAIA
+7f99ab01-1f29-4506-8395-7e23cd4f7ee2,Esther,Walker,Esther Walker,Midland (W),MIDL,101,6,NAIA
+54e31d90-3d7b-4005-b075-e53c905476fc,Gabriela,Garcia,Gabriela Garcia,Brewton Parker (W),BPC,101,,NAIA
+8f13da6c-c082-4784-9e6b-6852df4a8025,Geneva,Winston,Geneva Winston,Brewton Parker (W),BPC,123,,NAIA
+9317b071-e64e-4f50-8f8a-587f2866344f,Gigi,Loza,Gigi Loza,Central Methodist (W),CMTH,123,,NAIA
+5885a412-ae50-4595-a4ae-fb3ce81b733b,Glenda,Veiga,Glenda Veiga,Indiana Tech,INDT,143,,NAIA
+6216093d-9698-4400-bce8-d88898e6dc0f,Glory,Konecny,Glory Konecny,Southern Oregon (W),SO,123,10,NAIA
+ee7b8389-0e1e-43e9-9858-48d35e051175,Grace,Nelson,Grace Nelson,Corban,CRBN,143,,NAIA
+9e5614be-78f2-47ad-b3c6-97025b79be04,Hailey,Budney,Hailey Budney,Cumberlands (W),UC,136,,NAIA
+d7eaf70f-50ad-465e-bd7f-8d47fa536017,Haley,Schafer,Haley Schafer,Central Christian (W),CCCK,155,,NAIA
+8f69ea5a-4222-4f43-83e7-8576185b8519,Hannah,Dickinson,Hannah Dickinson,Ottawa (W),OU,155,,NAIA
+8bcdf70b-1407-4f27-9764-5d8acf0d2013,Haylee,McDonald,Haylee McDonald,Central Christian (W),CCCK,155,,NAIA
+00e0850c-8441-4de6-a0b0-cb3732c80089,Hunter,Robinson,Hunter Robinson,Grand View (W),GRVW,170,3,NAIA
+cff4ad87-ff78-4137-9678-90e22eba2c0c,India,Page,India Page,Brewton Parker (W),BPC,155,6,NAIA
+85559b4d-c3a2-4fd7-9f7f-e7c72414c4dd,Ira,Navarro,Ira Navarro,Providence (W),PRO,101,9,NAIA
+8fc6bd1d-40c2-431e-b4d0-35fda7b8e877,Irene,Sanchez Figuera,Irene Sanchez Figuera,Oklahoma City (W),OCU,143,,NAIA
+751591bc-9108-40d0-a19a-eb3dbf2c2869,Isabella,Gonzalez,Isabella Gonzalez,Grand View (W),GRVW,123,,NAIA
+0399e07e-c1d6-431d-b223-68bda33122d5,Ivy,Navarro,Ivy Navarro,Providence (W),PRO,101,3,NAIA
+5dae7c66-9064-4fbb-aa36-324e5f7b38ac,Ivy,Kraght,Ivy Kraght,Corban,CRBN,143,10,NAIA
+19cb3711-1b64-47bf-a52e-d942e70e6434,Jacqueline,Ghent,Jacqueline Ghent,Campbellsville (W),CU,123,6,NAIA
+2dae7b4c-b4c8-48a8-b787-2b8b444b9ed4,Jacqueline,Carreras,Jacqueline Carreras,Hastings,HSTG,155,,NAIA
+d7fa7b0a-d2fb-41d9-84e6-489dc9d05a77,Jaimes,Clark,Jaimes Clark,Baker (W),BKR,136,,NAIA
+6d34b13b-3b13-4ac4-9768-49a57eed15a7,Jaine,Stephens,Jaine Stephens,Cumberlands (W),UC,109,5,NAIA
+9c01af7e-c9fd-41da-b371-f42c70054bdd,Jasmin,Ballesteros,Jasmin Ballesteros,Midland (W),MIDL,170,,NAIA
+a24eb45c-a8e4-4893-8e20-b8383578b175,Jasmin,Davis,Jasmin Davis,Wayland Baptist (W),WBU,123,7,NAIA
+5b2ac9a4-f15d-4c64-b019-200f070c6feb,Jasmine,Alexander,Jasmine Alexander,Grand View (W),GRVW,116,9,NAIA
+ff220726-fa3e-4ad5-a76c-06d2d0692cc4,Jasmine,Hernandez,Jasmine Hernandez,Lyon (W),LC,123,2,NAIA
+bdcf58dd-9ea8-4560-b938-6a2c9539b338,Jenna,Awana,Jenna Awana,Providence (W),PRO,143,,NAIA
+80329fbb-41c8-4ccb-be21-4f7b866debdf,Jennifer,Curry,Jennifer Curry,Baker (W),BKR,170,7,NAIA
+e6bbf7ff-eea2-49c9-8e84-48474d9d3944,Jenny,Castaneda,Jenny Castaneda,Waldorf (W),WU,123,,NAIA
+00354bf0-81cd-43af-b658-35b916bdc49c,Jessica,Valadez,Jessica Valadez,St. Mary (W),STM,170,,NAIA
+4b374e8e-f90c-4a6f-8b71-f1f56f0c75bb,Jessienna,Burkett-Erice,Jessienna Burkett-Erice,Lyon (W),LC,109,,NAIA
+2d06d307-e1d2-45d6-92fb-a25b914b163e,Jocelyn,Murphy,Jocelyn Murphy,Missouri Valley (W),MVC,136,10,NAIA
+a3b7be7d-27c1-443b-9e31-0f35e91b9782,Jocelyn,Hernandez,Jocelyn Hernandez,Grand View (W),GRVW,123,,NAIA
+da0f37c4-26b2-4e42-85c3-045d31371491,Jodie,Hartlein,Jodie Hartlein,Warner Pacific (W),WPAC,155,,NAIA
+b14545b3-1a9f-4462-89d3-1adf87b50574,JoNiesha,Kennedy,JoNiesha Kennedy,Ottawa (W),OU,116,,NAIA
+1dad225f-043a-4059-8a98-6616a47f2fd7,Jordan,Suarez,Jordan Suarez,Wayland Baptist (W),WBU,143,5,NAIA
+dd1db4cb-2c11-488c-a50d-b3a00125bd30,Jordan,Nelson,Jordan Nelson,Life (W),LIFE,170,2,NAIA
+d2a0fa2e-621a-458e-b9e8-6a9e3de05141,Jordan,Roberts,Jordan Roberts,Missouri Baptist (W),MBU,170,,NAIA
+f563d626-5903-447f-9160-f2ec5084aed1,Jordynn,Robson,Jordynn Robson,Southern Oregon (W),SO,130,,NAIA
+07362e19-c8bf-425b-ae9b-fb7eff437f2b,Josie,Bartishofski,Josie Bartishofski,Jamestown (W),JMST,116,4,NAIA
+ce625533-c111-4b9d-a236-c6fa40172fb3,Joycelyn,Katcheak,Joycelyn Katcheak,Jamestown (W),JMST,155,,NAIA
+4f5357fa-c195-4f18-b2cf-92569a676da8,Joylynn,Wegman,Joylynn Wegman,William Penn,WPEN,143,,NAIA
+74e9b45d-84e0-488b-aebd-07c5d9960089,Julia,Vidallon,Julia Vidallon,Life (W),LIFE,123,1,NAIA
+820bd583-6a6e-4244-a402-ee4856445f7d,Julia,Mata,Julia Mata,Missouri Valley (W),MVC,143,,NAIA
+b1638022-11bb-4ec3-a4fe-4af35356c6c0,Jythssel,Mascorro,Jythssel Mascorro,Ottawa (W),OU,191,,NAIA
+61ecb40c-f4d6-486e-b4f1-d19e2f03ce0f,Kaelyn,Siason,Kaelyn Siason,Providence (W),PRO,123,,NAIA
+b31fafad-ca56-40b8-8200-9a386ce4eb55,Kailee,Godinez,Kailee Godinez,Cumberlands (W),UC,143,,NAIA
+830ad134-cfb3-4ea5-bb16-88d29d95f784,Kamalamaokapomahealani,Lewis,Kamalamaokapomahealani Lewis,Midland (W),MIDL,155,3,NAIA
+b9230e38-dd72-4189-afd3-dab9da728e61,Kambrie,Hedrick,Kambrie Hedrick,Missouri Valley (W),MVC,155,,NAIA
+be671165-affc-4d51-b285-81e2f72cf1ca,Kami,Fiordalis,Kami Fiordalis,York (W),YORK,130,,NAIA
+e4ba0062-9e6d-43df-9bbb-21743e710f35,Karly,Scott,Karly Scott,Southern Oregon (W),SO,101,,NAIA
+1d9108b2-bf7d-469c-a13f-3dd07d21dbd2,Karoline,Ortiz,Karoline Ortiz,Missouri Baptist (W),MBU,130,8,NAIA
+242b989e-ad84-4440-9828-6a1b53afb778,Kassandra,Lindemann,Kassandra Lindemann,Grand View (W),GRVW,170,10,NAIA
+292f9e94-e9b9-4dad-bc75-0024dd8b564c,Kassidy,Leiszler,Kassidy Leiszler,Baker (W),BKR,109,,NAIA
+3772f53f-54c6-47fe-ba20-56a03f1b1f3c,Kassidy,Ramirez,Kassidy Ramirez,Lyon (W),LC,101,,NAIA
+076002c8-4d95-444c-ac67-6047d99c0e50,Katalina,Bartelt,Katalina Bartelt,Life (W),LIFE,109,7,NAIA
+b819adaf-f52d-424e-b075-3031c09ff110,Katherine,Heath,Katherine Heath,Baker (W),BKR,116,,NAIA
+0b4a35d6-042a-47a6-a8ac-e34af50e20ad,Katlyn,Pizzo,Katlyn Pizzo,Campbellsville (W),CU,123,3,NAIA
+88d157ff-ecf1-43a8-834b-74384b7275e8,Katy,Figueroa,Katy Figueroa,York (W),YORK,123,,NAIA
+7fa516c5-24ed-458a-83c1-8b2ab74fdf5e,Kelani,Corbett,Kelani Corbett,Lyon (W),LC,191,4,NAIA
+18c61f15-1106-4a60-b0be-46db845d365c,Kelly,LaCost,Kelly LaCost,Jamestown (W),JMST,191,7,NAIA
+7c370a68-eed0-4d11-9f9c-4fc76fa74d47,Kendall,Martin,Kendall Martin,Corban,CRBN,123,,NAIA
+d0ff827f-3058-4e33-9b6a-e022e1615f1e,Kendra,Thompson,Kendra Thompson,Campbellsville (W),CU,155,5,NAIA
+18200035-17c1-4a35-b200-6b451aac0832,Kimberly,Pollak,Kimberly Pollak,Hastings,HSTG,143,,NAIA
+e1c17af5-3021-40d4-8aba-d5d891f99ee0,Kiya,Jones,Kiya Jones,Baker (W),BKR,170,,NAIA
+09987049-49d6-4a81-b633-192efbbe3a6d,Korigan,Wilkey,Korigan Wilkey,Indiana Tech,INDT,109,,NAIA
+f5a822dd-c544-4ad2-ad0a-23d905422d0e,Korissa,VanOver,Korissa VanOver,Indiana Tech,INDT,123,,NAIA
+6ec55c90-fde1-4453-8cb2-882ab68ff21d,Kory,Phillips,Kory Phillips,Life (W),LIFE,109,9,NAIA
+a6d062f7-7fa9-4367-8273-071f95def930,Krystal,Fabricante,Krystal Fabricante,Eastern Oregon (W),EOU,143,,NAIA
+a31a46cc-e43f-47d3-a83f-19b734bbb76a,Kylie,Marlin,Kylie Marlin,York (W),YORK,101,,NAIA
+3cd0488c-e15e-4567-b503-a8fcb699a87c,Lana,Hunt,Lana Hunt,Providence (W),PRO,109,,NAIA
+d94c509a-f794-4cce-8a39-4a3909f3f292,Larissa,Ramos,Larissa Ramos,Central Christian (W),CCCK,191,,NAIA
+0b9c5820-140e-4295-9c7d-99bfa8aa7d34,Laura,Lincoln,Laura Lincoln,Lyon (W),LC,109,,NAIA
+f06706c8-3ff4-46fe-b4a3-e4760229fcfe,Liliana,Vergara,Liliana Vergara,Campbellsville (W),CU,191,11,NAIA
+012474e8-5371-4d22-b7d7-0a56ce035824,Lillianna,Campbell,Lillianna Campbell,Missouri Valley (W),MVC,109,,NAIA
+af8f1ce4-8534-4ef9-876d-6f2fe9b67193,Lindsay,Mills,Lindsay Mills,Missouri Baptist (W),MBU,130,,NAIA
+43d0464b-c108-492b-9343-a29bba71df5d,Lisa,Megargee,Lisa Megargee,Eastern Oregon (W),EOU,109,,NAIA
+86742ad0-7165-4888-9711-3b3461558e32,Luisita,Jara,Luisita Jara,Jamestown (W),JMST,136,6,NAIA
+bea71b2b-58ac-4b26-aa5c-f967ca83a7d1,Lyric,Gonsalves,Lyric Gonsalves,Ottawa (W),OU,136,,NAIA
+79d0a1dd-3f90-4436-ad79-c8b3da7b0c7e,Macie,Stewart,Macie Stewart,Southern Oregon (W),SO,109,10,NAIA
+8127872c-f47a-4a46-bb31-1f1060f0f644,Macy,Higa,Macy Higa,Eastern Oregon (W),EOU,130,4,NAIA
+159a975d-8f56-4814-880d-8a43bf8c2710,Maddie,Oellermann,Maddie Oellermann,Missouri Baptist (W),MBU,155,11,NAIA
+a5990be1-2ff6-4efc-8a6f-04dba6b807e9,Madison,Brown,Madison Brown,Texas Wesleyan (W),TXWS,101,7,NAIA
+c01eb72f-c158-41fd-b7b8-432df7566586,Mahealani,Ramirez,Mahealani Ramirez,Missouri Valley (W),MVC,170,6,NAIA
+020e849b-130a-47ed-901e-64892e742370,Makia,English,Makia English,St. Mary (W),STM,143,,NAIA
+58a11c28-6fa3-4725-9269-27b3208d71ad,Mami,Selemani,Mami Selemani,William Penn,WPEN,123,,NAIA
+233072bb-ddda-4cf7-9f6b-04232522ad07,MaQuoia,Bernabe,MaQuoia Bernabe,Cumberlands (W),UC,191,3,NAIA
+cb3d4411-53ea-4c27-9a85-ffabc18a1cdd,Maria,Lopez-Garcia,Maria Lopez-Garcia,Simpson (W),SIMP,123,,NAIA
+e358934e-e068-4bd1-8d73-bd9afb377c2c,Mariah,Spix,Mariah Spix,Lyon (W),LC,116,,NAIA
+283be2c3-798b-4275-85b0-631ec0478146,Marissa,Burt,Marissa Burt,Jamestown (W),JMST,123,,NAIA
+df95a9e7-5f89-4f99-922c-5b01d7c65fb9,Marlene,Avila,Marlene Avila,Grand View (W),GRVW,130,,NAIA
+caed3154-fab8-4aec-abc0-2a3d7add12ad,Martha,Vizcarra,Martha Vizcarra,Baker (W),BKR,191,8,NAIA
+00731b67-d3a4-4c28-be4c-8fb8a06d7e97,Maryellen,Lafferty,Maryellen Lafferty,Texas Wesleyan (W),TXWS,143,11,NAIA
+4e6421c9-5976-421f-bee3-cff42ea7ab66,Mattalynn,Meek,Mattalynn Meek,Lourdes,LRDS,109,,NAIA
+7bcff079-b811-43de-88f5-bfc1c7ec6d04,Mattison,Parker,Mattison Parker,Oklahoma City (W),OCU,136,7,NAIA
+63f5b215-b58f-4288-856c-6355590f354f,McKayla,Campbell,McKayla Campbell,Campbellsville (W),CU,109,1,NAIA
+b5c2dec3-4b0c-494a-9cba-68a11b37b06b,Mea,Mohler,Mea Mohler,Texas Wesleyan (W),TXWS,130,3,NAIA
+566a7b3a-21ed-4b6c-84ca-5db7f64f824a,Melanie,Salazar,Melanie Salazar,Simpson (W),SIMP,109,,NAIA
+953b54eb-8b98-4df5-9d49-947594cafa39,Mia,Arceneaux,Mia Arceneaux,Wayland Baptist (W),WBU,109,,NAIA
+b80e2771-412b-4d90-ba4a-ac7ad73069ef,Michaela,Childs,Michaela Childs,Oklahoma City (W),OCU,109,,NAIA
+298f8cc7-e5f7-4427-8497-43b94bf0436b,Michelle,Kamyshin,Michelle Kamyshin,Cumberlands (W),UC,170,,NAIA
+eb855697-41d9-47d3-a86e-1961f47fb928,MikaRae,Mauldin,MikaRae Mauldin,York (W),YORK,130,,NAIA
+b9735081-f461-400e-afa9-69fb7dcabfae,Morgan,Mayginnes,Morgan Mayginnes,Baker (W),BKR,155,2,NAIA
+66e52cd1-8dec-4315-86c1-73a601e1b0e2,Nancy,Becerra,Nancy Becerra,Missouri Valley (W),MVC,143,8,NAIA
+c1b74b10-051d-4b36-9c85-3662a307556d,Natalia,Villegas,Natalia Villegas,Grand View (W),GRVW,191,9,NAIA
+060eabff-b058-41fb-9687-39f70c877e3f,Nayeli,Maston,Nayeli Maston,Eastern Oregon (W),EOU,155,,NAIA
+cd38a13f-d801-4799-acfc-7e88f7c1d6a4,Nayeli,Flores,Nayeli Flores,Eastern Oregon (W),EOU,109,,NAIA
+70645e49-8708-41a0-b283-c3df7fc1313d,Nichole,Moore,Nichole Moore,Baker (W),BKR,123,5,NAIA
+177c4f11-3c28-4571-a602-fd59015020e4,Nina,Pham,Nina Pham,Wayland Baptist (W),WBU,101,1,NAIA
+0ad379d9-6653-4698-9b80-51e79ad618df,Nkechinyere,Nwankwo,Nkechinyere Nwankwo,Oklahoma City (W),OCU,191,1,NAIA
+7aff6928-8590-4cde-9c91-35c83173497a,Olivia,Ricci,Olivia Ricci,Wayland Baptist (W),WBU,170,11,NAIA
+835a5374-97f7-44da-b0eb-c95ab4836958,Olivia,Branson,Olivia Branson,Baker (W),BKR,123,,NAIA
+dc704df4-a5e4-4d9d-84e3-39e73377ead2,Olivia,Robinson,Olivia Robinson,Eastern Oregon (W),EOU,191,,NAIA
+0dcb4b95-4137-4af2-a285-c65483f3d9e8,Paige,Kalish,Paige Kalish,Brewton Parker (W),BPC,136,,NAIA
+c1ff5a37-eef0-4f44-bfb1-160f9747c474,Peyton,Prussin,Peyton Prussin,Life (W),LIFE,116,1,NAIA
+f58dd59f-667f-4058-9b9e-abc6082e1d0d,Prethy,Enriquez,Prethy Enriquez,Midland (W),MIDL,123,,NAIA
+73a54699-e142-409f-a259-718028fb8767,Rachel,Rodawald,Rachel Rodawald,Central Methodist (W),CMTH,155,,NAIA
+1d5673db-4c6b-436a-9c2e-da7fc3272c20,Randi,Robison,Randi Robison,Campbellsville (W),CU,136,2,NAIA
+930a3c76-6ae0-4868-b19b-b9bc81822ba2,Raven,Guidry,Raven Guidry,Oklahoma City (W),OCU,116,10,NAIA
+e547c695-c839-48cf-b0d2-d9c9e260c659,Rayana,Sahagun,Rayana Sahagun,Jamestown (W),JMST,109,2,NAIA
+e2f3abab-48a0-4ade-b677-5968e8eff30a,Rayana,Vigil,Rayana Vigil,Southern Oregon (W),SO,191,10,NAIA
+ef584f2c-a43f-4405-8d2c-82630001f33f,Rebekah,Garcia,Rebekah Garcia,Lyon (W),LC,136,,NAIA
+75b14d0a-e643-48d9-83fb-8ee9fc4b463a,Rebekah,Cordova,Rebekah Cordova,Wayland Baptist (W),WBU,123,8,NAIA
+46bdcfc5-c9f9-4243-9027-aa9653a4ece6,Remy,Vargas,Remy Vargas,Jamestown (W),JMST,136,,NAIA
+3057a2b3-10a0-4575-b606-04edfaa4c385,Riley,Horvath,Riley Horvath,Indiana Tech,INDT,116,,NAIA
+4915a882-2deb-4dab-a73c-8583856859fb,Riley,Dalrymple,Riley Dalrymple,Life (W),LIFE,130,7,NAIA
+baeecff7-ecf4-47c9-9b82-e0036df684d4,Sabrina,Perez,Sabrina Perez,Providence (W),PRO,170,,NAIA
+f10919e8-850a-4c20-81b0-4eb17dcc7093,Salem,Scobee,Salem Scobee,Midland (W),MIDL,109,,NAIA
+07eb0557-9364-434d-870a-d6d77ff2ff28,Salima,Omari,Salima Omari,William Penn,WPEN,155,10,NAIA
+4c5f8aa6-e9d2-434a-862e-6bd9edcf8c41,Samantha,Ruano,Samantha Ruano,William Penn,WPEN,191,,NAIA
+b3b3e7b9-c38b-4a90-b125-d66f3ff5a0ce,Samantha,Segura-Veliz,Samantha Segura-Veliz,Midland (W),MIDL,143,,NAIA
+bdf3d214-1f23-4f09-807c-1d4d89f61336,Samantha,Weeks,Samantha Weeks,Jamestown (W),JMST,123,,NAIA
+c4db8b5a-7d8e-4f1b-a531-c492e3d74491,Samantha,Snow,Samantha Snow,Indiana Tech,INDT,143,4,NAIA
+12e6ee05-db3e-47d0-8981-f59f6f9e212c,Savanna,McCutchen,Savanna McCutchen,Missouri Valley (W),MVC,136,9,NAIA
+93f54b30-f47e-4fb1-a01d-0c0e4562fd6c,Savannah,Kiddoo,Savannah Kiddoo,Central Methodist (W),CMTH,109,,NAIA
+6950eafb-b6fa-49c3-a7bc-8177bc26c39f,Serena,Sanchez,Serena Sanchez,Midland (W),MIDL,191,,NAIA
+99708107-b643-4349-91bc-f76f38cc2b3a,Serenity,Durham Goree,Serenity Durham Goree,Midland (W),MIDL,116,5,NAIA
+fa4be474-ebfd-4ca1-8407-4420238cf7cb,Shania,Gowan,Shania Gowan,Missouri Baptist (W),MBU,170,8,NAIA
+d83ada40-42cb-4a98-89f3-203041be50d4,Sienna,Ramirez,Sienna Ramirez,Southern Oregon (W),SO,155,8,NAIA
+079ac45f-17e4-4fc6-b4d5-a6db38c2d257,Sierra,Talmadge,Sierra Talmadge,Jamestown (W),JMST,170,5,NAIA
+754d1d53-2aa9-465e-9d05-d30b8e190f78,Sierra,Hartfelder,Sierra Hartfelder,Brewton Parker (W),BPC,143,,NAIA
+f9b09c47-1467-4bbb-912f-dcc814fb4080,Sitilaly,Sanchez,Sitilaly Sanchez,Life Pacific (W),LPCF,155,,NAIA
+5f2606b7-db30-4345-9ab6-ce4d9983f51a,Sophia,Smith,Sophia Smith,Oklahoma City (W),OCU,130,9,NAIA
+5201bef0-e55a-4639-a47d-3cc86a99abb4,Stefana,Jelacic,Stefana Jelacic,Lourdes,LRDS,116,3,NAIA
+db2f08ba-6e35-4dc8-9272-604a44077cee,Stephanie,Blankenship,Stephanie Blankenship,Warner Pacific (W),WPAC,116,,NAIA
+cc6c3099-6b0e-47ae-bccd-a7c7e31f4b45,Sydney,Freund,Sydney Freund,Oklahoma City (W),OCU,143,2,NAIA
+1fd23cc1-aa85-4933-9db5-e099b955986b,Sydney,Mcghee,Sydney Mcghee,Missouri Baptist (W),MBU,116,11,NAIA
+4a96ef6c-bb67-42d2-9df2-e53a6e6f2b5a,Sydney,Lewis,Sydney Lewis,Indiana Tech,INDT,130,,NAIA
+364390aa-c032-4585-9ed1-6eb2dac5a71a,Tara,Othman,Tara Othman,Southern Oregon (W),SO,123,11,NAIA
+c456b994-6cdd-43a4-a54b-de47f6abd2c1,Tayler,Hayase,Tayler Hayase,Midland (W),MIDL,136,,NAIA
+ffbf5975-0d9c-4242-bca0-a0c220a0bab2,Tehani,Soares,Tehani Soares,Indiana Tech,INDT,109,4,NAIA
+3c5e3107-c508-447d-b3fd-f8a7294f2948,Teya,Villalpando,Teya Villalpando,St. Mary (W),STM,130,,NAIA
+c4e70ae2-bee5-4b3d-a191-0aacb5db70f3,Theresa,Rankin,Theresa Rankin,Lourdes,LRDS,123,9,NAIA
+dda5f50b-4916-4557-8aef-012647f150e9,Tiyahna,Askew,Tiyahna Askew,Missouri Baptist (W),MBU,155,4,NAIA
+da07219d-a72a-40ed-b9be-502646ae6ead,Triniya,Walker,Triniya Walker,Central Methodist (W),CMTH,191,,NAIA
+6f8f20fa-128d-4233-8973-7eb9d6fc5578,Unity,Cordova,Unity Cordova,Life (W),LIFE,101,5,NAIA
+5030ce96-40e7-4899-b925-8f4bd913b621,Valeria,Davilla,Valeria Davilla,Wayland Baptist (W),WBU,116,,NAIA
+74ca4a43-886b-4869-b635-38252b9dfa2b,Victoria,Herrera,Victoria Herrera,St. Mary (W),STM,136,,NAIA
+cd9de4a1-b5e7-47d9-acac-7cd599f53179,Victoria,Hinojo,Victoria Hinojo,Oklahoma City (W),OCU,191,,NAIA
+1b1cb719-f336-4d2c-a3f8-a875be13cc29,Waipuilani,Estrella-Beauchamp,Waipuilani Estrella-Beauchamp,Midland (W),MIDL,143,1,NAIA
+2317e260-9af7-4c60-bd6b-84826b6f5b2f,Whitley,Blake,Whitley Blake,Indiana Tech,INDT,101,,NAIA
+3755fdf1-e228-4ff1-a41a-ccde86b0450a,Willow,Barnes,Willow Barnes,Missouri Valley (W),MVC,130,,NAIA
+cbd9c5ad-f330-4f22-bab4-f0b80e28ca73,Xylia,Warner,Xylia Warner,Corban,CRBN,130,,NAIA
+997d103d-1c3d-4de6-b9b3-9ebe74314329,Yahaira,Vargas,Yahaira Vargas,Central Methodist (W),CMTH,170,,NAIA

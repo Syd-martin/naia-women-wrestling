@@ -6,8 +6,9 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Statistics
+      - href: about.qmd
+        text: Website Context
 
 format:
   html:

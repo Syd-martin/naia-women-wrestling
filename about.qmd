@@ -1,5 +1,5 @@
 ---
-title: "About The Project"
+title: "Website Context"
 subtitle: "Pioneering the Mat: The Story of NAIA Women's Wrestling"
 ---
 

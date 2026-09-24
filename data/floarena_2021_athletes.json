@@ -1,0 +1,6817 @@
+{
+  "status": "SUCCESS",
+  "response": [
+    {
+      "guid": "221beeaf-96b9-46c6-b51d-b3ad819a628e",
+      "firstName": "Abbie",
+      "lastName": "Jones",
+      "team": {
+        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+        "name": "Baker (W)",
+        "abbreviation": "BKR"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "87c1232b-ea18-4c07-98aa-0605315e057b"
+    },
+    {
+      "guid": "3af7a109-61a0-4555-9cf7-1b2200787c93",
+      "firstName": "Abigail",
+      "lastName": "Halstead",
+      "team": {
+        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+        "name": "Baker (W)",
+        "abbreviation": "BKR"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": "26e4354d-b111-435b-b32c-aa07d5e3f1e9"
+    },
+    {
+      "guid": "fa5dd239-1cd3-4f86-92d0-c8eb3bc6fb77",
+      "firstName": "Akemi",
+      "lastName": "Garcia",
+      "team": {
+        "guid": "bc976fb7-29e6-4e21-91b9-cfbbb6aae557",
+        "name": "Lourdes",
+        "abbreviation": "LRDS"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "1b347225-9fe2-4eaa-99d0-ec15d588cd0f",
+      "firstName": "Akina",
+      "lastName": "Yamada",
+      "team": {
+        "guid": "77a8aaf6-ee1e-4560-89f4-6432eedc6e6c",
+        "name": "Waldorf (W)",
+        "abbreviation": "WU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 9,
+      "identityPersonGuid": "690e39c3-c1d8-4db3-ad8a-4ea2a6294b13"
+    },
+    {
+      "guid": "7c02b2d0-ca01-4948-84ef-047387baea31",
+      "firstName": "Alaura",
+      "lastName": "Couch",
+      "team": {
+        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+        "name": "Grand View (W)",
+        "abbreviation": "GRVW"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 8,
+      "identityPersonGuid": "c5cfa662-7188-4eee-809f-b0ff4a1b4386"
+    },
+    {
+      "guid": "c53084a6-76b0-4863-9eb1-95f4f1126dc2",
+      "firstName": "Alesandra",
+      "lastName": "Burgos",
+      "team": {
+        "guid": "27c77652-3b88-40ef-9de6-6c52fe6f85ba",
+        "name": "Brewton Parker (W)",
+        "abbreviation": "BPC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": "a93c1a87-1b77-46f2-9f15-4c271d0f610d"
+    },
+    {
+      "guid": "fefc32d7-4eb6-47ba-bff3-53bee6ae657f",
+      "firstName": "Alessia",
+      "lastName": "Cokeley",
+      "team": {
+        "guid": "08dbee50-6f96-46ff-a233-52bd92835433",
+        "name": "Ottawa (W)",
+        "abbreviation": "OU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": "0327d0a1-5bfc-4a35-a0f0-641eaeb94e70"
+    },
+    {
+      "guid": "423d6c8c-71e5-4bc4-a079-014a191bd2f7",
+      "firstName": "Alexandra",
+      "lastName": "Martinez",
+      "team": {
+        "guid": "27c77652-3b88-40ef-9de6-6c52fe6f85ba",
+        "name": "Brewton Parker (W)",
+        "abbreviation": "BPC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": "bcf9693e-a6ef-4b5a-a327-82bb26684530"
+    },
+    {
+      "guid": "7c613749-5c10-4da5-885c-7b0b5cc94cd2",
+      "firstName": "Alexandra",
+      "lastName": "Baudhuin",
+      "team": {
+        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+        "name": "Jamestown (W)",
+        "abbreviation": "JMST"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 6,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "92c4a6c6-239f-4c6f-a5a8-74311bfc6347",
+      "firstName": "Alexandra",
+      "lastName": "Castillo",
+      "team": {
+        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+        "name": "Campbellsville (W)",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 1,
+      "identityPersonGuid": "7601377e-25c8-4fc3-8aed-6e42636fc089"
+    },
+    {
+      "guid": "53f69a7c-5024-4fe1-970b-757b1340a3b6",
+      "firstName": "Alexandrea",
+      "lastName": "Banag",
+      "team": {
+        "guid": "61fca54f-e41b-4ddd-aee6-e35bb01ed5e5",
+        "name": "Lyon (W)",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": "b38a20ab-5211-461d-99af-4abf8f6dd5b1"
+    },
+    {
+      "guid": "6f6b9eb7-172c-4b85-a568-5e2f92e66a5e",
+      "firstName": "Alexis",
+      "lastName": "Lopez",
+      "team": {
+        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+        "name": "Grand View (W)",
+        "abbreviation": "GRVW"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "28321745-3319-421e-8713-d1082bbb515a",
+      "firstName": "Alisha\tVan",
+      "lastName": "Scoy",
+      "team": {
+        "guid": "27dbe721-7786-4084-a8d3-88ab4f2f5054",
+        "name": "St. Mary (W)",
+        "abbreviation": "STM"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "de96b6e8-d55d-42d0-8de0-0eb10d3c0646",
+      "firstName": "Aliyah",
+      "lastName": "Ashby",
+      "team": {
+        "guid": "0a50cb79-7d94-40ee-b0cf-654428fbad15",
+        "name": "Central Methodist (W)",
+        "abbreviation": "CMTH"
+      },
+      "city": "Kansas City",
+      "zipCode": "64119",
+      "state": "MO",
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": "f4ff8e36-2f87-45f8-bbf6-0f432c44210c"
+    },
+    {
+      "guid": "8fb1ccff-6a87-45cf-86db-b3d081f60922",
+      "firstName": "Allyson",
+      "lastName": "Arrington",
+      "team": {
+        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+        "name": "Cumberlands (W)",
+        "abbreviation": "UC"
+      },
+      "city": "Long Beach",
+      "zipCode": "90807",
+      "state": "CA",
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "626623f4-a1b7-4619-88a8-e7f19b8b42c6"
+    },
+    {
+      "guid": "38943ddf-6863-4a8d-9c74-48480ddb0d3a",
+      "firstName": "Alyssa",
+      "lastName": "Schuller",
+      "team": {
+        "guid": "9ca94678-e6c9-4308-a21d-d5327259a6a4",
+        "name": "Indiana Tech",
+        "abbreviation": "INDT"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 6,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "adbb5e48-28a0-4d34-82c8-b89cac88bc1b",
+      "firstName": "Amy",
+      "lastName": "Fuller",
+      "team": {
+        "guid": "92955ae0-c4d1-44c2-aa75-a2b7faa1cc06",
+        "name": "Hastings",
+        "abbreviation": "HSTG"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 11,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "45044b98-600a-4e88-839a-365ae3e33159",
+      "firstName": "Anastasia",
+      "lastName": "Hardin",
+      "team": {
+        "guid": "5e56c3eb-d9b7-4756-aefd-6705698916bd",
+        "name": "Providence (W)",
+        "abbreviation": "PRO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "4853470d-7584-4254-85e2-6c9c8f662ce9",
+      "firstName": "Andrea",
+      "lastName": "Montoya",
+      "team": {
+        "guid": "0a50cb79-7d94-40ee-b0cf-654428fbad15",
+        "name": "Central Methodist (W)",
+        "abbreviation": "CMTH"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "d6a7c940-69be-4784-9188-a58349df2b19"
+    },
+    {
+      "guid": "863a3a37-7f5e-4186-a224-bbc4db7edb7e",
+      "firstName": "Andrea",
+      "lastName": "Schlabach",
+      "team": {
+        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+        "name": "Grand View (W)",
+        "abbreviation": "GRVW"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 3,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "17748856-b7fd-4151-8323-9b8e0b8bd623",
+      "firstName": "Angela",
+      "lastName": "Vitiritti",
+      "team": {
+        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+        "name": "Campbellsville (W)",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 2,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "f5339dbd-98c9-4e23-a59d-727d8447e194",
+      "firstName": "Angelina",
+      "lastName": "Prado",
+      "team": {
+        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+        "name": "Life (W)",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 5,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "e433a767-ff9d-49a0-9194-bc1938e3aa6e",
+      "firstName": "Angelina",
+      "lastName": "Casteneda",
+      "team": {
+        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+        "name": "Cumberlands (W)",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "8f854652-e096-4315-9c1e-88a5ea33014e",
+      "firstName": "Angelique",
+      "lastName": "Cervantes",
+      "team": {
+        "guid": "2fa37143-d1c9-4ee2-84c3-be1c9dbbc62d",
+        "name": "Life Pacific (W)",
+        "abbreviation": "LPCF"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "56b540b8-5a18-431e-a0aa-91bf26070e2a",
+      "firstName": "Anjelynn",
+      "lastName": "Baron",
+      "team": {
+        "guid": "3427cbee-a47d-4e63-ac2a-c5642681b296",
+        "name": "Eastern Oregon (W)",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "8fa12523-78e4-4039-800e-e1b76825e172",
+      "firstName": "Ann",
+      "lastName": "Marie\tHidalgo",
+      "team": {
+        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+        "name": "Jamestown (W)",
+        "abbreviation": "JMST"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "8c0f1afd-7cc9-464f-aa10-25894916ebe3",
+      "firstName": "Aphrodite",
+      "lastName": "Ayala",
+      "team": {
+        "guid": "27c2b67b-ce23-45ee-963c-7e23e483bd6e",
+        "name": "Simpson (W)",
+        "abbreviation": "SIMP"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "6ff4ecc8-ac04-4ce1-81f9-b0a848216165",
+      "firstName": "Ariana",
+      "lastName": "Pereria",
+      "team": {
+        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+        "name": "Cumberlands (W)",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "1b654e46-ce5a-46cd-b489-7ed913eaa92d",
+      "firstName": "Arianna",
+      "lastName": "Marrufo",
+      "team": {
+        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+        "name": "Jamestown (W)",
+        "abbreviation": "JMST"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 8,
+      "identityPersonGuid": "d9e60d66-ef53-4b38-b4cf-24ff5f72c8ec"
+    },
+    {
+      "guid": "c5e272e0-77e6-497b-90c4-864ba4bcc692",
+      "firstName": "Ashlee",
+      "lastName": "Palimo'o",
+      "team": {
+        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+        "name": "Midland (W)",
+        "abbreviation": "MIDL"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "1acdc865-f89c-489d-87c2-8e51fb4d0565",
+      "firstName": "Ashley",
+      "lastName": "Ikner",
+      "team": {
+        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+        "name": "Cumberlands (W)",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 7,
+      "identityPersonGuid": "c824f46f-9040-4dee-9012-5f20316b5638"
+    },
+    {
+      "guid": "afd469bd-6c91-459a-8f15-4b3fc869099c",
+      "firstName": "Ashley",
+      "lastName": "Whetzal",
+      "team": {
+        "guid": "61fca54f-e41b-4ddd-aee6-e35bb01ed5e5",
+        "name": "Lyon (W)",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 4,
+      "identityPersonGuid": "5f76222f-9bb4-4d18-83f8-3c84a830d004"
+    },
+    {
+      "guid": "5a3eed22-85f0-4199-81f3-e0ec407c7db3",
+      "firstName": "Asia",
+      "lastName": "Ray",
+      "team": {
+        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+        "name": "Wayland Baptist (W)",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 3,
+      "identityPersonGuid": "3fe56018-47ba-47a6-80b3-e9fe4e8a5437"
+    },
+    {
+      "guid": "852cd3c6-7e7b-48b1-bea6-850090da2f6b",
+      "firstName": "Audree",
+      "lastName": "Garcia",
+      "team": {
+        "guid": "9e384719-b68c-4589-97c8-a4e3a846daa7",
+        "name": "Central Christian (W)",
+        "abbreviation": "CCCK"
+      },
+      "city": "Amarillo",
+      "zipCode": "79110",
+      "state": "TX",
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": "d3a323ee-8ff9-448e-ad6d-989098adf683"
+    },
+    {
+      "guid": "d86799bf-f40e-4b20-9ff0-2328fbdd39fc",
+      "firstName": "Autumn",
+      "lastName": "Barela",
+      "team": {
+        "guid": "0a50cb79-7d94-40ee-b0cf-654428fbad15",
+        "name": "Central Methodist (W)",
+        "abbreviation": "CMTH"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "ffd4707a-9e0b-43a5-a257-807795ddc5f5",
+      "firstName": "Avery",
+      "lastName": "Thomason",
+      "team": {
+        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+        "name": "Midland (W)",
+        "abbreviation": "MIDL"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": "64f8d64f-2117-4595-b899-e17c81b9ee68"
+    },
+    {
+      "guid": "0585e64b-6c4b-48a7-906a-068da9a11913",
+      "firstName": "Bailey",
+      "lastName": "Dennis",
+      "team": {
+        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+        "name": "Southern Oregon (W)",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "575aaf36-b150-4bf4-90a5-3bc831d22784",
+      "firstName": "Baylie",
+      "lastName": "Koonce",
+      "team": {
+        "guid": "27dbe721-7786-4084-a8d3-88ab4f2f5054",
+        "name": "St. Mary (W)",
+        "abbreviation": "STM"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "cf15830b-902b-40b8-8916-22542c430e32",
+      "firstName": "Bella",
+      "lastName": "Mitchell",
+      "team": {
+        "guid": "107e6385-fdf3-44a2-9f1b-c3a7d703edab",
+        "name": "York (W)",
+        "abbreviation": "YORK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 9,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "41dab8d4-8594-4074-a6d7-ab0a30bd3444",
+      "firstName": "Berenice",
+      "lastName": "Espino",
+      "team": {
+        "guid": "77a8aaf6-ee1e-4560-89f4-6432eedc6e6c",
+        "name": "Waldorf (W)",
+        "abbreviation": "WU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": "91cf6bd9-5dcf-4134-ba70-5df3af654d0a"
+    },
+    {
+      "guid": "f92ad07c-d0a9-42d0-9753-2f4225433050",
+      "firstName": "Beyonce",
+      "lastName": "Garcia",
+      "team": {
+        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+        "name": "Southern Oregon (W)",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "a56c0cee-19a4-43b3-9928-843c28b84755",
+      "firstName": "Breanna",
+      "lastName": "Mestas",
+      "team": {
+        "guid": "b02b0ced-a830-491a-ae8f-2888bcd1940c",
+        "name": "Corban",
+        "abbreviation": "CRBN"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "8bf69162-b980-4ca7-8eea-5914836260ba",
+      "firstName": "Briana",
+      "lastName": "Kellin",
+      "team": {
+        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+        "name": "Life (W)",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 5,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "612219d2-592e-4973-beb8-4bf7e4b3ece2",
+      "firstName": "Brianna",
+      "lastName": "Staebler",
+      "team": {
+        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+        "name": "Campbellsville (W)",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "2774d913-845c-4338-883b-6c776d1551af",
+      "firstName": "Bridgette",
+      "lastName": "Duty",
+      "team": {
+        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+        "name": "Cumberlands (W)",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 1,
+      "identityPersonGuid": "cb395fd1-3c45-4de1-a91c-b14d6e10d721"
+    },
+    {
+      "guid": "0f44e551-2dbc-4f65-b5c6-84b0b0fb2068",
+      "firstName": "Brigid",
+      "lastName": "Shannon",
+      "team": {
+        "guid": "b02b0ced-a830-491a-ae8f-2888bcd1940c",
+        "name": "Corban",
+        "abbreviation": "CRBN"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "fd87d046-8c78-4dab-ae1b-2f48c98b1666",
+      "firstName": "Brittani",
+      "lastName": "Burgess",
+      "team": {
+        "guid": "08dbee50-6f96-46ff-a233-52bd92835433",
+        "name": "Ottawa (W)",
+        "abbreviation": "OU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "153bb312-762b-4863-9b78-5fe5ba574f50",
+      "firstName": "Brooke",
+      "lastName": "Burrows",
+      "team": {
+        "guid": "b02b0ced-a830-491a-ae8f-2888bcd1940c",
+        "name": "Corban",
+        "abbreviation": "CRBN"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "2a4b16b7-860d-49cf-8af0-45427bac8854",
+      "firstName": "Brooke",
+      "lastName": "Lynn Rush",
+      "team": {
+        "guid": "6bc6e0ab-85a5-449f-beed-8f54ffeb10ed",
+        "name": "Missouri Valley (W)",
+        "abbreviation": "MVC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "789922e5-2819-4275-bbaa-3aa5ef119125",
+      "firstName": "Brooke",
+      "lastName": "Cicierski",
+      "team": {
+        "guid": "5e56c3eb-d9b7-4756-aefd-6705698916bd",
+        "name": "Providence (W)",
+        "abbreviation": "PRO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "b754fafa-f128-4053-a1b1-3c4275690a71",
+      "firstName": "Brooklyn",
+      "lastName": "Hermel",
+      "team": {
+        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+        "name": "Oklahoma City (W)",
+        "abbreviation": "OCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "2348395e-5f7c-4a0b-9168-495fa2ad55be",
+      "firstName": "Cameryn",
+      "lastName": "Hulbert",
+      "team": {
+        "guid": "107e6385-fdf3-44a2-9f1b-c3a7d703edab",
+        "name": "York (W)",
+        "abbreviation": "YORK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "896b1bfd-82f3-4490-861e-398d096cba7f",
+      "firstName": "Camille",
+      "lastName": "Fournier",
+      "team": {
+        "guid": "220acdc8-eddd-472f-b9b0-182b677876eb",
+        "name": "Texas Wesleyan (W)",
+        "abbreviation": "TXWS"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 2,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "0c17e7ce-9426-4814-94df-bcfe07e25cdd",
+      "firstName": "Carolina",
+      "lastName": "Johnson",
+      "team": {
+        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+        "name": "Southern Oregon (W)",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": "4abefa8c-3372-47c2-8b30-7c53b6c7db1f"
+    },
+    {
+      "guid": "b0d2a68c-ebb0-451e-97c0-89f339de21dc",
+      "firstName": "Carson",
+      "lastName": "Williams",
+      "team": {
+        "guid": "b02b0ced-a830-491a-ae8f-2888bcd1940c",
+        "name": "Corban",
+        "abbreviation": "CRBN"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "4b3f4599-c84f-4d9e-930c-d08ecd5c8a9d",
+      "firstName": "Caryssa",
+      "lastName": "Aguirre",
+      "team": {
+        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+        "name": "Wayland Baptist (W)",
+        "abbreviation": "WBU"
+      },
+      "city": "Plainview",
+      "zipCode": "79072",
+      "state": "TX",
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 11,
+      "identityPersonGuid": "b29432e4-0f9f-4cf9-8546-6ae0a36deeeb"
+    },
+    {
+      "guid": "b0d5d18b-f4f4-4d82-b29c-d225c722b5cd",
+      "firstName": "Cassidy",
+      "lastName": "Anderson",
+      "team": {
+        "guid": "9e384719-b68c-4589-97c8-a4e3a846daa7",
+        "name": "Central Christian (W)",
+        "abbreviation": "CCCK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "2925f791-8871-4b4d-a22b-bd0795f6b372",
+      "firstName": "Catherine",
+      "lastName": "McNulty",
+      "team": {
+        "guid": "9ca94678-e6c9-4308-a21d-d5327259a6a4",
+        "name": "Indiana Tech",
+        "abbreviation": "INDT"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "c7ae3f84-1993-4ac5-9048-556821e25f3d",
+      "firstName": "Catherine",
+      "lastName": "Palmieri",
+      "team": {
+        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+        "name": "Life (W)",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 5,
+      "identityPersonGuid": "17598bfd-a577-478f-bf40-5131c731dba3"
+    },
+    {
+      "guid": "effd8aa8-7fc1-4e61-b873-f218b994ac4e",
+      "firstName": "Chalimar",
+      "lastName": "Rodriguez",
+      "team": {
+        "guid": "accbd99e-0ebc-48d1-97da-552604541159",
+        "name": "William Penn",
+        "abbreviation": "WPEN"
+      },
+      "city": "Keller",
+      "zipCode": "76244",
+      "state": "TX",
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 10,
+      "identityPersonGuid": "59e69cb5-2bba-49f5-acd8-bbdf44e96edf"
+    },
+    {
+      "guid": "b764233e-bec5-4cdf-99ba-8caf804bd5ca",
+      "firstName": "Chamira",
+      "lastName": "Cooper",
+      "team": {
+        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+        "name": "Cumberlands (W)",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 4,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "4b6d2792-2575-4e96-bd0a-5897b6b13e56",
+      "firstName": "Charity",
+      "lastName": "Goldsmith-Ding",
+      "team": {
+        "guid": "107e6385-fdf3-44a2-9f1b-c3a7d703edab",
+        "name": "York (W)",
+        "abbreviation": "YORK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 6,
+      "identityPersonGuid": "11fb99ec-b96b-4d26-a939-844b7c65a8bc"
+    },
+    {
+      "guid": "9b1a3788-ecae-4942-bb00-5d30d1eba886",
+      "firstName": "Charlotte",
+      "lastName": "Fowler",
+      "team": {
+        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+        "name": "Campbellsville (W)",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 7,
+      "identityPersonGuid": "1e779ae6-9c6f-4875-8e0e-0e34e40a7d5f"
+    },
+    {
+      "guid": "6e970203-2b42-404e-8487-658ebcdda238",
+      "firstName": "Charmayne",
+      "lastName": "DeLong",
+      "team": {
+        "guid": "9ca94678-e6c9-4308-a21d-d5327259a6a4",
+        "name": "Indiana Tech",
+        "abbreviation": "INDT"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 8,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "67186be6-af1b-4e90-a53d-6a0ff599a014",
+      "firstName": "Chloe",
+      "lastName": "Krebsbach",
+      "team": {
+        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+        "name": "Grand View (W)",
+        "abbreviation": "GRVW"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 10,
+      "identityPersonGuid": "8573e39b-b74f-4bc3-8409-ce38736232c1"
+    },
+    {
+      "guid": "a50aad2c-7a04-4854-b60e-3eb519408bcd",
+      "firstName": "Cierra",
+      "lastName": "Broukal",
+      "team": {
+        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+        "name": "Campbellsville (W)",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "b6871c28-83c5-4325-b653-d9d7598b6e89",
+      "firstName": "Cierra",
+      "lastName": "Foster",
+      "team": {
+        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+        "name": "Oklahoma City (W)",
+        "abbreviation": "OCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 1,
+      "identityPersonGuid": "52e23b86-9ee0-4b19-9bf9-32d0193e37be"
+    },
+    {
+      "guid": "27bdaae4-bfca-45b0-bb98-cae00334c0bf",
+      "firstName": "Claire",
+      "lastName": "Payne",
+      "team": {
+        "guid": "107e6385-fdf3-44a2-9f1b-c3a7d703edab",
+        "name": "York (W)",
+        "abbreviation": "YORK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": "15901e05-00dd-4fd4-b78f-d2157e3966a7"
+    },
+    {
+      "guid": "d2d84bda-f622-4f39-8ec0-bbf4c914df40",
+      "firstName": "Cora",
+      "lastName": "Johnson",
+      "team": {
+        "guid": "0a50cb79-7d94-40ee-b0cf-654428fbad15",
+        "name": "Central Methodist (W)",
+        "abbreviation": "CMTH"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "b029102c-8ab5-4d22-b124-a1909603f93a",
+      "firstName": "Corinne",
+      "lastName": "Robertson",
+      "team": {
+        "guid": "08dbee50-6f96-46ff-a233-52bd92835433",
+        "name": "Ottawa (W)",
+        "abbreviation": "OU"
+      },
+      "city": "Blue Springs",
+      "zipCode": "64015",
+      "state": "MO",
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": "410d2f99-f57a-47f8-9426-391ea77aec4d"
+    },
+    {
+      "guid": "f70662bf-1018-45b1-89d8-dd55f9543f9c",
+      "firstName": "Daniella",
+      "lastName": "Seely",
+      "team": {
+        "guid": "798b7d9e-62df-40d6-901a-d5d2b1ab39ea",
+        "name": "Missouri Baptist (W)",
+        "abbreviation": "MBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "5deae358-0615-4ecf-8687-d267c8395b95",
+      "firstName": "Danielle",
+      "lastName": "Saldivar",
+      "team": {
+        "guid": "6bc6e0ab-85a5-449f-beed-8f54ffeb10ed",
+        "name": "Missouri Valley (W)",
+        "abbreviation": "MVC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 9,
+      "identityPersonGuid": "a0b09fe4-2be8-4e06-bac7-68051da002dc"
+    },
+    {
+      "guid": "7f82ee59-c29d-46b9-8bf4-fa479b30bd7c",
+      "firstName": "Daviona",
+      "lastName": "Bonner",
+      "team": {
+        "guid": "0a50cb79-7d94-40ee-b0cf-654428fbad15",
+        "name": "Central Methodist (W)",
+        "abbreviation": "CMTH"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": "3e004887-ab0c-4acd-aab0-8f7c1182bf99"
+    },
+    {
+      "guid": "02ab4514-2f9e-4ec2-b116-83b6cb6e1026",
+      "firstName": "De'anna",
+      "lastName": "Prince",
+      "team": {
+        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+        "name": "Wayland Baptist (W)",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 10,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "280152f4-5044-480b-909c-736c2f6cb38d",
+      "firstName": "Dempsi",
+      "lastName": "Talkington",
+      "team": {
+        "guid": "3427cbee-a47d-4e63-ac2a-c5642681b296",
+        "name": "Eastern Oregon (W)",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": "2e1b1ec3-b75e-424c-ba3b-4817602923f1"
+    },
+    {
+      "guid": "456c36a2-0c81-4fbd-8f72-c6fe673c7759",
+      "firstName": "Derriane",
+      "lastName": "Morrison",
+      "team": {
+        "guid": "08dbee50-6f96-46ff-a233-52bd92835433",
+        "name": "Ottawa (W)",
+        "abbreviation": "OU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "ae09acc3-512f-479a-a1be-6ae4199d9aee",
+      "firstName": "Desiree",
+      "lastName": "Zavala",
+      "team": {
+        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+        "name": "Wayland Baptist (W)",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 1,
+      "identityPersonGuid": "836e9a42-e6f4-406f-b96a-75b2ccc251c2"
+    },
+    {
+      "guid": "33af43fa-58c5-4870-9ce2-c6be06aca318",
+      "firstName": "Destinee",
+      "lastName": "Rivera",
+      "team": {
+        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+        "name": "Life (W)",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 7,
+      "identityPersonGuid": "ad4cb126-c69c-43c4-a274-82762f8e7aec"
+    },
+    {
+      "guid": "28109c48-8af0-4609-ab56-4e6f561da4de",
+      "firstName": "Destiny",
+      "lastName": "Shelton",
+      "team": {
+        "guid": "9ca94678-e6c9-4308-a21d-d5327259a6a4",
+        "name": "Indiana Tech",
+        "abbreviation": "INDT"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "d44cab3b-b951-47a7-8cd4-a65673f5b264",
+      "firstName": "Destiny",
+      "lastName": "Lyng",
+      "team": {
+        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+        "name": "Oklahoma City (W)",
+        "abbreviation": "OCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 4,
+      "identityPersonGuid": "3e6862c3-d1a7-4333-b6f6-bcf7da0ae6d0"
+    },
+    {
+      "guid": "2ddbe3c4-7789-4b69-b876-121c971d7db5",
+      "firstName": "Devyn",
+      "lastName": "Gomez",
+      "team": {
+        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+        "name": "Life (W)",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "a252cb63-7c34-43ab-bbf1-f509c93c287e",
+      "firstName": "Diana",
+      "lastName": "Dzasezeva",
+      "team": {
+        "guid": "77a8aaf6-ee1e-4560-89f4-6432eedc6e6c",
+        "name": "Waldorf (W)",
+        "abbreviation": "WU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 11,
+      "identityPersonGuid": "7af50065-3daa-46e7-9535-d288d4661a15"
+    },
+    {
+      "guid": "b1935720-c48c-472f-a7c4-46821b32c686",
+      "firstName": "Diana",
+      "lastName": "Leyva",
+      "team": {
+        "guid": "107e6385-fdf3-44a2-9f1b-c3a7d703edab",
+        "name": "York (W)",
+        "abbreviation": "YORK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "19674856-c440-4db1-9945-97d98cddf567",
+      "firstName": "Elisa",
+      "lastName": "Robinson",
+      "team": {
+        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+        "name": "Baker (W)",
+        "abbreviation": "BKR"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 2,
+      "identityPersonGuid": "8ab6ca43-ca9f-4c1b-9b4a-4331bf3cad51"
+    },
+    {
+      "guid": "06824392-58b3-46c4-ae43-63ec511f8822",
+      "firstName": "Elizabeth",
+      "lastName": "Dosado",
+      "team": {
+        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+        "name": "Cumberlands (W)",
+        "abbreviation": "UC"
+      },
+      "city": "Ruther Glen",
+      "zipCode": "22546",
+      "state": "VA",
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 2,
+      "identityPersonGuid": "bbbcf520-5779-4349-a0a9-e88139395235"
+    },
+    {
+      "guid": "105ffa81-3eb3-45ba-83cc-57b9ee8650cb",
+      "firstName": "Elizabeth",
+      "lastName": "Carrillo",
+      "team": {
+        "guid": "77a8aaf6-ee1e-4560-89f4-6432eedc6e6c",
+        "name": "Waldorf (W)",
+        "abbreviation": "WU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "e92599c9-d29a-41c0-91f3-0eae72632a8a",
+      "firstName": "Elizabeth",
+      "lastName": "Hubbard",
+      "team": {
+        "guid": "61fca54f-e41b-4ddd-aee6-e35bb01ed5e5",
+        "name": "Lyon (W)",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "f6c1fb78-108c-4bc3-9e6d-767ae9776a86",
+      "firstName": "Ella",
+      "lastName": "Whitaker",
+      "team": {
+        "guid": "107e6385-fdf3-44a2-9f1b-c3a7d703edab",
+        "name": "York (W)",
+        "abbreviation": "YORK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "605c1151-604b-4d74-8c7e-6302f487a96f",
+      "firstName": "Emely",
+      "lastName": "Carrillo",
+      "team": {
+        "guid": "77a8aaf6-ee1e-4560-89f4-6432eedc6e6c",
+        "name": "Waldorf (W)",
+        "abbreviation": "WU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "8596d8ab-7732-4e34-b3ab-1514962942d2",
+      "firstName": "Emilee",
+      "lastName": "Demann",
+      "team": {
+        "guid": "27dbe721-7786-4084-a8d3-88ab4f2f5054",
+        "name": "St. Mary (W)",
+        "abbreviation": "STM"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": "351a9b71-0895-4023-ac4c-355d834e7cb5"
+    },
+    {
+      "guid": "62618405-e569-4e16-baeb-9accbea98183",
+      "firstName": "Emily",
+      "lastName": "Lorring",
+      "team": {
+        "guid": "5e56c3eb-d9b7-4756-aefd-6705698916bd",
+        "name": "Providence (W)",
+        "abbreviation": "PRO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "b0fee6a5-7bf0-470d-9ae8-e990154879e9",
+      "firstName": "Emily",
+      "lastName": "Fergeson",
+      "team": {
+        "guid": "107e6385-fdf3-44a2-9f1b-c3a7d703edab",
+        "name": "York (W)",
+        "abbreviation": "YORK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": "f6a50ada-3896-41ee-b959-2b50d00af9d0"
+    },
+    {
+      "guid": "bb47fdfc-59a8-498d-aabb-37a572317aa9",
+      "firstName": "Emily",
+      "lastName": "Alderman",
+      "team": {
+        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+        "name": "Wayland Baptist (W)",
+        "abbreviation": "WBU"
+      },
+      "city": "Carmichael",
+      "zipCode": null,
+      "state": "CA",
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": "ec25ea55-20a2-46f1-87f7-69477ceb7dcb"
+    },
+    {
+      "guid": "032109be-5242-4727-87c2-bedbdaf149d7",
+      "firstName": "Emma",
+      "lastName": "Walker",
+      "team": {
+        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+        "name": "Campbellsville (W)",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 3,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "08d44d71-64da-43e5-a4b4-e7bef682e504",
+      "firstName": "Emma",
+      "lastName": "Cochran",
+      "team": {
+        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+        "name": "Grand View (W)",
+        "abbreviation": "GRVW"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 6,
+      "identityPersonGuid": "8606d1e5-cfbd-4cc2-9d2d-9b3bcfac2de4"
+    },
+    {
+      "guid": "45ffe26e-6def-47f8-843c-2620d4130ca9",
+      "firstName": "Emma",
+      "lastName": "De Brum",
+      "team": {
+        "guid": "61fca54f-e41b-4ddd-aee6-e35bb01ed5e5",
+        "name": "Lyon (W)",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "58f309cf-d2d6-44a0-b54a-697eccfa2b49",
+      "firstName": "Erin",
+      "lastName": "Redford",
+      "team": {
+        "guid": "3427cbee-a47d-4e63-ac2a-c5642681b296",
+        "name": "Eastern Oregon (W)",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 6,
+      "identityPersonGuid": "774f977b-b25e-4d02-877d-2f767d4b1ff8"
+    },
+    {
+      "guid": "a14791de-0422-4799-8218-caaa7c7cc1f3",
+      "firstName": "Esthella",
+      "lastName": "Trevino",
+      "team": {
+        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+        "name": "Southern Oregon (W)",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 4,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "7f99ab01-1f29-4506-8395-7e23cd4f7ee2",
+      "firstName": "Esther",
+      "lastName": "Walker",
+      "team": {
+        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+        "name": "Midland (W)",
+        "abbreviation": "MIDL"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 6,
+      "identityPersonGuid": "ca8ed1e2-e194-474d-a601-9e8324dd4759"
+    },
+    {
+      "guid": "54e31d90-3d7b-4005-b075-e53c905476fc",
+      "firstName": "Gabriela",
+      "lastName": "Garcia",
+      "team": {
+        "guid": "27c77652-3b88-40ef-9de6-6c52fe6f85ba",
+        "name": "Brewton Parker (W)",
+        "abbreviation": "BPC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "8f13da6c-c082-4784-9e6b-6852df4a8025",
+      "firstName": "Geneva",
+      "lastName": "Winston",
+      "team": {
+        "guid": "27c77652-3b88-40ef-9de6-6c52fe6f85ba",
+        "name": "Brewton Parker (W)",
+        "abbreviation": "BPC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": "d399621c-a507-4efc-a2fb-446c0178821f"
+    },
+    {
+      "guid": "9317b071-e64e-4f50-8f8a-587f2866344f",
+      "firstName": "Gigi",
+      "lastName": "Loza",
+      "team": {
+        "guid": "0a50cb79-7d94-40ee-b0cf-654428fbad15",
+        "name": "Central Methodist (W)",
+        "abbreviation": "CMTH"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "5885a412-ae50-4595-a4ae-fb3ce81b733b",
+      "firstName": "Glenda",
+      "lastName": "Veiga",
+      "team": {
+        "guid": "9ca94678-e6c9-4308-a21d-d5327259a6a4",
+        "name": "Indiana Tech",
+        "abbreviation": "INDT"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "6216093d-9698-4400-bce8-d88898e6dc0f",
+      "firstName": "Glory",
+      "lastName": "Konecny",
+      "team": {
+        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+        "name": "Southern Oregon (W)",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 10,
+      "identityPersonGuid": "06d69f6a-0ee9-4df7-8738-1b48db3b5e28"
+    },
+    {
+      "guid": "ee7b8389-0e1e-43e9-9858-48d35e051175",
+      "firstName": "Grace",
+      "lastName": "Nelson",
+      "team": {
+        "guid": "b02b0ced-a830-491a-ae8f-2888bcd1940c",
+        "name": "Corban",
+        "abbreviation": "CRBN"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "9e5614be-78f2-47ad-b3c6-97025b79be04",
+      "firstName": "Hailey",
+      "lastName": "Budney",
+      "team": {
+        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+        "name": "Cumberlands (W)",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "b97bd3b5-de11-4ad6-aadf-dff6bc4b7cda"
+    },
+    {
+      "guid": "d7eaf70f-50ad-465e-bd7f-8d47fa536017",
+      "firstName": "Haley",
+      "lastName": "Schafer",
+      "team": {
+        "guid": "9e384719-b68c-4589-97c8-a4e3a846daa7",
+        "name": "Central Christian (W)",
+        "abbreviation": "CCCK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "8f69ea5a-4222-4f43-83e7-8576185b8519",
+      "firstName": "Hannah",
+      "lastName": "Dickinson",
+      "team": {
+        "guid": "08dbee50-6f96-46ff-a233-52bd92835433",
+        "name": "Ottawa (W)",
+        "abbreviation": "OU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "8bcdf70b-1407-4f27-9764-5d8acf0d2013",
+      "firstName": "Haylee",
+      "lastName": "McDonald",
+      "team": {
+        "guid": "9e384719-b68c-4589-97c8-a4e3a846daa7",
+        "name": "Central Christian (W)",
+        "abbreviation": "CCCK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "00e0850c-8441-4de6-a0b0-cb3732c80089",
+      "firstName": "Hunter",
+      "lastName": "Robinson",
+      "team": {
+        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+        "name": "Grand View (W)",
+        "abbreviation": "GRVW"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 3,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "cff4ad87-ff78-4137-9678-90e22eba2c0c",
+      "firstName": "India",
+      "lastName": "Page",
+      "team": {
+        "guid": "27c77652-3b88-40ef-9de6-6c52fe6f85ba",
+        "name": "Brewton Parker (W)",
+        "abbreviation": "BPC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 6,
+      "identityPersonGuid": "4cdcfafb-81a1-4293-ae97-198a65a49edc"
+    },
+    {
+      "guid": "85559b4d-c3a2-4fd7-9f7f-e7c72414c4dd",
+      "firstName": "Ira",
+      "lastName": "Navarro",
+      "team": {
+        "guid": "5e56c3eb-d9b7-4756-aefd-6705698916bd",
+        "name": "Providence (W)",
+        "abbreviation": "PRO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 9,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "8fc6bd1d-40c2-431e-b4d0-35fda7b8e877",
+      "firstName": "Irene",
+      "lastName": "Sanchez Figuera",
+      "team": {
+        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+        "name": "Oklahoma City (W)",
+        "abbreviation": "OCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "751591bc-9108-40d0-a19a-eb3dbf2c2869",
+      "firstName": "Isabella",
+      "lastName": "Gonzalez",
+      "team": {
+        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+        "name": "Grand View (W)",
+        "abbreviation": "GRVW"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": "bf95e502-2371-4bd0-ab6f-6ccbc702ab74"
+    },
+    {
+      "guid": "0399e07e-c1d6-431d-b223-68bda33122d5",
+      "firstName": "Ivy",
+      "lastName": "Navarro",
+      "team": {
+        "guid": "5e56c3eb-d9b7-4756-aefd-6705698916bd",
+        "name": "Providence (W)",
+        "abbreviation": "PRO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 3,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "5dae7c66-9064-4fbb-aa36-324e5f7b38ac",
+      "firstName": "Ivy",
+      "lastName": "Kraght",
+      "team": {
+        "guid": "b02b0ced-a830-491a-ae8f-2888bcd1940c",
+        "name": "Corban",
+        "abbreviation": "CRBN"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 10,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "19cb3711-1b64-47bf-a52e-d942e70e6434",
+      "firstName": "Jacqueline",
+      "lastName": "Ghent",
+      "team": {
+        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+        "name": "Campbellsville (W)",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 6,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "2dae7b4c-b4c8-48a8-b787-2b8b444b9ed4",
+      "firstName": "Jacqueline",
+      "lastName": "Carreras",
+      "team": {
+        "guid": "92955ae0-c4d1-44c2-aa75-a2b7faa1cc06",
+        "name": "Hastings",
+        "abbreviation": "HSTG"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "d7fa7b0a-d2fb-41d9-84e6-489dc9d05a77",
+      "firstName": "Jaimes",
+      "lastName": "Clark",
+      "team": {
+        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+        "name": "Baker (W)",
+        "abbreviation": "BKR"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "96c280fb-f66b-413f-b5d5-ed6db95ef75b"
+    },
+    {
+      "guid": "6d34b13b-3b13-4ac4-9768-49a57eed15a7",
+      "firstName": "Jaine",
+      "lastName": "Stephens",
+      "team": {
+        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+        "name": "Cumberlands (W)",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 5,
+      "identityPersonGuid": "5fcadf62-519b-452b-87a4-ce37f0b09c8d"
+    },
+    {
+      "guid": "9c01af7e-c9fd-41da-b371-f42c70054bdd",
+      "firstName": "Jasmin",
+      "lastName": "Ballesteros",
+      "team": {
+        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+        "name": "Midland (W)",
+        "abbreviation": "MIDL"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "a24eb45c-a8e4-4893-8e20-b8383578b175",
+      "firstName": "Jasmin",
+      "lastName": "Davis",
+      "team": {
+        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+        "name": "Wayland Baptist (W)",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 7,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "5b2ac9a4-f15d-4c64-b019-200f070c6feb",
+      "firstName": "Jasmine",
+      "lastName": "Alexander",
+      "team": {
+        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+        "name": "Grand View (W)",
+        "abbreviation": "GRVW"
+      },
+      "city": "Forest City",
+      "zipCode": "50436",
+      "state": "IA",
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 9,
+      "identityPersonGuid": "b999aa1e-75ec-4d6f-885e-bcb144335f19"
+    },
+    {
+      "guid": "ff220726-fa3e-4ad5-a76c-06d2d0692cc4",
+      "firstName": "Jasmine",
+      "lastName": "Hernandez",
+      "team": {
+        "guid": "61fca54f-e41b-4ddd-aee6-e35bb01ed5e5",
+        "name": "Lyon (W)",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 2,
+      "identityPersonGuid": "54415849-6c7e-4cfc-ab79-a42179e43bdc"
+    },
+    {
+      "guid": "bdcf58dd-9ea8-4560-b938-6a2c9539b338",
+      "firstName": "Jenna",
+      "lastName": "Awana",
+      "team": {
+        "guid": "5e56c3eb-d9b7-4756-aefd-6705698916bd",
+        "name": "Providence (W)",
+        "abbreviation": "PRO"
+      },
+      "city": "Waianae",
+      "zipCode": "96792",
+      "state": "HI",
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": "09797aca-7d07-4025-9e12-ce2a9d43bb52"
+    },
+    {
+      "guid": "80329fbb-41c8-4ccb-be21-4f7b866debdf",
+      "firstName": "Jennifer",
+      "lastName": "Curry",
+      "team": {
+        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+        "name": "Baker (W)",
+        "abbreviation": "BKR"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 7,
+      "identityPersonGuid": "916ed70d-beed-4033-9d02-fc2f3ed5290f"
+    },
+    {
+      "guid": "e6bbf7ff-eea2-49c9-8e84-48474d9d3944",
+      "firstName": "Jenny",
+      "lastName": "Castaneda",
+      "team": {
+        "guid": "77a8aaf6-ee1e-4560-89f4-6432eedc6e6c",
+        "name": "Waldorf (W)",
+        "abbreviation": "WU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "00354bf0-81cd-43af-b658-35b916bdc49c",
+      "firstName": "Jessica",
+      "lastName": "Valadez",
+      "team": {
+        "guid": "27dbe721-7786-4084-a8d3-88ab4f2f5054",
+        "name": "St. Mary (W)",
+        "abbreviation": "STM"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "4b374e8e-f90c-4a6f-8b71-f1f56f0c75bb",
+      "firstName": "Jessienna",
+      "lastName": "Burkett-Erice",
+      "team": {
+        "guid": "61fca54f-e41b-4ddd-aee6-e35bb01ed5e5",
+        "name": "Lyon (W)",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": "4b5c3411-34eb-478f-a67f-f4044cbb7e21"
+    },
+    {
+      "guid": "2d06d307-e1d2-45d6-92fb-a25b914b163e",
+      "firstName": "Jocelyn",
+      "lastName": "Murphy",
+      "team": {
+        "guid": "6bc6e0ab-85a5-449f-beed-8f54ffeb10ed",
+        "name": "Missouri Valley (W)",
+        "abbreviation": "MVC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 10,
+      "identityPersonGuid": "49e1f759-429f-4b6a-ac2d-4bb066b1eaf3"
+    },
+    {
+      "guid": "a3b7be7d-27c1-443b-9e31-0f35e91b9782",
+      "firstName": "Jocelyn",
+      "lastName": "Hernandez",
+      "team": {
+        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+        "name": "Grand View (W)",
+        "abbreviation": "GRVW"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "da0f37c4-26b2-4e42-85c3-045d31371491",
+      "firstName": "Jodie",
+      "lastName": "Hartlein",
+      "team": {
+        "guid": "f70e0879-0bdc-42c9-81a8-c6a0c4148c23",
+        "name": "Warner Pacific (W)",
+        "abbreviation": "WPAC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "b14545b3-1a9f-4462-89d3-1adf87b50574",
+      "firstName": "JoNiesha",
+      "lastName": "Kennedy",
+      "team": {
+        "guid": "08dbee50-6f96-46ff-a233-52bd92835433",
+        "name": "Ottawa (W)",
+        "abbreviation": "OU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "1dad225f-043a-4059-8a98-6616a47f2fd7",
+      "firstName": "Jordan",
+      "lastName": "Suarez",
+      "team": {
+        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+        "name": "Wayland Baptist (W)",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 5,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "dd1db4cb-2c11-488c-a50d-b3a00125bd30",
+      "firstName": "Jordan",
+      "lastName": "Nelson",
+      "team": {
+        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+        "name": "Life (W)",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 2,
+      "identityPersonGuid": "62410458-7af3-4bdb-bf9d-a82b43ba50f5"
+    },
+    {
+      "guid": "d2a0fa2e-621a-458e-b9e8-6a9e3de05141",
+      "firstName": "Jordan",
+      "lastName": "Roberts",
+      "team": {
+        "guid": "798b7d9e-62df-40d6-901a-d5d2b1ab39ea",
+        "name": "Missouri Baptist (W)",
+        "abbreviation": "MBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "f563d626-5903-447f-9160-f2ec5084aed1",
+      "firstName": "Jordynn",
+      "lastName": "Robson",
+      "team": {
+        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+        "name": "Southern Oregon (W)",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "07362e19-c8bf-425b-ae9b-fb7eff437f2b",
+      "firstName": "Josie",
+      "lastName": "Bartishofski",
+      "team": {
+        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+        "name": "Jamestown (W)",
+        "abbreviation": "JMST"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 4,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "ce625533-c111-4b9d-a236-c6fa40172fb3",
+      "firstName": "Joycelyn",
+      "lastName": "Katcheak",
+      "team": {
+        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+        "name": "Jamestown (W)",
+        "abbreviation": "JMST"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "4f5357fa-c195-4f18-b2cf-92569a676da8",
+      "firstName": "Joylynn",
+      "lastName": "Wegman",
+      "team": {
+        "guid": "accbd99e-0ebc-48d1-97da-552604541159",
+        "name": "William Penn",
+        "abbreviation": "WPEN"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "74e9b45d-84e0-488b-aebd-07c5d9960089",
+      "firstName": "Julia",
+      "lastName": "Vidallon",
+      "team": {
+        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+        "name": "Life (W)",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 1,
+      "identityPersonGuid": "01c054c7-4014-4d1f-b71a-1bc587e40960"
+    },
+    {
+      "guid": "820bd583-6a6e-4244-a402-ee4856445f7d",
+      "firstName": "Julia",
+      "lastName": "Mata",
+      "team": {
+        "guid": "6bc6e0ab-85a5-449f-beed-8f54ffeb10ed",
+        "name": "Missouri Valley (W)",
+        "abbreviation": "MVC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": "ee966402-c2fe-41bc-bd55-60936f717958"
+    },
+    {
+      "guid": "b1638022-11bb-4ec3-a4fe-4af35356c6c0",
+      "firstName": "Jythssel",
+      "lastName": "Mascorro",
+      "team": {
+        "guid": "08dbee50-6f96-46ff-a233-52bd92835433",
+        "name": "Ottawa (W)",
+        "abbreviation": "OU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": "1f6f1765-96e7-44b2-bb57-cbbffc871f7e"
+    },
+    {
+      "guid": "61ecb40c-f4d6-486e-b4f1-d19e2f03ce0f",
+      "firstName": "Kaelyn",
+      "lastName": "Siason",
+      "team": {
+        "guid": "5e56c3eb-d9b7-4756-aefd-6705698916bd",
+        "name": "Providence (W)",
+        "abbreviation": "PRO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "b31fafad-ca56-40b8-8200-9a386ce4eb55",
+      "firstName": "Kailee",
+      "lastName": "Godinez",
+      "team": {
+        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+        "name": "Cumberlands (W)",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": "f6096b8c-d069-4ff5-bb28-2af894250626"
+    },
+    {
+      "guid": "830ad134-cfb3-4ea5-bb16-88d29d95f784",
+      "firstName": "Kamalamaokapomahealani",
+      "lastName": "Lewis",
+      "team": {
+        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+        "name": "Midland (W)",
+        "abbreviation": "MIDL"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 3,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "b9230e38-dd72-4189-afd3-dab9da728e61",
+      "firstName": "Kambrie",
+      "lastName": "Hedrick",
+      "team": {
+        "guid": "6bc6e0ab-85a5-449f-beed-8f54ffeb10ed",
+        "name": "Missouri Valley (W)",
+        "abbreviation": "MVC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "be671165-affc-4d51-b285-81e2f72cf1ca",
+      "firstName": "Kami",
+      "lastName": "Fiordalis",
+      "team": {
+        "guid": "107e6385-fdf3-44a2-9f1b-c3a7d703edab",
+        "name": "York (W)",
+        "abbreviation": "YORK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "e4ba0062-9e6d-43df-9bbb-21743e710f35",
+      "firstName": "Karly",
+      "lastName": "Scott",
+      "team": {
+        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+        "name": "Southern Oregon (W)",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "1d9108b2-bf7d-469c-a13f-3dd07d21dbd2",
+      "firstName": "Karoline",
+      "lastName": "Ortiz",
+      "team": {
+        "guid": "798b7d9e-62df-40d6-901a-d5d2b1ab39ea",
+        "name": "Missouri Baptist (W)",
+        "abbreviation": "MBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 8,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "242b989e-ad84-4440-9828-6a1b53afb778",
+      "firstName": "Kassandra",
+      "lastName": "Lindemann",
+      "team": {
+        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+        "name": "Grand View (W)",
+        "abbreviation": "GRVW"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 10,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "292f9e94-e9b9-4dad-bc75-0024dd8b564c",
+      "firstName": "Kassidy",
+      "lastName": "Leiszler",
+      "team": {
+        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+        "name": "Baker (W)",
+        "abbreviation": "BKR"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": "df1a8f78-4966-4ffa-b323-eae513f14438"
+    },
+    {
+      "guid": "3772f53f-54c6-47fe-ba20-56a03f1b1f3c",
+      "firstName": "Kassidy",
+      "lastName": "Ramirez",
+      "team": {
+        "guid": "61fca54f-e41b-4ddd-aee6-e35bb01ed5e5",
+        "name": "Lyon (W)",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": "67ed8175-13f9-4b5b-9e21-27ec6f6efd6a"
+    },
+    {
+      "guid": "076002c8-4d95-444c-ac67-6047d99c0e50",
+      "firstName": "Katalina",
+      "lastName": "Bartelt",
+      "team": {
+        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+        "name": "Life (W)",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 7,
+      "identityPersonGuid": "1de5a79f-5abe-429f-a304-38e2cb4d8188"
+    },
+    {
+      "guid": "b819adaf-f52d-424e-b075-3031c09ff110",
+      "firstName": "Katherine",
+      "lastName": "Heath",
+      "team": {
+        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+        "name": "Baker (W)",
+        "abbreviation": "BKR"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": "ef7b1b89-eb0d-4fb0-ad13-2550f899c9a5"
+    },
+    {
+      "guid": "0b4a35d6-042a-47a6-a8ac-e34af50e20ad",
+      "firstName": "Katlyn",
+      "lastName": "Pizzo",
+      "team": {
+        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+        "name": "Campbellsville (W)",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 3,
+      "identityPersonGuid": "97a07ca4-3f22-4322-934d-b3a55c6007fc"
+    },
+    {
+      "guid": "88d157ff-ecf1-43a8-834b-74384b7275e8",
+      "firstName": "Katy",
+      "lastName": "Figueroa",
+      "team": {
+        "guid": "107e6385-fdf3-44a2-9f1b-c3a7d703edab",
+        "name": "York (W)",
+        "abbreviation": "YORK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "7fa516c5-24ed-458a-83c1-8b2ab74fdf5e",
+      "firstName": "Kelani",
+      "lastName": "Corbett",
+      "team": {
+        "guid": "61fca54f-e41b-4ddd-aee6-e35bb01ed5e5",
+        "name": "Lyon (W)",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 4,
+      "identityPersonGuid": "48646283-49a0-4f11-9624-2d33359cbe2d"
+    },
+    {
+      "guid": "18c61f15-1106-4a60-b0be-46db845d365c",
+      "firstName": "Kelly",
+      "lastName": "LaCost",
+      "team": {
+        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+        "name": "Jamestown (W)",
+        "abbreviation": "JMST"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 7,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "7c370a68-eed0-4d11-9f9c-4fc76fa74d47",
+      "firstName": "Kendall",
+      "lastName": "Martin",
+      "team": {
+        "guid": "b02b0ced-a830-491a-ae8f-2888bcd1940c",
+        "name": "Corban",
+        "abbreviation": "CRBN"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "d0ff827f-3058-4e33-9b6a-e022e1615f1e",
+      "firstName": "Kendra",
+      "lastName": "Thompson",
+      "team": {
+        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+        "name": "Campbellsville (W)",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 5,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "18200035-17c1-4a35-b200-6b451aac0832",
+      "firstName": "Kimberly",
+      "lastName": "Pollak",
+      "team": {
+        "guid": "92955ae0-c4d1-44c2-aa75-a2b7faa1cc06",
+        "name": "Hastings",
+        "abbreviation": "HSTG"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "e1c17af5-3021-40d4-8aba-d5d891f99ee0",
+      "firstName": "Kiya",
+      "lastName": "Jones",
+      "team": {
+        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+        "name": "Baker (W)",
+        "abbreviation": "BKR"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": "bb7379fa-8fca-4967-9347-aadbe3c8915e"
+    },
+    {
+      "guid": "09987049-49d6-4a81-b633-192efbbe3a6d",
+      "firstName": "Korigan",
+      "lastName": "Wilkey",
+      "team": {
+        "guid": "9ca94678-e6c9-4308-a21d-d5327259a6a4",
+        "name": "Indiana Tech",
+        "abbreviation": "INDT"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "f5a822dd-c544-4ad2-ad0a-23d905422d0e",
+      "firstName": "Korissa",
+      "lastName": "VanOver",
+      "team": {
+        "guid": "9ca94678-e6c9-4308-a21d-d5327259a6a4",
+        "name": "Indiana Tech",
+        "abbreviation": "INDT"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "6ec55c90-fde1-4453-8cb2-882ab68ff21d",
+      "firstName": "Kory",
+      "lastName": "Phillips",
+      "team": {
+        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+        "name": "Life (W)",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 9,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "a6d062f7-7fa9-4367-8273-071f95def930",
+      "firstName": "Krystal",
+      "lastName": "Fabricante",
+      "team": {
+        "guid": "3427cbee-a47d-4e63-ac2a-c5642681b296",
+        "name": "Eastern Oregon (W)",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": "eb30ba35-4eb1-46fc-83d0-f05a86146d52"
+    },
+    {
+      "guid": "a31a46cc-e43f-47d3-a83f-19b734bbb76a",
+      "firstName": "Kylie",
+      "lastName": "Marlin",
+      "team": {
+        "guid": "107e6385-fdf3-44a2-9f1b-c3a7d703edab",
+        "name": "York (W)",
+        "abbreviation": "YORK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": "64254015-e5a4-4141-9136-db64e99e8d7b"
+    },
+    {
+      "guid": "3cd0488c-e15e-4567-b503-a8fcb699a87c",
+      "firstName": "Lana",
+      "lastName": "Hunt",
+      "team": {
+        "guid": "5e56c3eb-d9b7-4756-aefd-6705698916bd",
+        "name": "Providence (W)",
+        "abbreviation": "PRO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": "8beaacd0-b45e-4c51-8178-799d974239fd"
+    },
+    {
+      "guid": "d94c509a-f794-4cce-8a39-4a3909f3f292",
+      "firstName": "Larissa",
+      "lastName": "Ramos",
+      "team": {
+        "guid": "9e384719-b68c-4589-97c8-a4e3a846daa7",
+        "name": "Central Christian (W)",
+        "abbreviation": "CCCK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "0b9c5820-140e-4295-9c7d-99bfa8aa7d34",
+      "firstName": "Laura",
+      "lastName": "Lincoln",
+      "team": {
+        "guid": "61fca54f-e41b-4ddd-aee6-e35bb01ed5e5",
+        "name": "Lyon (W)",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "f06706c8-3ff4-46fe-b4a3-e4760229fcfe",
+      "firstName": "Liliana",
+      "lastName": "Vergara",
+      "team": {
+        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+        "name": "Campbellsville (W)",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 11,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "012474e8-5371-4d22-b7d7-0a56ce035824",
+      "firstName": "Lillianna",
+      "lastName": "Campbell",
+      "team": {
+        "guid": "6bc6e0ab-85a5-449f-beed-8f54ffeb10ed",
+        "name": "Missouri Valley (W)",
+        "abbreviation": "MVC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "af8f1ce4-8534-4ef9-876d-6f2fe9b67193",
+      "firstName": "Lindsay",
+      "lastName": "Mills",
+      "team": {
+        "guid": "798b7d9e-62df-40d6-901a-d5d2b1ab39ea",
+        "name": "Missouri Baptist (W)",
+        "abbreviation": "MBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "43d0464b-c108-492b-9343-a29bba71df5d",
+      "firstName": "Lisa",
+      "lastName": "Megargee",
+      "team": {
+        "guid": "3427cbee-a47d-4e63-ac2a-c5642681b296",
+        "name": "Eastern Oregon (W)",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": "0d1d34c2-97da-4bb2-8683-7c603b208bf7"
+    },
+    {
+      "guid": "86742ad0-7165-4888-9711-3b3461558e32",
+      "firstName": "Luisita",
+      "lastName": "Jara",
+      "team": {
+        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+        "name": "Jamestown (W)",
+        "abbreviation": "JMST"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 6,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "bea71b2b-58ac-4b26-aa5c-f967ca83a7d1",
+      "firstName": "Lyric",
+      "lastName": "Gonsalves",
+      "team": {
+        "guid": "08dbee50-6f96-46ff-a233-52bd92835433",
+        "name": "Ottawa (W)",
+        "abbreviation": "OU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "a24ef3be-3541-4b73-8728-7309777af4b7"
+    },
+    {
+      "guid": "79d0a1dd-3f90-4436-ad79-c8b3da7b0c7e",
+      "firstName": "Macie",
+      "lastName": "Stewart",
+      "team": {
+        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+        "name": "Southern Oregon (W)",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 10,
+      "identityPersonGuid": "e5f2165e-cf76-432b-895c-d419c6279e1e"
+    },
+    {
+      "guid": "8127872c-f47a-4a46-bb31-1f1060f0f644",
+      "firstName": "Macy",
+      "lastName": "Higa",
+      "team": {
+        "guid": "3427cbee-a47d-4e63-ac2a-c5642681b296",
+        "name": "Eastern Oregon (W)",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 4,
+      "identityPersonGuid": "c78e05db-b910-42c6-a3c1-d5c8f6ccb487"
+    },
+    {
+      "guid": "159a975d-8f56-4814-880d-8a43bf8c2710",
+      "firstName": "Maddie",
+      "lastName": "Oellermann",
+      "team": {
+        "guid": "798b7d9e-62df-40d6-901a-d5d2b1ab39ea",
+        "name": "Missouri Baptist (W)",
+        "abbreviation": "MBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 11,
+      "identityPersonGuid": "69cc6053-899f-4fa2-90c2-bf8b805e8582"
+    },
+    {
+      "guid": "a5990be1-2ff6-4efc-8a6f-04dba6b807e9",
+      "firstName": "Madison",
+      "lastName": "Brown",
+      "team": {
+        "guid": "220acdc8-eddd-472f-b9b0-182b677876eb",
+        "name": "Texas Wesleyan (W)",
+        "abbreviation": "TXWS"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 7,
+      "identityPersonGuid": "51bb1302-121e-49a6-b365-cc6539ff2355"
+    },
+    {
+      "guid": "c01eb72f-c158-41fd-b7b8-432df7566586",
+      "firstName": "Mahealani",
+      "lastName": "Ramirez",
+      "team": {
+        "guid": "6bc6e0ab-85a5-449f-beed-8f54ffeb10ed",
+        "name": "Missouri Valley (W)",
+        "abbreviation": "MVC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 6,
+      "identityPersonGuid": "2ad898b4-9148-497d-8300-bd1f5e1055aa"
+    },
+    {
+      "guid": "020e849b-130a-47ed-901e-64892e742370",
+      "firstName": "Makia",
+      "lastName": "English",
+      "team": {
+        "guid": "27dbe721-7786-4084-a8d3-88ab4f2f5054",
+        "name": "St. Mary (W)",
+        "abbreviation": "STM"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "58a11c28-6fa3-4725-9269-27b3208d71ad",
+      "firstName": "Mami",
+      "lastName": "Selemani",
+      "team": {
+        "guid": "accbd99e-0ebc-48d1-97da-552604541159",
+        "name": "William Penn",
+        "abbreviation": "WPEN"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "233072bb-ddda-4cf7-9f6b-04232522ad07",
+      "firstName": "MaQuoia",
+      "lastName": "Bernabe",
+      "team": {
+        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+        "name": "Cumberlands (W)",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 3,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "cb3d4411-53ea-4c27-9a85-ffabc18a1cdd",
+      "firstName": "Maria",
+      "lastName": "Lopez-Garcia",
+      "team": {
+        "guid": "27c2b67b-ce23-45ee-963c-7e23e483bd6e",
+        "name": "Simpson (W)",
+        "abbreviation": "SIMP"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "e358934e-e068-4bd1-8d73-bd9afb377c2c",
+      "firstName": "Mariah",
+      "lastName": "Spix",
+      "team": {
+        "guid": "61fca54f-e41b-4ddd-aee6-e35bb01ed5e5",
+        "name": "Lyon (W)",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "283be2c3-798b-4275-85b0-631ec0478146",
+      "firstName": "Marissa",
+      "lastName": "Burt",
+      "team": {
+        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+        "name": "Jamestown (W)",
+        "abbreviation": "JMST"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "df95a9e7-5f89-4f99-922c-5b01d7c65fb9",
+      "firstName": "Marlene",
+      "lastName": "Avila",
+      "team": {
+        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+        "name": "Grand View (W)",
+        "abbreviation": "GRVW"
+      },
+      "city": "Fabens",
+      "zipCode": "79838",
+      "state": "TX",
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": "2fbcc78b-121e-4e86-82c5-14684a8b9e05"
+    },
+    {
+      "guid": "caed3154-fab8-4aec-abc0-2a3d7add12ad",
+      "firstName": "Martha",
+      "lastName": "Vizcarra",
+      "team": {
+        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+        "name": "Baker (W)",
+        "abbreviation": "BKR"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 8,
+      "identityPersonGuid": "9373c639-97bf-48c3-9e05-c3b8e50eb749"
+    },
+    {
+      "guid": "00731b67-d3a4-4c28-be4c-8fb8a06d7e97",
+      "firstName": "Maryellen",
+      "lastName": "Lafferty",
+      "team": {
+        "guid": "220acdc8-eddd-472f-b9b0-182b677876eb",
+        "name": "Texas Wesleyan (W)",
+        "abbreviation": "TXWS"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 11,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "4e6421c9-5976-421f-bee3-cff42ea7ab66",
+      "firstName": "Mattalynn",
+      "lastName": "Meek",
+      "team": {
+        "guid": "bc976fb7-29e6-4e21-91b9-cfbbb6aae557",
+        "name": "Lourdes",
+        "abbreviation": "LRDS"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "7bcff079-b811-43de-88f5-bfc1c7ec6d04",
+      "firstName": "Mattison",
+      "lastName": "Parker",
+      "team": {
+        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+        "name": "Oklahoma City (W)",
+        "abbreviation": "OCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 7,
+      "identityPersonGuid": "13016486-5934-4a75-99b5-282cb2685199"
+    },
+    {
+      "guid": "63f5b215-b58f-4288-856c-6355590f354f",
+      "firstName": "McKayla",
+      "lastName": "Campbell",
+      "team": {
+        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+        "name": "Campbellsville (W)",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 1,
+      "identityPersonGuid": "acaff9d1-6363-48dc-94a4-a034eb39177c"
+    },
+    {
+      "guid": "b5c2dec3-4b0c-494a-9cba-68a11b37b06b",
+      "firstName": "Mea",
+      "lastName": "Mohler",
+      "team": {
+        "guid": "220acdc8-eddd-472f-b9b0-182b677876eb",
+        "name": "Texas Wesleyan (W)",
+        "abbreviation": "TXWS"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 3,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "566a7b3a-21ed-4b6c-84ca-5db7f64f824a",
+      "firstName": "Melanie",
+      "lastName": "Salazar",
+      "team": {
+        "guid": "27c2b67b-ce23-45ee-963c-7e23e483bd6e",
+        "name": "Simpson (W)",
+        "abbreviation": "SIMP"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "953b54eb-8b98-4df5-9d49-947594cafa39",
+      "firstName": "Mia",
+      "lastName": "Arceneaux",
+      "team": {
+        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+        "name": "Wayland Baptist (W)",
+        "abbreviation": "WBU"
+      },
+      "city": "Rockwall",
+      "zipCode": "75087",
+      "state": "TX",
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": "ca0dfab0-92f4-4774-9309-23afeb5b2752"
+    },
+    {
+      "guid": "b80e2771-412b-4d90-ba4a-ac7ad73069ef",
+      "firstName": "Michaela",
+      "lastName": "Childs",
+      "team": {
+        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+        "name": "Oklahoma City (W)",
+        "abbreviation": "OCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "298f8cc7-e5f7-4427-8497-43b94bf0436b",
+      "firstName": "Michelle",
+      "lastName": "Kamyshin",
+      "team": {
+        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+        "name": "Cumberlands (W)",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "eb855697-41d9-47d3-a86e-1961f47fb928",
+      "firstName": "MikaRae",
+      "lastName": "Mauldin",
+      "team": {
+        "guid": "107e6385-fdf3-44a2-9f1b-c3a7d703edab",
+        "name": "York (W)",
+        "abbreviation": "YORK"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "b9735081-f461-400e-afa9-69fb7dcabfae",
+      "firstName": "Morgan",
+      "lastName": "Mayginnes",
+      "team": {
+        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+        "name": "Baker (W)",
+        "abbreviation": "BKR"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 2,
+      "identityPersonGuid": "ec28b1e9-9eed-40b7-ab23-7e7dc714c976"
+    },
+    {
+      "guid": "66e52cd1-8dec-4315-86c1-73a601e1b0e2",
+      "firstName": "Nancy",
+      "lastName": "Becerra",
+      "team": {
+        "guid": "6bc6e0ab-85a5-449f-beed-8f54ffeb10ed",
+        "name": "Missouri Valley (W)",
+        "abbreviation": "MVC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 8,
+      "identityPersonGuid": "82354690-4783-41a9-8c3b-f993c296aa35"
+    },
+    {
+      "guid": "c1b74b10-051d-4b36-9c85-3662a307556d",
+      "firstName": "Natalia",
+      "lastName": "Villegas",
+      "team": {
+        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+        "name": "Grand View (W)",
+        "abbreviation": "GRVW"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 9,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "060eabff-b058-41fb-9687-39f70c877e3f",
+      "firstName": "Nayeli",
+      "lastName": "Maston",
+      "team": {
+        "guid": "3427cbee-a47d-4e63-ac2a-c5642681b296",
+        "name": "Eastern Oregon (W)",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "cd38a13f-d801-4799-acfc-7e88f7c1d6a4",
+      "firstName": "Nayeli",
+      "lastName": "Flores",
+      "team": {
+        "guid": "3427cbee-a47d-4e63-ac2a-c5642681b296",
+        "name": "Eastern Oregon (W)",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "70645e49-8708-41a0-b283-c3df7fc1313d",
+      "firstName": "Nichole",
+      "lastName": "Moore",
+      "team": {
+        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+        "name": "Baker (W)",
+        "abbreviation": "BKR"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 5,
+      "identityPersonGuid": "85d153ca-db6e-49a2-be57-78bf3e5252e8"
+    },
+    {
+      "guid": "177c4f11-3c28-4571-a602-fd59015020e4",
+      "firstName": "Nina",
+      "lastName": "Pham",
+      "team": {
+        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+        "name": "Wayland Baptist (W)",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 1,
+      "identityPersonGuid": "6148b484-c3b4-4c8d-978b-9449099d4fe1"
+    },
+    {
+      "guid": "0ad379d9-6653-4698-9b80-51e79ad618df",
+      "firstName": "Nkechinyere",
+      "lastName": "Nwankwo",
+      "team": {
+        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+        "name": "Oklahoma City (W)",
+        "abbreviation": "OCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 1,
+      "identityPersonGuid": "ca1b0456-a7ec-4635-a517-02f0de5fdfe4"
+    },
+    {
+      "guid": "7aff6928-8590-4cde-9c91-35c83173497a",
+      "firstName": "Olivia",
+      "lastName": "Ricci",
+      "team": {
+        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+        "name": "Wayland Baptist (W)",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 11,
+      "identityPersonGuid": "579f16a8-76b2-4e0b-b7c7-8dbf5496b645"
+    },
+    {
+      "guid": "835a5374-97f7-44da-b0eb-c95ab4836958",
+      "firstName": "Olivia",
+      "lastName": "Branson",
+      "team": {
+        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+        "name": "Baker (W)",
+        "abbreviation": "BKR"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": "58081467-d8a3-4537-8efc-9c6ff65d2f51"
+    },
+    {
+      "guid": "dc704df4-a5e4-4d9d-84e3-39e73377ead2",
+      "firstName": "Olivia",
+      "lastName": "Robinson",
+      "team": {
+        "guid": "3427cbee-a47d-4e63-ac2a-c5642681b296",
+        "name": "Eastern Oregon (W)",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "0dcb4b95-4137-4af2-a285-c65483f3d9e8",
+      "firstName": "Paige",
+      "lastName": "Kalish",
+      "team": {
+        "guid": "27c77652-3b88-40ef-9de6-6c52fe6f85ba",
+        "name": "Brewton Parker (W)",
+        "abbreviation": "BPC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "2514cd65-7ae7-4ea6-9beb-3e343db1948f"
+    },
+    {
+      "guid": "c1ff5a37-eef0-4f44-bfb1-160f9747c474",
+      "firstName": "Peyton",
+      "lastName": "Prussin",
+      "team": {
+        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+        "name": "Life (W)",
+        "abbreviation": "LIFE"
+      },
+      "city": "Las Vegas",
+      "zipCode": "89131",
+      "state": "NV",
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 1,
+      "identityPersonGuid": "eb0ee827-87ba-47c3-bc87-9bcfec401a21"
+    },
+    {
+      "guid": "f58dd59f-667f-4058-9b9e-abc6082e1d0d",
+      "firstName": "Prethy",
+      "lastName": "Enriquez",
+      "team": {
+        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+        "name": "Midland (W)",
+        "abbreviation": "MIDL"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "73a54699-e142-409f-a259-718028fb8767",
+      "firstName": "Rachel",
+      "lastName": "Rodawald",
+      "team": {
+        "guid": "0a50cb79-7d94-40ee-b0cf-654428fbad15",
+        "name": "Central Methodist (W)",
+        "abbreviation": "CMTH"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "1d5673db-4c6b-436a-9c2e-da7fc3272c20",
+      "firstName": "Randi",
+      "lastName": "Robison",
+      "team": {
+        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+        "name": "Campbellsville (W)",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 2,
+      "identityPersonGuid": "4a370634-b6ab-4084-b065-5a692cca0d63"
+    },
+    {
+      "guid": "930a3c76-6ae0-4868-b19b-b9bc81822ba2",
+      "firstName": "Raven",
+      "lastName": "Guidry",
+      "team": {
+        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+        "name": "Oklahoma City (W)",
+        "abbreviation": "OCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 10,
+      "identityPersonGuid": "9f135d86-1aef-47c6-b3bf-70363759faef"
+    },
+    {
+      "guid": "e547c695-c839-48cf-b0d2-d9c9e260c659",
+      "firstName": "Rayana",
+      "lastName": "Sahagun",
+      "team": {
+        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+        "name": "Jamestown (W)",
+        "abbreviation": "JMST"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 2,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "e2f3abab-48a0-4ade-b677-5968e8eff30a",
+      "firstName": "Rayana",
+      "lastName": "Vigil",
+      "team": {
+        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+        "name": "Southern Oregon (W)",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 10,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "ef584f2c-a43f-4405-8d2c-82630001f33f",
+      "firstName": "Rebekah",
+      "lastName": "Garcia",
+      "team": {
+        "guid": "61fca54f-e41b-4ddd-aee6-e35bb01ed5e5",
+        "name": "Lyon (W)",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "f7eb9174-f656-43ab-988b-782251a64def"
+    },
+    {
+      "guid": "75b14d0a-e643-48d9-83fb-8ee9fc4b463a",
+      "firstName": "Rebekah",
+      "lastName": "Cordova",
+      "team": {
+        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+        "name": "Wayland Baptist (W)",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 8,
+      "identityPersonGuid": "c4aa314d-b496-4e80-91be-1ef94ff634b1"
+    },
+    {
+      "guid": "46bdcfc5-c9f9-4243-9027-aa9653a4ece6",
+      "firstName": "Remy",
+      "lastName": "Vargas",
+      "team": {
+        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+        "name": "Jamestown (W)",
+        "abbreviation": "JMST"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "203f3b69-2328-4f9a-9f8f-09b423c5401e"
+    },
+    {
+      "guid": "3057a2b3-10a0-4575-b606-04edfaa4c385",
+      "firstName": "Riley",
+      "lastName": "Horvath",
+      "team": {
+        "guid": "9ca94678-e6c9-4308-a21d-d5327259a6a4",
+        "name": "Indiana Tech",
+        "abbreviation": "INDT"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "4915a882-2deb-4dab-a73c-8583856859fb",
+      "firstName": "Riley",
+      "lastName": "Dalrymple",
+      "team": {
+        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+        "name": "Life (W)",
+        "abbreviation": "LIFE"
+      },
+      "city": "Carthage",
+      "zipCode": "13619",
+      "state": "NY",
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 7,
+      "identityPersonGuid": "cb529aba-58ec-4a51-a8fb-c139f90fc631"
+    },
+    {
+      "guid": "baeecff7-ecf4-47c9-9b82-e0036df684d4",
+      "firstName": "Sabrina",
+      "lastName": "Perez",
+      "team": {
+        "guid": "5e56c3eb-d9b7-4756-aefd-6705698916bd",
+        "name": "Providence (W)",
+        "abbreviation": "PRO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": "48bee0f3-2726-4c26-9b0a-7b0c7b679e93"
+    },
+    {
+      "guid": "f10919e8-850a-4c20-81b0-4eb17dcc7093",
+      "firstName": "Salem",
+      "lastName": "Scobee",
+      "team": {
+        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+        "name": "Midland (W)",
+        "abbreviation": "MIDL"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "07eb0557-9364-434d-870a-d6d77ff2ff28",
+      "firstName": "Salima",
+      "lastName": "Omari",
+      "team": {
+        "guid": "accbd99e-0ebc-48d1-97da-552604541159",
+        "name": "William Penn",
+        "abbreviation": "WPEN"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 10,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "4c5f8aa6-e9d2-434a-862e-6bd9edcf8c41",
+      "firstName": "Samantha",
+      "lastName": "Ruano",
+      "team": {
+        "guid": "accbd99e-0ebc-48d1-97da-552604541159",
+        "name": "William Penn",
+        "abbreviation": "WPEN"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "b3b3e7b9-c38b-4a90-b125-d66f3ff5a0ce",
+      "firstName": "Samantha",
+      "lastName": "Segura-Veliz",
+      "team": {
+        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+        "name": "Midland (W)",
+        "abbreviation": "MIDL"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "bdf3d214-1f23-4f09-807c-1d4d89f61336",
+      "firstName": "Samantha",
+      "lastName": "Weeks",
+      "team": {
+        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+        "name": "Jamestown (W)",
+        "abbreviation": "JMST"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": "a9c50fb5-9042-46c6-89b7-137d414e66b6"
+    },
+    {
+      "guid": "c4db8b5a-7d8e-4f1b-a531-c492e3d74491",
+      "firstName": "Samantha",
+      "lastName": "Snow",
+      "team": {
+        "guid": "9ca94678-e6c9-4308-a21d-d5327259a6a4",
+        "name": "Indiana Tech",
+        "abbreviation": "INDT"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 4,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "12e6ee05-db3e-47d0-8981-f59f6f9e212c",
+      "firstName": "Savanna",
+      "lastName": "McCutchen",
+      "team": {
+        "guid": "6bc6e0ab-85a5-449f-beed-8f54ffeb10ed",
+        "name": "Missouri Valley (W)",
+        "abbreviation": "MVC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 9,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "93f54b30-f47e-4fb1-a01d-0c0e4562fd6c",
+      "firstName": "Savannah",
+      "lastName": "Kiddoo",
+      "team": {
+        "guid": "0a50cb79-7d94-40ee-b0cf-654428fbad15",
+        "name": "Central Methodist (W)",
+        "abbreviation": "CMTH"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "6950eafb-b6fa-49c3-a7bc-8177bc26c39f",
+      "firstName": "Serena",
+      "lastName": "Sanchez",
+      "team": {
+        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+        "name": "Midland (W)",
+        "abbreviation": "MIDL"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": "c6faca4d-829d-4216-bb04-fc9cce16941d"
+    },
+    {
+      "guid": "99708107-b643-4349-91bc-f76f38cc2b3a",
+      "firstName": "Serenity",
+      "lastName": "Durham Goree",
+      "team": {
+        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+        "name": "Midland (W)",
+        "abbreviation": "MIDL"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 5,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "fa4be474-ebfd-4ca1-8407-4420238cf7cb",
+      "firstName": "Shania",
+      "lastName": "Gowan",
+      "team": {
+        "guid": "798b7d9e-62df-40d6-901a-d5d2b1ab39ea",
+        "name": "Missouri Baptist (W)",
+        "abbreviation": "MBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 8,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "d83ada40-42cb-4a98-89f3-203041be50d4",
+      "firstName": "Sienna",
+      "lastName": "Ramirez",
+      "team": {
+        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+        "name": "Southern Oregon (W)",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 8,
+      "identityPersonGuid": "1ea9e155-4214-4391-bb14-edaaf2a0ec63"
+    },
+    {
+      "guid": "079ac45f-17e4-4fc6-b4d5-a6db38c2d257",
+      "firstName": "Sierra",
+      "lastName": "Talmadge",
+      "team": {
+        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+        "name": "Jamestown (W)",
+        "abbreviation": "JMST"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 5,
+      "identityPersonGuid": "2cb3fd7e-f999-4960-8cbc-c14def87c7ed"
+    },
+    {
+      "guid": "754d1d53-2aa9-465e-9d05-d30b8e190f78",
+      "firstName": "Sierra",
+      "lastName": "Hartfelder",
+      "team": {
+        "guid": "27c77652-3b88-40ef-9de6-6c52fe6f85ba",
+        "name": "Brewton Parker (W)",
+        "abbreviation": "BPC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": "cfcb782e-4031-4907-ac8e-fc4692a0f8b6"
+    },
+    {
+      "guid": "f9b09c47-1467-4bbb-912f-dcc814fb4080",
+      "firstName": "Sitilaly",
+      "lastName": "Sanchez",
+      "team": {
+        "guid": "2fa37143-d1c9-4ee2-84c3-be1c9dbbc62d",
+        "name": "Life Pacific (W)",
+        "abbreviation": "LPCF"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "5f2606b7-db30-4345-9ab6-ce4d9983f51a",
+      "firstName": "Sophia",
+      "lastName": "Smith",
+      "team": {
+        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+        "name": "Oklahoma City (W)",
+        "abbreviation": "OCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 9,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "5201bef0-e55a-4639-a47d-3cc86a99abb4",
+      "firstName": "Stefana",
+      "lastName": "Jelacic",
+      "team": {
+        "guid": "bc976fb7-29e6-4e21-91b9-cfbbb6aae557",
+        "name": "Lourdes",
+        "abbreviation": "LRDS"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 3,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "db2f08ba-6e35-4dc8-9272-604a44077cee",
+      "firstName": "Stephanie",
+      "lastName": "Blankenship",
+      "team": {
+        "guid": "f70e0879-0bdc-42c9-81a8-c6a0c4148c23",
+        "name": "Warner Pacific (W)",
+        "abbreviation": "WPAC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "cc6c3099-6b0e-47ae-bccd-a7c7e31f4b45",
+      "firstName": "Sydney",
+      "lastName": "Freund",
+      "team": {
+        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+        "name": "Oklahoma City (W)",
+        "abbreviation": "OCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 2,
+      "identityPersonGuid": "a8d81d38-c8b2-4971-ab9f-9aea2a2d476d"
+    },
+    {
+      "guid": "1fd23cc1-aa85-4933-9db5-e099b955986b",
+      "firstName": "Sydney",
+      "lastName": "Mcghee",
+      "team": {
+        "guid": "798b7d9e-62df-40d6-901a-d5d2b1ab39ea",
+        "name": "Missouri Baptist (W)",
+        "abbreviation": "MBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 11,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "4a96ef6c-bb67-42d2-9df2-e53a6e6f2b5a",
+      "firstName": "Sydney",
+      "lastName": "Lewis",
+      "team": {
+        "guid": "9ca94678-e6c9-4308-a21d-d5327259a6a4",
+        "name": "Indiana Tech",
+        "abbreviation": "INDT"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "364390aa-c032-4585-9ed1-6eb2dac5a71a",
+      "firstName": "Tara",
+      "lastName": "Othman",
+      "team": {
+        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+        "name": "Southern Oregon (W)",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 11,
+      "identityPersonGuid": "749947e3-8f77-4fc8-bdfd-3095018d508d"
+    },
+    {
+      "guid": "c456b994-6cdd-43a4-a54b-de47f6abd2c1",
+      "firstName": "Tayler",
+      "lastName": "Hayase",
+      "team": {
+        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+        "name": "Midland (W)",
+        "abbreviation": "MIDL"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "ffbf5975-0d9c-4242-bca0-a0c220a0bab2",
+      "firstName": "Tehani",
+      "lastName": "Soares",
+      "team": {
+        "guid": "9ca94678-e6c9-4308-a21d-d5327259a6a4",
+        "name": "Indiana Tech",
+        "abbreviation": "INDT"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+        "name": "109",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 4,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "3c5e3107-c508-447d-b3fd-f8a7294f2948",
+      "firstName": "Teya",
+      "lastName": "Villalpando",
+      "team": {
+        "guid": "27dbe721-7786-4084-a8d3-88ab4f2f5054",
+        "name": "St. Mary (W)",
+        "abbreviation": "STM"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": "39b46807-1eb4-416d-b49c-2f46fec62c12"
+    },
+    {
+      "guid": "c4e70ae2-bee5-4b3d-a191-0aacb5db70f3",
+      "firstName": "Theresa",
+      "lastName": "Rankin",
+      "team": {
+        "guid": "bc976fb7-29e6-4e21-91b9-cfbbb6aae557",
+        "name": "Lourdes",
+        "abbreviation": "LRDS"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+        "name": "123",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 9,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "dda5f50b-4916-4557-8aef-012647f150e9",
+      "firstName": "Tiyahna",
+      "lastName": "Askew",
+      "team": {
+        "guid": "798b7d9e-62df-40d6-901a-d5d2b1ab39ea",
+        "name": "Missouri Baptist (W)",
+        "abbreviation": "MBU"
+      },
+      "city": "Lawrenceville",
+      "zipCode": "30043",
+      "state": "GA",
+      "weightClass": {
+        "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+        "name": "155",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 4,
+      "identityPersonGuid": "58488fe3-cefa-4623-be21-5e96c1e1cd4c"
+    },
+    {
+      "guid": "da07219d-a72a-40ed-b9be-502646ae6ead",
+      "firstName": "Triniya",
+      "lastName": "Walker",
+      "team": {
+        "guid": "0a50cb79-7d94-40ee-b0cf-654428fbad15",
+        "name": "Central Methodist (W)",
+        "abbreviation": "CMTH"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "6f8f20fa-128d-4233-8973-7eb9d6fc5578",
+      "firstName": "Unity",
+      "lastName": "Cordova",
+      "team": {
+        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+        "name": "Life (W)",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 5,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "5030ce96-40e7-4899-b925-8f4bd913b621",
+      "firstName": "Valeria",
+      "lastName": "Davilla",
+      "team": {
+        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+        "name": "Wayland Baptist (W)",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+        "name": "116",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "74ca4a43-886b-4869-b635-38252b9dfa2b",
+      "firstName": "Victoria",
+      "lastName": "Herrera",
+      "team": {
+        "guid": "27dbe721-7786-4084-a8d3-88ab4f2f5054",
+        "name": "St. Mary (W)",
+        "abbreviation": "STM"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+        "name": "136",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "cd9de4a1-b5e7-47d9-acac-7cd599f53179",
+      "firstName": "Victoria",
+      "lastName": "Hinojo",
+      "team": {
+        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+        "name": "Oklahoma City (W)",
+        "abbreviation": "OCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+        "name": "191",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "1b1cb719-f336-4d2c-a3f8-a875be13cc29",
+      "firstName": "Waipuilani",
+      "lastName": "Estrella-Beauchamp",
+      "team": {
+        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+        "name": "Midland (W)",
+        "abbreviation": "MIDL"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+        "name": "143",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 1,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "2317e260-9af7-4c60-bd6b-84826b6f5b2f",
+      "firstName": "Whitley",
+      "lastName": "Blake",
+      "team": {
+        "guid": "9ca94678-e6c9-4308-a21d-d5327259a6a4",
+        "name": "Indiana Tech",
+        "abbreviation": "INDT"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+        "name": "101",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "3755fdf1-e228-4ff1-a41a-ccde86b0450a",
+      "firstName": "Willow",
+      "lastName": "Barnes",
+      "team": {
+        "guid": "6bc6e0ab-85a5-449f-beed-8f54ffeb10ed",
+        "name": "Missouri Valley (W)",
+        "abbreviation": "MVC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "cbd9c5ad-f330-4f22-bab4-f0b80e28ca73",
+      "firstName": "Xylia",
+      "lastName": "Warner",
+      "team": {
+        "guid": "b02b0ced-a830-491a-ae8f-2888bcd1940c",
+        "name": "Corban",
+        "abbreviation": "CRBN"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+        "name": "130",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "997d103d-1c3d-4de6-b9b3-9ebe74314329",
+      "firstName": "Yahaira",
+      "lastName": "Vargas",
+      "team": {
+        "guid": "0a50cb79-7d94-40ee-b0cf-654428fbad15",
+        "name": "Central Methodist (W)",
+        "abbreviation": "CMTH"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+        "name": "170",
+        "division": {
+          "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+          "maskSeeds": false,
+          "showSeedsTo": 8,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    }
+  ]
+}

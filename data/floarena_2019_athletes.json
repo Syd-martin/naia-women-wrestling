@@ -1,0 +1,4295 @@
+{
+  "status": "SUCCESS",
+  "response": [
+    {
+      "guid": "92e02f35-1fa7-40bb-a421-bd2766051243",
+      "firstName": "Abnelis",
+      "lastName": "Yambo",
+      "team": {
+        "guid": "3ffb4e5c-097c-4aff-8807-26d589e91688",
+        "name": "Brewton-Parker College",
+        "abbreviation": "BPC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 2,
+      "identityPersonGuid": "e3599c6a-d72d-46f9-9198-aea78a759734"
+    },
+    {
+      "guid": "3c629930-5371-4f31-a319-bd82e60780f4",
+      "firstName": "Agatha",
+      "lastName": "Andrews",
+      "team": {
+        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+        "name": "University of Jamestown",
+        "abbreviation": "UJ"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3cb2bde7-7158-46e2-87d0-9526c029e9a7",
+        "name": "191",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 2,
+      "identityPersonGuid": "3f9f132f-0386-4696-afcd-c2eaac07c26f"
+    },
+    {
+      "guid": "c5d0c6ba-57ed-41b6-922f-010b718a3588",
+      "firstName": "Akina",
+      "lastName": "Yamada",
+      "team": {
+        "guid": "32461529-2bd7-489b-89b4-d69304dd56e1",
+        "name": "Waldorf University",
+        "abbreviation": "WU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "690e39c3-c1d8-4db3-ad8a-4ea2a6294b13"
+    },
+    {
+      "guid": "fd2bff7a-a376-4f14-a8c8-e96553b90d53",
+      "firstName": "Alanah",
+      "lastName": "Vetterick",
+      "team": {
+        "guid": "fce508e3-e49e-4fdd-859a-ac7a20792507",
+        "name": "Midland University",
+        "abbreviation": "MU"
+      },
+      "city": "Fremont",
+      "zipCode": "68025",
+      "state": "NE",
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": "58494a29-6e2f-4393-8338-967e0e081360"
+    },
+    {
+      "guid": "efd4941c-f74e-459b-83bb-ebdb5965d814",
+      "firstName": "Alaura",
+      "lastName": "Couch",
+      "team": {
+        "guid": "32461529-2bd7-489b-89b4-d69304dd56e1",
+        "name": "Waldorf University",
+        "abbreviation": "WU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0681f9ed-5334-484d-8d22-f994ef98790f",
+        "name": "101",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": "c5cfa662-7188-4eee-809f-b0ff4a1b4386"
+    },
+    {
+      "guid": "d68c1964-52f7-4977-ace6-519508fbd516",
+      "firstName": "Alessia",
+      "lastName": "Cokeley",
+      "team": {
+        "guid": "aa53b12f-f264-4159-a96d-c1a1a6fb4a74",
+        "name": "Ottawa University W",
+        "abbreviation": "OU"
+      },
+      "city": "Augusta",
+      "zipCode": "67010",
+      "state": "KS",
+      "weightClass": {
+        "guid": "d173a105-e8a4-4e7a-a17e-83e37fa00546",
+        "name": "109",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": "0327d0a1-5bfc-4a35-a0f0-641eaeb94e70"
+    },
+    {
+      "guid": "b81d85af-22d4-4c6a-968e-ba03bd8ac331",
+      "firstName": "Alexandra",
+      "lastName": "Castillo",
+      "team": {
+        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+        "name": "Campbellsville University W",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3cb2bde7-7158-46e2-87d0-9526c029e9a7",
+        "name": "191",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 6,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "c082ee09-5e0f-4ef6-8518-ae8fe8bda9db",
+      "firstName": "Alexandrea",
+      "lastName": "Banag",
+      "team": {
+        "guid": "189dbb25-a528-4e46-8ca0-127dd389b6ac",
+        "name": "Lyon College",
+        "abbreviation": "LC"
+      },
+      "city": "Batesville",
+      "zipCode": "72501",
+      "state": "AR",
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "b38a20ab-5211-461d-99af-4abf8f6dd5b1"
+    },
+    {
+      "guid": "1add20a4-035e-4d93-b1fa-4deae66c75ac",
+      "firstName": "Alexandria",
+      "lastName": "Enriquez",
+      "team": {
+        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+        "name": "Life University W",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "9d29bcf1-b510-4b5c-9b74-fa3283519d6d",
+      "firstName": "Alexia",
+      "lastName": "Foca",
+      "team": {
+        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+        "name": "Campbellsville University W",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 7,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "e3191e7d-1a92-4c6c-b166-e49faa0887f2",
+      "firstName": "Alexis",
+      "lastName": "Cavero",
+      "team": {
+        "guid": "0dd651a0-c1d5-4e28-9ffd-98bffc9a5dd0",
+        "name": "Eastern Oregon University",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "0e459529-d352-4401-a436-bd3916916dd6",
+      "firstName": "Alleida",
+      "lastName": "Martinez",
+      "team": {
+        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+        "name": "Menlo",
+        "abbreviation": "MWC"
+      },
+      "city": "Selma",
+      "zipCode": "93662",
+      "state": "CA",
+      "weightClass": {
+        "guid": "d173a105-e8a4-4e7a-a17e-83e37fa00546",
+        "name": "109",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 1,
+      "identityPersonGuid": "aa614295-c165-401f-880f-c8e744e1ac84"
+    },
+    {
+      "guid": "53abf84e-4ee3-4914-a5d4-85bcfc71909b",
+      "firstName": "Alyandina",
+      "lastName": "Bushe",
+      "team": {
+        "guid": "ec0073e2-4288-4842-b370-7095f15bfb33",
+        "name": "Missouri Valley College",
+        "abbreviation": null
+      },
+      "city": "Kapolei",
+      "zipCode": "96707",
+      "state": "HI",
+      "weightClass": {
+        "guid": "3cb2bde7-7158-46e2-87d0-9526c029e9a7",
+        "name": "191",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": "a7c97d60-23ca-461f-81e9-3269d604d23e"
+    },
+    {
+      "guid": "c3003cf5-da68-479f-b2df-5a7139540327",
+      "firstName": "Alyssa",
+      "lastName": "Schrull",
+      "team": {
+        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+        "name": "University of Jamestown",
+        "abbreviation": "UJ"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 8,
+      "identityPersonGuid": "1b4718ff-b5cc-45fc-a25e-2ed0ffe7bc89"
+    },
+    {
+      "guid": "ae251065-bdfd-4a30-b59f-4cb92bf49dcb",
+      "firstName": "Amber",
+      "lastName": "Pair",
+      "team": {
+        "guid": "0dd651a0-c1d5-4e28-9ffd-98bffc9a5dd0",
+        "name": "Eastern Oregon University",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": "8727af3e-d9fb-45c6-8fe2-7d25625d0575"
+    },
+    {
+      "guid": "b44f308b-4369-47dd-9aee-eec9f8ccb4f0",
+      "firstName": "Amber",
+      "lastName": "Garriga",
+      "team": {
+        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+        "name": "Life University W",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0681f9ed-5334-484d-8d22-f994ef98790f",
+        "name": "101",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 6,
+      "identityPersonGuid": "0e79c43e-3905-45e6-a3e8-4dcd287503ae"
+    },
+    {
+      "guid": "6da8ac2e-d270-4296-9f57-3322b5e10fb1",
+      "firstName": "Analy",
+      "lastName": "Gonsalez",
+      "team": {
+        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+        "name": "University of Jamestown",
+        "abbreviation": "UJ"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "50a7fbd1-0b0e-4cab-b7cc-27d433917725"
+    },
+    {
+      "guid": "dd4e6bc3-baa7-482f-999d-62dca238ff07",
+      "firstName": "Andrea",
+      "lastName": "Prince",
+      "team": {
+        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+        "name": "University of Jamestown",
+        "abbreviation": "UJ"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 7,
+      "identityPersonGuid": "bec19f3c-b55f-4dbf-97fe-a1b65b211287"
+    },
+    {
+      "guid": "216407dd-a9f5-4475-8356-0f7a708a0fac",
+      "firstName": "Andribeth",
+      "lastName": "Rivera",
+      "team": {
+        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+        "name": "Campbellsville University W",
+        "abbreviation": "CU"
+      },
+      "city": "Campbellsville",
+      "zipCode": "42718",
+      "state": "KY",
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 1,
+      "identityPersonGuid": "c08b9ef6-c884-454f-b3d9-11d1248a911a"
+    },
+    {
+      "guid": "133dc432-e5b2-4e42-854c-888ec9833b68",
+      "firstName": "Anesia",
+      "lastName": "Ramirez",
+      "team": {
+        "guid": "7f613043-a5bf-4bfc-8884-80369cea0073",
+        "name": "Southern Oregon",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 4,
+      "identityPersonGuid": "a9335cc9-0c24-4e70-b9d3-73355243b068"
+    },
+    {
+      "guid": "da03c757-fd41-46d2-94ed-6b64c8cf755e",
+      "firstName": "Angel",
+      "lastName": "Ochoa",
+      "team": {
+        "guid": "68a21374-d734-4760-a152-ba3ca62c4fff",
+        "name": "Missouri Baptist University",
+        "abbreviation": "MBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3cb2bde7-7158-46e2-87d0-9526c029e9a7",
+        "name": "191",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": "2a2f775a-b207-45b2-b724-e0fb333750bd"
+    },
+    {
+      "guid": "57821ea6-7f43-438a-9a24-8490540dcc71",
+      "firstName": "Angela",
+      "lastName": "Peralta",
+      "team": {
+        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+        "name": "Menlo",
+        "abbreviation": "MWC"
+      },
+      "city": "Ewa Beach",
+      "zipCode": "96706",
+      "state": "HI",
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 2,
+      "identityPersonGuid": "d7ee7244-97ac-46fb-b261-21d349e1674a"
+    },
+    {
+      "guid": "033b56cf-3c44-4b42-8c5c-721719c38ca9",
+      "firstName": "Anna",
+      "lastName": "Naylor",
+      "team": {
+        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+        "name": "University of the Cumberlands",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 2,
+      "identityPersonGuid": "0cb3009b-ce74-4ba5-8822-befc478cdf95"
+    },
+    {
+      "guid": "e2a48c15-8498-41ed-8180-fa92227eb864",
+      "firstName": "Arianna",
+      "lastName": "Marrufo",
+      "team": {
+        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+        "name": "University of Jamestown",
+        "abbreviation": "UJ"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": "d9e60d66-ef53-4b38-b4cf-24ff5f72c8ec"
+    },
+    {
+      "guid": "bfc0c1a2-f75f-489d-91de-056a9d4561cb",
+      "firstName": "Ashley",
+      "lastName": "Tobe",
+      "team": {
+        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+        "name": "University of the Cumberlands",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": "b372105a-0ef9-4e9f-a867-5fa988c2a0f9"
+    },
+    {
+      "guid": "e383209c-7a4a-4588-b237-e17206314a90",
+      "firstName": "Ashley",
+      "lastName": "Ikner",
+      "team": {
+        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+        "name": "University of the Cumberlands",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": "c824f46f-9040-4dee-9012-5f20316b5638"
+    },
+    {
+      "guid": "7f6f8f82-270b-4262-9d03-ff8202eaa368",
+      "firstName": "Asia",
+      "lastName": "Ray",
+      "team": {
+        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+        "name": "Wayland Baptist University W",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0681f9ed-5334-484d-8d22-f994ef98790f",
+        "name": "101",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 1,
+      "identityPersonGuid": "3fe56018-47ba-47a6-80b3-e9fe4e8a5437"
+    },
+    {
+      "guid": "1f28edbe-009f-4708-bce2-4fa7b377f393",
+      "firstName": "Aysia",
+      "lastName": "Cortez",
+      "team": {
+        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+        "name": "Life University W",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": "972aebda-7dc5-4297-b7ea-ac93b3817866"
+    },
+    {
+      "guid": "051d71f5-ec45-4f44-a337-d14bf423ac3c",
+      "firstName": "Breanna",
+      "lastName": "Jennings",
+      "team": {
+        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+        "name": "Wayland Baptist University W",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 5,
+      "identityPersonGuid": "4297d85a-e5b8-47dd-8371-a44ec5cb5304"
+    },
+    {
+      "guid": "1e99c286-9d73-4b75-b70f-46367553dc4c",
+      "firstName": "Breannah",
+      "lastName": "Duduoit-Vasquez",
+      "team": {
+        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+        "name": "Wayland Baptist University W",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "d6495ef3-bac6-4b29-af03-99495ef78764",
+      "firstName": "Brianna",
+      "lastName": "Ribucan-Leong",
+      "team": {
+        "guid": "189dbb25-a528-4e46-8ca0-127dd389b6ac",
+        "name": "Lyon College",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d173a105-e8a4-4e7a-a17e-83e37fa00546",
+        "name": "109",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 4,
+      "identityPersonGuid": "d3b0ee63-121d-4738-8a8c-801a2a19920b"
+    },
+    {
+      "guid": "95fe6099-8748-4801-bdb5-8abe50a00e29",
+      "firstName": "Bridgette",
+      "lastName": "Duty",
+      "team": {
+        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+        "name": "University of the Cumberlands",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 4,
+      "identityPersonGuid": "cb395fd1-3c45-4de1-a91c-b14d6e10d721"
+    },
+    {
+      "guid": "2e39a9d7-1128-42f1-82d2-3eb29fcfacbf",
+      "firstName": "Brighton",
+      "lastName": "Hutton",
+      "team": {
+        "guid": "68a21374-d734-4760-a152-ba3ca62c4fff",
+        "name": "Missouri Baptist University",
+        "abbreviation": "MBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": "6ae27635-2c9b-4336-b01e-311452b119e1"
+    },
+    {
+      "guid": "b6fa956c-d455-4cee-8a32-92703b56ecb4",
+      "firstName": "Brigitte",
+      "lastName": "Mihalca",
+      "team": {
+        "guid": "68a21374-d734-4760-a152-ba3ca62c4fff",
+        "name": "Missouri Baptist University",
+        "abbreviation": "MBU"
+      },
+      "city": "Petaluma",
+      "zipCode": "94954",
+      "state": "CA",
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 5,
+      "identityPersonGuid": "1d5e64f4-0223-4005-b9f0-8d1940723f55"
+    },
+    {
+      "guid": "d5df7a57-936b-4899-9c7e-b897642472c8",
+      "firstName": "Brittany",
+      "lastName": "Woods-Orrison",
+      "team": {
+        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+        "name": "Menlo",
+        "abbreviation": "MWC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 6,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "9e4b9522-c543-45d0-8439-a19b865d00c8",
+      "firstName": "Brooke",
+      "lastName": "Logan",
+      "team": {
+        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+        "name": "Oklahoma City University",
+        "abbreviation": "OKCU"
+      },
+      "city": "El Mirage",
+      "zipCode": "85335",
+      "state": "AZ",
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": "dd5fae8e-1cd7-42b2-a8ca-cd8cec57bd18"
+    },
+    {
+      "guid": "cbe33a6d-86b5-4d9d-8da4-f09b894f3c41",
+      "firstName": "Cara",
+      "lastName": "Romeike",
+      "team": {
+        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+        "name": "University of Jamestown",
+        "abbreviation": "UJ"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 2,
+      "identityPersonGuid": "8ce0f974-e776-473f-aa1e-c78f8fe7c08c"
+    },
+    {
+      "guid": "1804ca67-afbf-4426-8acd-5b3bc0069dbf",
+      "firstName": "Cassidy",
+      "lastName": "Jasperson",
+      "team": {
+        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+        "name": "Oklahoma City University",
+        "abbreviation": "OKCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 4,
+      "identityPersonGuid": "114a37b8-4a5f-4482-8b1d-2b2eede6e0cc"
+    },
+    {
+      "guid": "ece9db19-0205-4ab6-bfdb-68dbc27ea7c2",
+      "firstName": "Cassidy",
+      "lastName": "Freeman",
+      "team": {
+        "guid": "0dd651a0-c1d5-4e28-9ffd-98bffc9a5dd0",
+        "name": "Eastern Oregon University",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d173a105-e8a4-4e7a-a17e-83e37fa00546",
+        "name": "109",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": "16590f38-926e-4d4d-9a09-4524a20a93b5"
+    },
+    {
+      "guid": "eca247cc-7976-4080-bd78-302bc5db3dee",
+      "firstName": "Charity",
+      "lastName": "Goldsmith - Ding",
+      "team": {
+        "guid": "efd96359-6805-4c3f-aebf-69098fcff181",
+        "name": "York College",
+        "abbreviation": "YCNE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "f5f9a8ce-9686-4e51-be41-5f927552c32e",
+      "firstName": "Chasity",
+      "lastName": "Cortez",
+      "team": {
+        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+        "name": "University of the Cumberlands",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": "70cb6afe-c0d7-4281-9ab3-b5746f160437"
+    },
+    {
+      "guid": "13dca01a-f255-4734-b0c6-c1957847fdfa",
+      "firstName": "Chelsea",
+      "lastName": "Dionisio",
+      "team": {
+        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+        "name": "University of Jamestown",
+        "abbreviation": "UJ"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 6,
+      "identityPersonGuid": "5d4a475e-fabc-4904-8bef-4996bfcf2d26"
+    },
+    {
+      "guid": "cd6d51b7-495e-42f7-bffe-2ae176a23ae1",
+      "firstName": "Chi Chi",
+      "lastName": "Nwankwo",
+      "team": {
+        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+        "name": "Oklahoma City University",
+        "abbreviation": "OKCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3cb2bde7-7158-46e2-87d0-9526c029e9a7",
+        "name": "191",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 1,
+      "identityPersonGuid": "957ea348-567b-44e4-bee1-9749e7fcdae0"
+    },
+    {
+      "guid": "47de126b-fc56-400d-980f-961a8c3de42a",
+      "firstName": "Chyna",
+      "lastName": "Rodriguez",
+      "team": {
+        "guid": "fce508e3-e49e-4fdd-859a-ac7a20792507",
+        "name": "Midland University",
+        "abbreviation": "MU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "d274856b-3093-4ab1-adf7-86153622b966",
+      "firstName": "Cierra",
+      "lastName": "Foster",
+      "team": {
+        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+        "name": "Oklahoma City University",
+        "abbreviation": "OKCU"
+      },
+      "city": "Oklahoma City",
+      "zipCode": "73106",
+      "state": "OK",
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": "52e23b86-9ee0-4b19-9bf9-32d0193e37be"
+    },
+    {
+      "guid": "d541646b-4e6f-4119-9011-cc7896fbe310",
+      "firstName": "Cindy",
+      "lastName": "Vazquez",
+      "team": {
+        "guid": "aa53b12f-f264-4159-a96d-c1a1a6fb4a74",
+        "name": "Ottawa University W",
+        "abbreviation": "OU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": "4e1e01ea-11bc-4e9b-a15d-90efb5c721ce"
+    },
+    {
+      "guid": "3d7aedc8-34dc-4e6b-800a-9e0d2e3dd4aa",
+      "firstName": "Citlali",
+      "lastName": "Palafox",
+      "team": {
+        "guid": "64e72bc5-9863-4af0-8a72-61d51982f83f",
+        "name": "Central Christian College of Kansas",
+        "abbreviation": null
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d173a105-e8a4-4e7a-a17e-83e37fa00546",
+        "name": "109",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "c598097d-a392-431a-a9a2-c56a2cc2102f",
+      "firstName": "Claire",
+      "lastName": "Payne",
+      "team": {
+        "guid": "efd96359-6805-4c3f-aebf-69098fcff181",
+        "name": "York College",
+        "abbreviation": "YCNE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d173a105-e8a4-4e7a-a17e-83e37fa00546",
+        "name": "109",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 6,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "7b65e867-ef39-4c7b-804f-19b3f6715bc1",
+      "firstName": "Corinne",
+      "lastName": "Robertson",
+      "team": {
+        "guid": "aa53b12f-f264-4159-a96d-c1a1a6fb4a74",
+        "name": "Ottawa University W",
+        "abbreviation": "OU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "9f2a96b3-5506-4ec7-89c4-33a10c290693",
+      "firstName": "Cynthia",
+      "lastName": "Galicia",
+      "team": {
+        "guid": "32461529-2bd7-489b-89b4-d69304dd56e1",
+        "name": "Waldorf University",
+        "abbreviation": "WU"
+      },
+      "city": "Forest City",
+      "zipCode": "50436",
+      "state": "IA",
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": "b8ff9268-382c-4440-8b56-9a5239252734"
+    },
+    {
+      "guid": "e0594181-f2f7-4a91-90b8-5e37d3ba1fa2",
+      "firstName": "Daishea",
+      "lastName": "Jaime",
+      "team": {
+        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+        "name": "Oklahoma City University",
+        "abbreviation": "OKCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 7,
+      "identityPersonGuid": "3eea934d-8c48-449a-8f59-e480d9cd064d"
+    },
+    {
+      "guid": "644aacfb-84f8-40c4-9b9c-206aed2d914a",
+      "firstName": "Dajan",
+      "lastName": "Treder",
+      "team": {
+        "guid": "7883104d-09e3-45a3-84c4-ba983b3625f8",
+        "name": "Providence",
+        "abbreviation": "PROV"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 3,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "ab60fe8a-ee1c-4cba-9bcc-8f8ec4edc22f",
+      "firstName": "Daniela",
+      "lastName": "Flores",
+      "team": {
+        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+        "name": "Oklahoma City University",
+        "abbreviation": "OKCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 7,
+      "identityPersonGuid": "5789a9a9-93d3-4a5b-a29f-83e604932264"
+    },
+    {
+      "guid": "bd4b8162-bfc2-49bc-ac32-414af00ff21a",
+      "firstName": "Dempsi",
+      "lastName": "Talkington",
+      "team": {
+        "guid": "0dd651a0-c1d5-4e28-9ffd-98bffc9a5dd0",
+        "name": "Eastern Oregon University",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": "2e1b1ec3-b75e-424c-ba3b-4817602923f1"
+    },
+    {
+      "guid": "321f4df7-5fb6-44a2-af92-b88d44b9231f",
+      "firstName": "Destinee",
+      "lastName": "Rivera",
+      "team": {
+        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+        "name": "Life University W",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 8,
+      "identityPersonGuid": "ad4cb126-c69c-43c4-a274-82762f8e7aec"
+    },
+    {
+      "guid": "c3e2246c-ca13-4dc6-b85f-7e299115e5b5",
+      "firstName": "Destiny",
+      "lastName": "Lyng",
+      "team": {
+        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+        "name": "Oklahoma City University",
+        "abbreviation": "OKCU"
+      },
+      "city": "La Mesa",
+      "zipCode": "91942",
+      "state": "CA",
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 5,
+      "identityPersonGuid": "3e6862c3-d1a7-4333-b6f6-bcf7da0ae6d0"
+    },
+    {
+      "guid": "3200d79b-714e-4b14-803a-fe2650effb1e",
+      "firstName": "Diana",
+      "lastName": "Leyva",
+      "team": {
+        "guid": "32461529-2bd7-489b-89b4-d69304dd56e1",
+        "name": "Waldorf University",
+        "abbreviation": "WU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d173a105-e8a4-4e7a-a17e-83e37fa00546",
+        "name": "109",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": null,
+      "identityPersonGuid": "6d377120-879c-4a0c-a8c2-38d902463908"
+    },
+    {
+      "guid": "8c52933d-33a9-4545-8587-8a04ff515dec",
+      "firstName": "Diana",
+      "lastName": "Dzasezeva",
+      "team": {
+        "guid": "32461529-2bd7-489b-89b4-d69304dd56e1",
+        "name": "Waldorf University",
+        "abbreviation": "WU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 5,
+      "identityPersonGuid": "7af50065-3daa-46e7-9535-d288d4661a15"
+    },
+    {
+      "guid": "f49cf109-4f23-4647-8d11-ff2f604d90d8",
+      "firstName": "Dymond",
+      "lastName": "Guilford",
+      "team": {
+        "guid": "68a21374-d734-4760-a152-ba3ca62c4fff",
+        "name": "Missouri Baptist University",
+        "abbreviation": "MBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 1,
+      "identityPersonGuid": "360ef1c0-1aa0-4c4d-945a-2685707ad0c6"
+    },
+    {
+      "guid": "6e6936a2-7fbd-46cd-97af-eca851cb3420",
+      "firstName": "Elissa",
+      "lastName": "Douglass",
+      "team": {
+        "guid": "189dbb25-a528-4e46-8ca0-127dd389b6ac",
+        "name": "Lyon College",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 7,
+      "identityPersonGuid": "e32d555d-dba9-45da-9fcf-31565e2366a8"
+    },
+    {
+      "guid": "59b34b49-ca41-4ac7-b3b5-4ffd7948d35b",
+      "firstName": "Emily",
+      "lastName": "Sandoval",
+      "team": {
+        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+        "name": "Menlo",
+        "abbreviation": "MWC"
+      },
+      "city": "Atherton",
+      "zipCode": "94027",
+      "state": "CA",
+      "weightClass": {
+        "guid": "3cb2bde7-7158-46e2-87d0-9526c029e9a7",
+        "name": "191",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": "0830b808-efb3-4a45-969f-2b82e0138083"
+    },
+    {
+      "guid": "8565bd7f-7408-41a0-a392-e3f9fc34bfff",
+      "firstName": "Emily",
+      "lastName": "Fergeson",
+      "team": {
+        "guid": "efd96359-6805-4c3f-aebf-69098fcff181",
+        "name": "York College",
+        "abbreviation": "YCNE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "e0e4dab5-b625-4a8e-81fd-8079e6ef3bd1",
+      "firstName": "Emma",
+      "lastName": "DeBrum",
+      "team": {
+        "guid": "189dbb25-a528-4e46-8ca0-127dd389b6ac",
+        "name": "Lyon College",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "95f8a38f-6fe9-40a6-9953-4de517cfb58e",
+      "firstName": "Erica",
+      "lastName": "Sotelo",
+      "team": {
+        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+        "name": "Life University W",
+        "abbreviation": "LIFE"
+      },
+      "city": "Albany",
+      "zipCode": "94706",
+      "state": "CA",
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 3,
+      "identityPersonGuid": "a9e7cb13-8246-42c4-b1ce-6915ac2f33c7"
+    },
+    {
+      "guid": "aa324418-ebbd-4a1b-9734-abf530e7e4e6",
+      "firstName": "Erin",
+      "lastName": "Scheidt",
+      "team": {
+        "guid": "fce508e3-e49e-4fdd-859a-ac7a20792507",
+        "name": "Midland University",
+        "abbreviation": "MU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": "c77a2d03-e1b2-40b9-b668-c46bb5e5daee"
+    },
+    {
+      "guid": "7f77512b-3b13-4402-9000-d23db0ccb819",
+      "firstName": "Fatima",
+      "lastName": "Avalos",
+      "team": {
+        "guid": "68a21374-d734-4760-a152-ba3ca62c4fff",
+        "name": "Missouri Baptist University",
+        "abbreviation": "MBU"
+      },
+      "city": "Santa Ana",
+      "zipCode": "92707",
+      "state": "CA",
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "bdc581c0-2fd5-4520-b0bd-b101263ce7df"
+    },
+    {
+      "guid": "2dc07dfc-78fc-4175-8de5-11387f5208b7",
+      "firstName": "Faye",
+      "lastName": "Cherrier",
+      "team": {
+        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+        "name": "Life University W",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0681f9ed-5334-484d-8d22-f994ef98790f",
+        "name": "101",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": "399c319d-85ba-4d91-a2a2-00d7db4fb09b"
+    },
+    {
+      "guid": "77ae4ead-1754-444f-bcd2-59239e065a4a",
+      "firstName": "Gabriela",
+      "lastName": "Hunter",
+      "team": {
+        "guid": "fce508e3-e49e-4fdd-859a-ac7a20792507",
+        "name": "Midland University",
+        "abbreviation": "MU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "4f630023-7a9b-4ec0-8607-0fe648211879",
+      "firstName": "Gabrielle",
+      "lastName": "Grimes",
+      "team": {
+        "guid": "ec0073e2-4288-4842-b370-7095f15bfb33",
+        "name": "Missouri Valley College",
+        "abbreviation": null
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "d77e303d-4cf9-4f4b-bffd-0bf9878a97ec",
+      "firstName": "Glory",
+      "lastName": "Konecny",
+      "team": {
+        "guid": "7f613043-a5bf-4bfc-8884-80369cea0073",
+        "name": "Southern Oregon",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": "06d69f6a-0ee9-4df7-8738-1b48db3b5e28"
+    },
+    {
+      "guid": "2fe9c143-0959-4784-b230-a7f9eadc288d",
+      "firstName": "Gracie",
+      "lastName": "Figueroa",
+      "team": {
+        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+        "name": "Menlo",
+        "abbreviation": "MWC"
+      },
+      "city": "Selma",
+      "zipCode": "93662",
+      "state": "CA",
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 1,
+      "identityPersonGuid": "7ad9978d-a325-45f3-ba82-0ae9f4c19883"
+    },
+    {
+      "guid": "8961683c-9640-4154-8cfa-181b5a6ecf7e",
+      "firstName": "Haley",
+      "lastName": "Schiermeyer",
+      "team": {
+        "guid": "fce508e3-e49e-4fdd-859a-ac7a20792507",
+        "name": "Midland University",
+        "abbreviation": "MU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "e45477d5-0ab7-4d60-b0c0-8603198d2703",
+      "firstName": "Hiba",
+      "lastName": "Salem",
+      "team": {
+        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+        "name": "Menlo",
+        "abbreviation": "MWC"
+      },
+      "city": "Atherton",
+      "zipCode": "94027",
+      "state": "CA",
+      "weightClass": {
+        "guid": "0681f9ed-5334-484d-8d22-f994ef98790f",
+        "name": "101",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 3,
+      "identityPersonGuid": "d8b547da-19f4-4daf-867f-e920b9a1db88"
+    },
+    {
+      "guid": "a4eb364b-1df2-4ddc-9003-374e7d789a36",
+      "firstName": "Hilda",
+      "lastName": "Garcia",
+      "team": {
+        "guid": "ec0073e2-4288-4842-b370-7095f15bfb33",
+        "name": "Missouri Valley College",
+        "abbreviation": null
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": "ab4f572e-bf98-4014-ae73-99bad45593b1"
+    },
+    {
+      "guid": "7612440e-d705-43c1-9dc8-6fc6738fa0a2",
+      "firstName": "Iman",
+      "lastName": "Kazem",
+      "team": {
+        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+        "name": "Menlo",
+        "abbreviation": "MWC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 1,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "ed3bba37-d23f-4425-8fa4-7ab259f3340e",
+      "firstName": "Isabella",
+      "lastName": "Ricchiazzi",
+      "team": {
+        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+        "name": "University of the Cumberlands",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": "c5539b6f-1fc6-40e6-ac52-1abee2814c05"
+    },
+    {
+      "guid": "87b5d837-ca24-4344-9eaa-cfc3e72b2eff",
+      "firstName": "Jamayia",
+      "lastName": "Blackston",
+      "team": {
+        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+        "name": "University of Jamestown",
+        "abbreviation": "UJ"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 8,
+      "identityPersonGuid": "df80b2df-adb3-4cc9-ba18-3179c554d0ee"
+    },
+    {
+      "guid": "5d4fc73e-3536-4cab-9ea8-a529051d6437",
+      "firstName": "Jasmine",
+      "lastName": "Hernandez",
+      "team": {
+        "guid": "189dbb25-a528-4e46-8ca0-127dd389b6ac",
+        "name": "Lyon College",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": "54415849-6c7e-4cfc-ab79-a42179e43bdc"
+    },
+    {
+      "guid": "a7ad21fc-6735-417d-a6cd-82956e2843d4",
+      "firstName": "Jasmine",
+      "lastName": "Davis",
+      "team": {
+        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+        "name": "Wayland Baptist University W",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "20efbe27-f9bf-432d-8092-d5d14226a5c7",
+      "firstName": "Jathiya",
+      "lastName": "Isaac",
+      "team": {
+        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+        "name": "Wayland Baptist University W",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 2,
+      "identityPersonGuid": "d009d18f-2507-4c9e-8e18-feed1be0b3a3"
+    },
+    {
+      "guid": "a81ab594-457e-455b-9892-0771336f8859",
+      "firstName": "Jenna",
+      "lastName": "Awana",
+      "team": {
+        "guid": "7883104d-09e3-45a3-84c4-ba983b3625f8",
+        "name": "Providence",
+        "abbreviation": "PROV"
+      },
+      "city": "Waianae",
+      "zipCode": "96792",
+      "state": "HI",
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "09797aca-7d07-4025-9e12-ce2a9d43bb52"
+    },
+    {
+      "guid": "23ba0018-2c11-4345-9665-0982526cbdd7",
+      "firstName": "Jesse",
+      "lastName": "Kirby",
+      "team": {
+        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+        "name": "University of the Cumberlands",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3cb2bde7-7158-46e2-87d0-9526c029e9a7",
+        "name": "191",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 5,
+      "identityPersonGuid": "0166b12e-9301-4d3f-b236-ae86a354f808"
+    },
+    {
+      "guid": "59202547-e085-4f31-b17a-dd9b5bc47477",
+      "firstName": "Jessica",
+      "lastName": "Rodriguez",
+      "team": {
+        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+        "name": "University of the Cumberlands",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0681f9ed-5334-484d-8d22-f994ef98790f",
+        "name": "101",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 5,
+      "identityPersonGuid": "9d5d68a4-6874-4180-b57c-7692fdcfc040"
+    },
+    {
+      "guid": "20e96540-aebc-43b6-ab17-60aa58852eec",
+      "firstName": "Jessienna",
+      "lastName": "Burkett-Erice",
+      "team": {
+        "guid": "189dbb25-a528-4e46-8ca0-127dd389b6ac",
+        "name": "Lyon College",
+        "abbreviation": "LC"
+      },
+      "city": "Sterling",
+      "zipCode": "20166",
+      "state": "VA",
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": "4b5c3411-34eb-478f-a67f-f4044cbb7e21"
+    },
+    {
+      "guid": "1b32b979-4734-4339-83ae-64639f4b7929",
+      "firstName": "Joanna",
+      "lastName": "Mack",
+      "team": {
+        "guid": "fce508e3-e49e-4fdd-859a-ac7a20792507",
+        "name": "Midland University",
+        "abbreviation": "MU"
+      },
+      "city": "Fremont",
+      "zipCode": "68025",
+      "state": "NE",
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": "bd59205b-7421-4517-be3b-0bc0d4afc0e5"
+    },
+    {
+      "guid": "26f75118-b08e-407f-86c2-ae9aad2265bf",
+      "firstName": "Jocelyn",
+      "lastName": "Murphy",
+      "team": {
+        "guid": "ec0073e2-4288-4842-b370-7095f15bfb33",
+        "name": "Missouri Valley College",
+        "abbreviation": null
+      },
+      "city": "Jacksonville",
+      "zipCode": "62650",
+      "state": "IL",
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 6,
+      "identityPersonGuid": "49e1f759-429f-4b6a-ac2d-4bb066b1eaf3"
+    },
+    {
+      "guid": "7b40d06f-216d-4706-9a25-5ee3858d274c",
+      "firstName": "Jordan",
+      "lastName": "Nelson",
+      "team": {
+        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+        "name": "Life University W",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 6,
+      "identityPersonGuid": "62410458-7af3-4bdb-bf9d-a82b43ba50f5"
+    },
+    {
+      "guid": "54a1d7a2-92c9-41a4-aabb-776389d7de61",
+      "firstName": "Joy",
+      "lastName": "Muniz",
+      "team": {
+        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+        "name": "University of Jamestown",
+        "abbreviation": "UJ"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 6,
+      "identityPersonGuid": "1c92f66a-5135-40c4-8978-beb3856be110"
+    },
+    {
+      "guid": "0e4ee1e8-e16c-4db6-9fd4-546176386f0a",
+      "firstName": "Julia",
+      "lastName": "Mata",
+      "team": {
+        "guid": "ec0073e2-4288-4842-b370-7095f15bfb33",
+        "name": "Missouri Valley College",
+        "abbreviation": null
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 8,
+      "identityPersonGuid": "ee966402-c2fe-41bc-bd55-60936f717958"
+    },
+    {
+      "guid": "b3e82923-3f4e-4b72-beba-ddc46e2f96e4",
+      "firstName": "Julissa",
+      "lastName": "Taitano",
+      "team": {
+        "guid": "7f613043-a5bf-4bfc-8884-80369cea0073",
+        "name": "Southern Oregon",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 3,
+      "identityPersonGuid": "965c9916-02be-4c19-a512-a7f75f287884"
+    },
+    {
+      "guid": "250e3d6c-0723-470b-84fa-d4adb3c6dfa5",
+      "firstName": "Junnette",
+      "lastName": "Caldera",
+      "team": {
+        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+        "name": "University of Jamestown",
+        "abbreviation": "UJ"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0681f9ed-5334-484d-8d22-f994ef98790f",
+        "name": "101",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 4,
+      "identityPersonGuid": "818452c7-7f6b-4d02-9771-5ca9f51370a1"
+    },
+    {
+      "guid": "54f472c8-6848-4d22-8660-b545b31b38ab",
+      "firstName": "Jythssel",
+      "lastName": "Mascorro",
+      "team": {
+        "guid": "aa53b12f-f264-4159-a96d-c1a1a6fb4a74",
+        "name": "Ottawa University W",
+        "abbreviation": "OU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": "1f6f1765-96e7-44b2-bb57-cbbffc871f7e"
+    },
+    {
+      "guid": "4689e481-6280-4bab-9c66-7f342d293554",
+      "firstName": "Kailyn",
+      "lastName": "Ramos",
+      "team": {
+        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+        "name": "Oklahoma City University",
+        "abbreviation": "OKCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": "3b10b289-75b7-43bc-ade4-2c3760b89c4d"
+    },
+    {
+      "guid": "71c27deb-ccc7-4604-b13a-094dfd2ff90d",
+      "firstName": "Karrah",
+      "lastName": "Smith",
+      "team": {
+        "guid": "7f613043-a5bf-4bfc-8884-80369cea0073",
+        "name": "Southern Oregon",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": "c9d510fb-7156-49e2-8cb8-d288cc045c4e"
+    },
+    {
+      "guid": "87f93359-f218-443a-8cc9-fe6dfda3836d",
+      "firstName": "Kassidy",
+      "lastName": "Ramirez",
+      "team": {
+        "guid": "189dbb25-a528-4e46-8ca0-127dd389b6ac",
+        "name": "Lyon College",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0681f9ed-5334-484d-8d22-f994ef98790f",
+        "name": "101",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": "67ed8175-13f9-4b5b-9e21-27ec6f6efd6a"
+    },
+    {
+      "guid": "442e0cdc-fbfa-4224-bb4d-c8dc094bc178",
+      "firstName": "Katie",
+      "lastName": "Bell",
+      "team": {
+        "guid": "efd96359-6805-4c3f-aebf-69098fcff181",
+        "name": "York College",
+        "abbreviation": "YCNE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "9e230474-b1ff-4ebd-ab4d-0eaffc3ef135",
+      "firstName": "Katie",
+      "lastName": "Brock",
+      "team": {
+        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+        "name": "Campbellsville University W",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "d60b1390-887a-4675-919b-7f6a77494cc8",
+      "firstName": "Kayla",
+      "lastName": "Fitts",
+      "team": {
+        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+        "name": "Wayland Baptist University W",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": "a2993e76-dd93-429d-adec-720c2228c658"
+    },
+    {
+      "guid": "5ec78a5d-dd02-4c1c-991b-2c8fe1b1cef9",
+      "firstName": "Kellyann",
+      "lastName": "Jimenez",
+      "team": {
+        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+        "name": "University of the Cumberlands",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "6e9a9fd5-9ba8-44e1-93f1-f18b9428d1f8"
+    },
+    {
+      "guid": "5da9d566-1804-439d-abee-a492cedbeeeb",
+      "firstName": "Kenya-Lee",
+      "lastName": "Sloan",
+      "team": {
+        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+        "name": "Campbellsville University W",
+        "abbreviation": "CU"
+      },
+      "city": "Knoxville",
+      "zipCode": "37932",
+      "state": "TN",
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 7,
+      "identityPersonGuid": "8c698c8d-68dc-4c0a-b896-f2adf7db74ce"
+    },
+    {
+      "guid": "d85f0b45-3757-49b9-abb6-f9704cab4583",
+      "firstName": "Kimberly",
+      "lastName": "Lambert",
+      "team": {
+        "guid": "64e72bc5-9863-4af0-8a72-61d51982f83f",
+        "name": "Central Christian College of Kansas",
+        "abbreviation": null
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "e1e8a115-663e-4f83-a139-21728b0abe32",
+      "firstName": "Koral",
+      "lastName": "Sugiyama",
+      "team": {
+        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+        "name": "Campbellsville University W",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 2,
+      "identityPersonGuid": "cfe08429-d9d3-4e02-a183-45567f76fde3"
+    },
+    {
+      "guid": "e7ac7103-646f-4c7d-98bb-212664f4aa8b",
+      "firstName": "Krystal",
+      "lastName": "Fabricante",
+      "team": {
+        "guid": "0dd651a0-c1d5-4e28-9ffd-98bffc9a5dd0",
+        "name": "Eastern Oregon University",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": "eb30ba35-4eb1-46fc-83d0-f05a86146d52"
+    },
+    {
+      "guid": "9b8bed1f-b6e5-4b70-bfe4-117fff81546d",
+      "firstName": "Kylie",
+      "lastName": "Godinez",
+      "team": {
+        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+        "name": "University of the Cumberlands",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "dec41104-aa53-4973-bd9b-e6566082c3e8",
+      "firstName": "Kylie",
+      "lastName": "Marlin",
+      "team": {
+        "guid": "efd96359-6805-4c3f-aebf-69098fcff181",
+        "name": "York College",
+        "abbreviation": "YCNE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0681f9ed-5334-484d-8d22-f994ef98790f",
+        "name": "101",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "0c156d8f-2647-4a4d-b38b-97c3123597ba",
+      "firstName": "Lacey",
+      "lastName": "Henderson",
+      "team": {
+        "guid": "aa53b12f-f264-4159-a96d-c1a1a6fb4a74",
+        "name": "Ottawa University W",
+        "abbreviation": "OU"
+      },
+      "city": "Ottawa",
+      "zipCode": "66067",
+      "state": "KS",
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": "00b94b26-6a52-462e-ae77-54e764b8bb22"
+    },
+    {
+      "guid": "371ae01c-a101-4a55-9b51-77cd74f76804",
+      "firstName": "Latiana",
+      "lastName": "Tauaese",
+      "team": {
+        "guid": "7f613043-a5bf-4bfc-8884-80369cea0073",
+        "name": "Southern Oregon",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": "f6588647-e9bd-4774-a541-ce2f1dcc3da9"
+    },
+    {
+      "guid": "118bad90-d9b2-480c-8481-f449c0f0659a",
+      "firstName": "Leah",
+      "lastName": "Olguin",
+      "team": {
+        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+        "name": "Wayland Baptist University W",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": "8683a68f-0bb2-4b6c-a1c3-70b2f099b144"
+    },
+    {
+      "guid": "5128b119-28ca-4f15-a102-90c55d820136",
+      "firstName": "Leilani",
+      "lastName": "Camargo-Naone",
+      "team": {
+        "guid": "fce508e3-e49e-4fdd-859a-ac7a20792507",
+        "name": "Midland University",
+        "abbreviation": "MU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3cb2bde7-7158-46e2-87d0-9526c029e9a7",
+        "name": "191",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 4,
+      "identityPersonGuid": "6aa7bd00-3a0b-4ed1-8754-038d2a1a0ad0"
+    },
+    {
+      "guid": "49815ae2-989f-4a6e-9bc7-afef77838036",
+      "firstName": "Lilia",
+      "lastName": "Rangel",
+      "team": {
+        "guid": "32461529-2bd7-489b-89b4-d69304dd56e1",
+        "name": "Waldorf University",
+        "abbreviation": "WU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": "98166196-e287-4929-a6cb-6219f2ba80da"
+    },
+    {
+      "guid": "a7fe8fee-f5e8-4559-8d9d-aa7486e6edd2",
+      "firstName": "Lisa",
+      "lastName": "Megargee",
+      "team": {
+        "guid": "0dd651a0-c1d5-4e28-9ffd-98bffc9a5dd0",
+        "name": "Eastern Oregon University",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0681f9ed-5334-484d-8d22-f994ef98790f",
+        "name": "101",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": "0d1d34c2-97da-4bb2-8683-7c603b208bf7"
+    },
+    {
+      "guid": "36d81371-5d38-4cbd-8850-8ca486582e83",
+      "firstName": "Lori",
+      "lastName": "Archuleta",
+      "team": {
+        "guid": "ec0073e2-4288-4842-b370-7095f15bfb33",
+        "name": "Missouri Valley College",
+        "abbreviation": null
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "113e1809-6ac8-4c1b-a50f-56270266f01c",
+      "firstName": "Lyric",
+      "lastName": "Gonsalves",
+      "team": {
+        "guid": "aa53b12f-f264-4159-a96d-c1a1a6fb4a74",
+        "name": "Ottawa University W",
+        "abbreviation": "OU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": "a24ef3be-3541-4b73-8728-7309777af4b7"
+    },
+    {
+      "guid": "a6cd56dd-86c5-49f0-98b6-49f98810d848",
+      "firstName": "Macy",
+      "lastName": "Higa",
+      "team": {
+        "guid": "0dd651a0-c1d5-4e28-9ffd-98bffc9a5dd0",
+        "name": "Eastern Oregon University",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 1,
+      "identityPersonGuid": "c78e05db-b910-42c6-a3c1-d5c8f6ccb487"
+    },
+    {
+      "guid": "648096f1-dff5-4672-8f29-fc7ccd4bdc54",
+      "firstName": "Madison",
+      "lastName": "Bozovich",
+      "team": {
+        "guid": "0dd651a0-c1d5-4e28-9ffd-98bffc9a5dd0",
+        "name": "Eastern Oregon University",
+        "abbreviation": "EOU"
+      },
+      "city": "La Grande",
+      "zipCode": "97850",
+      "state": "OR",
+      "weightClass": {
+        "guid": "3cb2bde7-7158-46e2-87d0-9526c029e9a7",
+        "name": "191",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": "f6256f2c-26f5-4fce-a3db-1b73507521c2"
+    },
+    {
+      "guid": "8a296e2f-0609-418d-8c98-88b7a57daf07",
+      "firstName": "Madison",
+      "lastName": "Angelito",
+      "team": {
+        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+        "name": "University of the Cumberlands",
+        "abbreviation": "UC"
+      },
+      "city": "Cibolo",
+      "zipCode": "78108",
+      "state": "TX",
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 5,
+      "identityPersonGuid": "f0ae6c37-4ee3-40aa-9381-1dfc72cd7e44"
+    },
+    {
+      "guid": "b6e00f38-ea83-4ed7-bcd7-44463db86e9c",
+      "firstName": "Maranda",
+      "lastName": "Dornan",
+      "team": {
+        "guid": "aa53b12f-f264-4159-a96d-c1a1a6fb4a74",
+        "name": "Ottawa University W",
+        "abbreviation": "OU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3cb2bde7-7158-46e2-87d0-9526c029e9a7",
+        "name": "191",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": "6ea271f4-f3dd-4c42-af67-be20a5922d02"
+    },
+    {
+      "guid": "591b2c69-9c9e-4480-80e1-af1691536624",
+      "firstName": "Margaret",
+      "lastName": "Douma",
+      "team": {
+        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+        "name": "Oklahoma City University",
+        "abbreviation": "OKCU"
+      },
+      "city": "Oklahoma City",
+      "zipCode": "73106",
+      "state": "OK",
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 1,
+      "identityPersonGuid": "49fd3610-8c23-42b8-8964-c5a19ad3d49b"
+    },
+    {
+      "guid": "544dc719-2023-47fd-9b62-8d336b2bdbc4",
+      "firstName": "Mariah",
+      "lastName": "Harris",
+      "team": {
+        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+        "name": "Campbellsville University W",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 2,
+      "identityPersonGuid": "7f87f16e-6dd5-42aa-96a2-e58d0116e1e1"
+    },
+    {
+      "guid": "451a3169-d770-4f36-b4eb-45e44560b0e6",
+      "firstName": "Marilyn",
+      "lastName": "Garcia",
+      "team": {
+        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+        "name": "Menlo",
+        "abbreviation": "MWC"
+      },
+      "city": "Menlo Park",
+      "zipCode": null,
+      "state": "CA",
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 4,
+      "identityPersonGuid": "ce26e2bf-1efa-4c09-a867-1c4a6d64f8ce"
+    },
+    {
+      "guid": "dc889146-8a3b-4ad4-9119-44a2aa066bd7",
+      "firstName": "Marissa",
+      "lastName": "Patterson",
+      "team": {
+        "guid": "efd96359-6805-4c3f-aebf-69098fcff181",
+        "name": "York College",
+        "abbreviation": "YCNE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "62a6e880-bbd2-4744-b1b0-f98774a59ac4",
+      "firstName": "McKayla",
+      "lastName": "Campbell",
+      "team": {
+        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+        "name": "Campbellsville University W",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d173a105-e8a4-4e7a-a17e-83e37fa00546",
+        "name": "109",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 2,
+      "identityPersonGuid": "acaff9d1-6363-48dc-94a4-a034eb39177c"
+    },
+    {
+      "guid": "4536200d-f68b-4711-9b08-9b957f15f1c5",
+      "firstName": "Mia",
+      "lastName": "Rodriguez",
+      "team": {
+        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+        "name": "Campbellsville University W",
+        "abbreviation": "CU"
+      },
+      "city": "Poplar Grove",
+      "zipCode": "61065",
+      "state": "IL",
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": null,
+      "identityPersonGuid": "aa7c9907-72ec-44dd-a8c1-662f8ebdffb0"
+    },
+    {
+      "guid": "c5959785-faff-4d83-85da-c98fedd8d272",
+      "firstName": "Morgan",
+      "lastName": "Shines",
+      "team": {
+        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+        "name": "Life University W",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 8,
+      "identityPersonGuid": "2ddcc539-2376-4c61-8d2d-4c017905d6ba"
+    },
+    {
+      "guid": "33cb49a1-3bb7-417e-91bf-04841def7eca",
+      "firstName": "Myranda",
+      "lastName": "Velazquez",
+      "team": {
+        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+        "name": "University of Jamestown",
+        "abbreviation": "UJ"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 4,
+      "identityPersonGuid": "72454ab9-f760-49cb-88bf-a1f95051787d"
+    },
+    {
+      "guid": "c955f50d-81c2-4cb1-94d1-3db72e7a570d",
+      "firstName": "Nadia",
+      "lastName": "Escamilia",
+      "team": {
+        "guid": "68a21374-d734-4760-a152-ba3ca62c4fff",
+        "name": "Missouri Baptist University",
+        "abbreviation": "MBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "c36f7353-9406-4692-809c-8189e087d4f2",
+      "firstName": "Nancy",
+      "lastName": "Becerra",
+      "team": {
+        "guid": "ec0073e2-4288-4842-b370-7095f15bfb33",
+        "name": "Missouri Valley College",
+        "abbreviation": null
+      },
+      "city": "Marshall",
+      "zipCode": "65340",
+      "state": "MO",
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": "82354690-4783-41a9-8c3b-f993c296aa35"
+    },
+    {
+      "guid": "e1e51ea4-38ba-4747-948e-776b6bfcd6cb",
+      "firstName": "Nina",
+      "lastName": "Pham",
+      "team": {
+        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+        "name": "Wayland Baptist University W",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "0681f9ed-5334-484d-8d22-f994ef98790f",
+        "name": "101",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": 2,
+      "identityPersonGuid": "6148b484-c3b4-4c8d-978b-9449099d4fe1"
+    },
+    {
+      "guid": "06ee4935-c4f1-43ee-a7df-735ee4c39e25",
+      "firstName": "Paige",
+      "lastName": "Baynes",
+      "team": {
+        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+        "name": "Wayland Baptist University W",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3cb2bde7-7158-46e2-87d0-9526c029e9a7",
+        "name": "191",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": 3,
+      "identityPersonGuid": "9f2798df-80bb-487b-83b2-43a0b5c83b4d"
+    },
+    {
+      "guid": "280d873d-98ae-4027-bb62-d13a1360ce92",
+      "firstName": "Payton",
+      "lastName": "Rigert",
+      "team": {
+        "guid": "8966155d-0df5-4b81-bb54-6874eb455cc1",
+        "name": "University of the Cumberlands",
+        "abbreviation": "UC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": "9ee31914-1b58-4c62-bf3b-db392fdf6c18"
+    },
+    {
+      "guid": "7db777a4-b821-4791-a314-a164bb778c08",
+      "firstName": "Pella",
+      "lastName": "Wisniowski",
+      "team": {
+        "guid": "64e72bc5-9863-4af0-8a72-61d51982f83f",
+        "name": "Central Christian College of Kansas",
+        "abbreviation": null
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "4331dba0-ef8d-4dd6-af27-a65241997e2a",
+      "firstName": "Precious",
+      "lastName": "Bell",
+      "team": {
+        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+        "name": "Menlo",
+        "abbreviation": "MWC"
+      },
+      "city": "Atherton",
+      "zipCode": "94027",
+      "state": "CA",
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 3,
+      "identityPersonGuid": "d9fe3dc4-c94a-4b32-b8a9-662e1ba2b688"
+    },
+    {
+      "guid": "1ca2ee23-0ca9-4143-b100-4ab98f9949f3",
+      "firstName": "Rachel",
+      "lastName": "Watters",
+      "team": {
+        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+        "name": "Oklahoma City University",
+        "abbreviation": "OKCU"
+      },
+      "city": "Ankeny",
+      "zipCode": "50021",
+      "state": "IA",
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 5,
+      "identityPersonGuid": "5dc05cbc-f3a1-4caf-ba42-d2be5273db97"
+    },
+    {
+      "guid": "439b4c20-bef0-41d5-9e45-04000cb945cd",
+      "firstName": "Randie",
+      "lastName": "Scoon",
+      "team": {
+        "guid": "aa53b12f-f264-4159-a96d-c1a1a6fb4a74",
+        "name": "Ottawa University W",
+        "abbreviation": "OU"
+      },
+      "city": "Piedmont",
+      "zipCode": "73078",
+      "state": "OK",
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": "d27ae6f1-c862-45cc-973c-6731f4706023"
+    },
+    {
+      "guid": "8cc04890-9f8e-4ea8-9ae6-5eb354aa90d8",
+      "firstName": "Raven",
+      "lastName": "Guidry",
+      "team": {
+        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+        "name": "Oklahoma City University",
+        "abbreviation": "OKCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d173a105-e8a4-4e7a-a17e-83e37fa00546",
+        "name": "109",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 3,
+      "identityPersonGuid": "9f135d86-1aef-47c6-b3bf-70363759faef"
+    },
+    {
+      "guid": "719edebf-b389-431b-ba49-4542e38e25d0",
+      "firstName": "Rebekah",
+      "lastName": "Cordova",
+      "team": {
+        "guid": "8e704f50-8ede-4422-a423-8ca9874a05ed",
+        "name": "Wayland Baptist University W",
+        "abbreviation": "WBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 6,
+      "identityPersonGuid": "c4aa314d-b496-4e80-91be-1ef94ff634b1"
+    },
+    {
+      "guid": "a6425c2c-0f8c-4178-83e6-380d9874193f",
+      "firstName": "Rebekah",
+      "lastName": "Garcia",
+      "team": {
+        "guid": "189dbb25-a528-4e46-8ca0-127dd389b6ac",
+        "name": "Lyon College",
+        "abbreviation": "LC"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": "f7eb9174-f656-43ab-988b-782251a64def"
+    },
+    {
+      "guid": "c1c392ee-6bf0-40d0-b700-4e916304c8a5",
+      "firstName": "Renay",
+      "lastName": "Monohan",
+      "team": {
+        "guid": "0dd651a0-c1d5-4e28-9ffd-98bffc9a5dd0",
+        "name": "Eastern Oregon University",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": "0ff5034f-d703-4b8e-9f7d-630fe6ab9408"
+    },
+    {
+      "guid": "281d4014-be81-484d-8225-b6ca87c19ebd",
+      "firstName": "Rosa",
+      "lastName": "Vallejo",
+      "team": {
+        "guid": "efd96359-6805-4c3f-aebf-69098fcff181",
+        "name": "York College",
+        "abbreviation": "YCNE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "5ce5713a-7ac9-44de-a97f-9900114eac0f",
+      "firstName": "Rosa",
+      "lastName": "Ramirez",
+      "team": {
+        "guid": "0dd651a0-c1d5-4e28-9ffd-98bffc9a5dd0",
+        "name": "Eastern Oregon University",
+        "abbreviation": "EOU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": "c28ff4a8-f828-49af-b42b-fce04a5e7cdb"
+    },
+    {
+      "guid": "09a9bd7c-58c1-4fa5-b803-f13caf7a103f",
+      "firstName": "Sara",
+      "lastName": "Angelo",
+      "team": {
+        "guid": "0dd651a0-c1d5-4e28-9ffd-98bffc9a5dd0",
+        "name": "Eastern Oregon University",
+        "abbreviation": "EOU"
+      },
+      "city": "La Grande",
+      "zipCode": "97850",
+      "state": "OR",
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": "33abb3cf-5698-47b6-abe2-8c2038749de2"
+    },
+    {
+      "guid": "785a674d-cab2-4f36-80dc-848ac6b53336",
+      "firstName": "Savannah",
+      "lastName": "Vold",
+      "team": {
+        "guid": "32461529-2bd7-489b-89b4-d69304dd56e1",
+        "name": "Waldorf University",
+        "abbreviation": "WU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": 8,
+      "identityPersonGuid": "685ce29e-3b09-4284-bd60-6c704ff098cc"
+    },
+    {
+      "guid": "6148d92d-55ae-4b1b-9acf-8e74092d75bd",
+      "firstName": "Selina",
+      "lastName": "Medrano-Perez",
+      "team": {
+        "guid": "68a21374-d734-4760-a152-ba3ca62c4fff",
+        "name": "Missouri Baptist University",
+        "abbreviation": "MBU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": "8b334a38-5007-4007-bd89-2aedb4c8d464"
+    },
+    {
+      "guid": "e7574aa1-e72b-4d5c-92cb-397d0a6ca844",
+      "firstName": "Serena",
+      "lastName": "Sanchez",
+      "team": {
+        "guid": "fce508e3-e49e-4fdd-859a-ac7a20792507",
+        "name": "Midland University",
+        "abbreviation": "MU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "3cb2bde7-7158-46e2-87d0-9526c029e9a7",
+        "name": "191",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": "c6faca4d-829d-4216-bb04-fc9cce16941d"
+    },
+    {
+      "guid": "5b8f4ab6-1a99-4c45-b1b0-f5b1fe6da6a8",
+      "firstName": "Shamera",
+      "lastName": "McTier",
+      "team": {
+        "guid": "ec0073e2-4288-4842-b370-7095f15bfb33",
+        "name": "Missouri Valley College",
+        "abbreviation": null
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 3,
+      "identityPersonGuid": "4a65b813-3f9c-4237-82c8-d8c71df5ce05"
+    },
+    {
+      "guid": "dc183485-b6c2-4b4b-8215-36746adcafdd",
+      "firstName": "Shyanne",
+      "lastName": "Griffiths",
+      "team": {
+        "guid": "1877d35a-c494-4628-8fe6-96ea464ec11f",
+        "name": "St. Mary University",
+        "abbreviation": "STM"
+      },
+      "city": "Bourbonnais",
+      "zipCode": "60914",
+      "state": "IL",
+      "weightClass": {
+        "guid": "0681f9ed-5334-484d-8d22-f994ef98790f",
+        "name": "101",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 1
+      },
+      "seed": null,
+      "identityPersonGuid": "aa210de5-d3a7-4067-95e9-7a4423508cc4"
+    },
+    {
+      "guid": "d7fcbbe1-3277-45b1-ac67-17eb249d1ce4",
+      "firstName": "Sienna",
+      "lastName": "Ramirez",
+      "team": {
+        "guid": "7f613043-a5bf-4bfc-8884-80369cea0073",
+        "name": "Southern Oregon",
+        "abbreviation": "SO"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 3,
+      "identityPersonGuid": "1ea9e155-4214-4391-bb14-edaaf2a0ec63"
+    },
+    {
+      "guid": "5a69a1c7-ad60-4dba-a824-8be7f963e3ab",
+      "firstName": "Sierra",
+      "lastName": "Talmadge",
+      "team": {
+        "guid": "582eb3dd-6675-45e8-b9e7-97fa9b5b34d9",
+        "name": "University of Jamestown",
+        "abbreviation": "UJ"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": 6,
+      "identityPersonGuid": "2cb3fd7e-f999-4960-8cbc-c14def87c7ed"
+    },
+    {
+      "guid": "c35b1edf-adea-4a0b-9ca0-0fb68d347d1f",
+      "firstName": "Sierra",
+      "lastName": "Alfonso",
+      "team": {
+        "guid": "189dbb25-a528-4e46-8ca0-127dd389b6ac",
+        "name": "Lyon College",
+        "abbreviation": "LC"
+      },
+      "city": "Batesville",
+      "zipCode": "72501",
+      "state": "AR",
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": "979a3434-9082-485a-b174-300672cc2fd6"
+    },
+    {
+      "guid": "5e2aa806-d417-4568-ad3b-ab27819dca73",
+      "firstName": "Solin",
+      "lastName": "Piearcy",
+      "team": {
+        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+        "name": "Menlo",
+        "abbreviation": "MWC"
+      },
+      "city": "San Jose",
+      "zipCode": "95129",
+      "state": "CA",
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": 1,
+      "identityPersonGuid": "670ed5e7-e15a-41ff-8ac4-2599bcbaec19"
+    },
+    {
+      "guid": "9e5441cb-dbe6-47f4-8ce5-99dcb4b70f50",
+      "firstName": "Sophia",
+      "lastName": "Carson",
+      "team": {
+        "guid": "3f721450-6634-4668-9fdd-9cbd3560f7c2",
+        "name": "Campbellsville University W",
+        "abbreviation": "CU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "6690bcb9-0fd8-4438-abaf-a08568f577ca",
+        "name": "136",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 6
+      },
+      "seed": null,
+      "identityPersonGuid": null
+    },
+    {
+      "guid": "27b195a2-f548-4b97-af14-876fe7790dc4",
+      "firstName": "Stephanie",
+      "lastName": "Pantoja",
+      "team": {
+        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+        "name": "Life University W",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": 4,
+      "identityPersonGuid": "572f3b71-6db4-4428-8f33-c06712fe26d0"
+    },
+    {
+      "guid": "399a382e-869e-4ef1-8d5f-378d130a1cf9",
+      "firstName": "Sydney",
+      "lastName": "Freund",
+      "team": {
+        "guid": "2ed2eb22-523f-4a9d-9eb8-4bb1b6d94b58",
+        "name": "Oklahoma City University",
+        "abbreviation": "OKCU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": "a8d81d38-c8b2-4971-ab9f-9aea2a2d476d"
+    },
+    {
+      "guid": "a453cdb7-117c-4468-8c61-e154c7a8a85d",
+      "firstName": "Taryn",
+      "lastName": "Ichimura",
+      "team": {
+        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+        "name": "Menlo",
+        "abbreviation": "MWC"
+      },
+      "city": "Atherton",
+      "zipCode": "94027",
+      "state": "CA",
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 7,
+      "identityPersonGuid": "2a31a3d7-fab9-4bf1-987b-ce9bedb71856"
+    },
+    {
+      "guid": "7dc3ab7f-2507-41aa-8460-b4a6b22875dc",
+      "firstName": "Taylor",
+      "lastName": "Cooks",
+      "team": {
+        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+        "name": "Life University W",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "2928135c-8bd7-4502-8e8a-4208bbb72fef",
+        "name": "155",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 8
+      },
+      "seed": null,
+      "identityPersonGuid": "1283a134-270c-4ae5-8895-3e6706b48c2c"
+    },
+    {
+      "guid": "9705f7ec-15f5-4dd9-a163-1870502162f5",
+      "firstName": "Teya",
+      "lastName": "Villalpando",
+      "team": {
+        "guid": "1877d35a-c494-4628-8fe6-96ea464ec11f",
+        "name": "St. Mary University",
+        "abbreviation": "STM"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "172110a7-6759-4eb7-8a55-d0c9284492de",
+        "name": "130",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 5
+      },
+      "seed": null,
+      "identityPersonGuid": "39b46807-1eb4-416d-b49c-2f46fec62c12"
+    },
+    {
+      "guid": "7f24f6cb-c708-4e57-b347-2593869ce614",
+      "firstName": "Tiana",
+      "lastName": "Jackson",
+      "team": {
+        "guid": "06b8c51c-8030-47a9-8f27-20eb2f0de251",
+        "name": "Menlo",
+        "abbreviation": "MWC"
+      },
+      "city": "Modesto",
+      "zipCode": "95356",
+      "state": "CA",
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 4,
+      "identityPersonGuid": "7da395dd-6631-4bf2-942e-b01ea7aed85c"
+    },
+    {
+      "guid": "43b02fc4-be0f-4a57-9ce5-6b9359f0c44a",
+      "firstName": "Tristyn",
+      "lastName": "Borden",
+      "team": {
+        "guid": "7f613043-a5bf-4bfc-8884-80369cea0073",
+        "name": "Southern Oregon",
+        "abbreviation": "SO"
+      },
+      "city": "Ashland",
+      "zipCode": "97520",
+      "state": "OR",
+      "weightClass": {
+        "guid": "3cb2bde7-7158-46e2-87d0-9526c029e9a7",
+        "name": "191",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 10
+      },
+      "seed": null,
+      "identityPersonGuid": "4645326e-54af-4244-9b7b-76d27255d8d1"
+    },
+    {
+      "guid": "36f7ae32-1035-4293-a133-b28799f4ded3",
+      "firstName": "Trynadii",
+      "lastName": "Rocha",
+      "team": {
+        "guid": "ad87c808-25fb-42ea-a110-96e0e9e682c4",
+        "name": "Warner Pacific",
+        "abbreviation": "WRNP"
+      },
+      "city": "Portland",
+      "zipCode": "97228",
+      "state": "OR",
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": null,
+      "identityPersonGuid": "ac34c396-4a53-47b8-b2a0-c4dd9e49b5c1"
+    },
+    {
+      "guid": "04161d61-5560-4bbd-8c15-aa209e0b025d",
+      "firstName": "Tyesha",
+      "lastName": "Topps",
+      "team": {
+        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+        "name": "Life University W",
+        "abbreviation": "LIFE"
+      },
+      "city": "Marietta",
+      "zipCode": "30060",
+      "state": "GA",
+      "weightClass": {
+        "guid": "d173a105-e8a4-4e7a-a17e-83e37fa00546",
+        "name": "109",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 2
+      },
+      "seed": 5,
+      "identityPersonGuid": "07e162e6-bd7c-4aa6-ac8b-24ac71a8d374"
+    },
+    {
+      "guid": "b2be29ba-b433-4422-8382-6d18e6ea28d5",
+      "firstName": "Victoria",
+      "lastName": "Norris",
+      "team": {
+        "guid": "aa53b12f-f264-4159-a96d-c1a1a6fb4a74",
+        "name": "Ottawa University W",
+        "abbreviation": "OU"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "514aa5e3-68d6-498c-b21c-654ec02d0495",
+        "name": "123",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 4
+      },
+      "seed": 8,
+      "identityPersonGuid": "2f7ee695-dc2a-4b71-8f7f-caef883fe9e9"
+    },
+    {
+      "guid": "9b6cace3-89c9-497a-b89a-c7cc075cfe9f",
+      "firstName": "Yulissa",
+      "lastName": "Medrano-Lagunas",
+      "team": {
+        "guid": "68a21374-d734-4760-a152-ba3ca62c4fff",
+        "name": "Missouri Baptist University",
+        "abbreviation": "MBU"
+      },
+      "city": "St. Louis",
+      "zipCode": "63141",
+      "state": "MO",
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": null,
+      "identityPersonGuid": "c9cc33ba-bfc6-4603-81b0-2a4cea946d43"
+    },
+    {
+      "guid": "e97a2118-3c3a-4236-add3-b1d891ac9d49",
+      "firstName": "Yuneris",
+      "lastName": "Taveras",
+      "team": {
+        "guid": "ec0073e2-4288-4842-b370-7095f15bfb33",
+        "name": "Missouri Valley College",
+        "abbreviation": null
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "d5195e42-6d61-4caa-a994-d46089b9cef3",
+        "name": "170",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 9
+      },
+      "seed": null,
+      "identityPersonGuid": "bb497cac-e374-4444-82af-86a6865360a4"
+    },
+    {
+      "guid": "778e3f9a-345f-480a-9dd8-92c94fc42cc8",
+      "firstName": "Yurie",
+      "lastName": "Yoneoka",
+      "team": {
+        "guid": "7883104d-09e3-45a3-84c4-ba983b3625f8",
+        "name": "Providence",
+        "abbreviation": "PROV"
+      },
+      "city": "Great Falls",
+      "zipCode": "59405",
+      "state": "MT",
+      "weightClass": {
+        "guid": "265335ef-98c0-40de-8545-0da328bfd84f",
+        "name": "116",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 3
+      },
+      "seed": 3,
+      "identityPersonGuid": "a16ea27f-e73d-46a2-857c-34266351723a"
+    },
+    {
+      "guid": "5b774d17-b794-4a90-a086-d45642fdde4c",
+      "firstName": "Zoe",
+      "lastName": "Wight",
+      "team": {
+        "guid": "28a31d59-ae49-431c-bc2f-beee646dccbf",
+        "name": "Life University W",
+        "abbreviation": "LIFE"
+      },
+      "city": null,
+      "zipCode": null,
+      "state": null,
+      "weightClass": {
+        "guid": "364028e0-a568-427f-a745-442dcd18b314",
+        "name": "143",
+        "division": {
+          "guid": "09752b69-04b4-4b74-af7c-13e53766ebf8",
+          "maskSeeds": false,
+          "showSeedsTo": null,
+          "measurementUnit": "lbs"
+        },
+        "sequence": 7
+      },
+      "seed": 5,
+      "identityPersonGuid": "93f6abd3-80c9-46f2-9255-899341a2bf04"
+    }
+  ]
+}

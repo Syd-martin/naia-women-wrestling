@@ -1,0 +1,525 @@
+year,weight_class,round,bout_number,winner,winner_school,win_method,score,loser,loser_school,is_bye
+2019,101,Round of 16,,Asia Ray,Wayland Baptist University W,BYE,,BYE,,True
+2019,101,Round of 16,14,Faye Cherrier,Life University W,VSU,10-0 1:22,Kylie Marlin,York College,False
+2019,101,Round of 16,,Jessica Rodriguez,University of the Cumberlands,BYE,,BYE,,True
+2019,101,Round of 16,15,Junnette Caldera,University of Jamestown,VFA,1:42 6-0,Lisa Megargee,Eastern Oregon University,False
+2019,101,Round of 16,16,Hiba Salem,Menlo,VSU,10-0 1:30,Alaura Couch,Waldorf University,False
+2019,101,Round of 16,,Amber Garriga,Life University W,BYE,,BYE,,True
+2019,101,Round of 16,,Kassidy Ramirez,Lyon College,BYE,,BYE,,True
+2019,101,Round of 16,,Nina Pham,Wayland Baptist University W,BYE,,BYE,,True
+2019,101,Quarter-Finals,92,Asia Ray,Wayland Baptist University W,VFA,2:04 8-0,Faye Cherrier,Life University W,False
+2019,101,Quarter-Finals,93,Junnette Caldera,University of Jamestown,VFA,3:32 12-4,Jessica Rodriguez,University of the Cumberlands,False
+2019,101,Quarter-Finals,94,Hiba Salem,Menlo,VPO1,10-1,Amber Garriga,Life University W,False
+2019,101,Quarter-Finals,95,Nina Pham,Wayland Baptist University W,VSU1,12-2 0:00,Kassidy Ramirez,Lyon College,False
+2019,101,Semi-Finals,197,Asia Ray,Wayland Baptist University W,VFA,2:34 2-2,Junnette Caldera,University of Jamestown,False
+2019,101,Semi-Finals,198,Nina Pham,Wayland Baptist University W,VSU1,12-1 5:08,Hiba Salem,Menlo,False
+2019,101,Finals,260,Asia Ray,Wayland Baptist University W,VSU1,8-1 6:00,Nina Pham,Wayland Baptist University W,False
+2019,101,Consi of 8 #1,,Kylie Marlin,York College,BYE,,BYE,,True
+2019,101,Consi of 8 #1,,Lisa Megargee,Eastern Oregon University,BYE,,BYE,,True
+2019,101,Consi of 8 #1,,Alaura Couch,Waldorf University,BYE,,BYE,,True
+2019,101,Consi of 8 #1,,,,BYE,,,,True
+2019,101,Consi of 8 #2,160,Kassidy Ramirez,Lyon College,VSU,10-0 1:36,Kylie Marlin,York College,False
+2019,101,Consi of 8 #2,161,Amber Garriga,Life University W,VPO1,4-2,Lisa Megargee,Eastern Oregon University,False
+2019,101,Consi of 8 #2,162,Jessica Rodriguez,University of the Cumberlands,VSU,10-0 2:48,Alaura Couch,Waldorf University,False
+2019,101,Consi of 8 #2,,Faye Cherrier,Life University W,BYE,,BYE,,True
+2019,101,Consi of 4,199,Kassidy Ramirez,Lyon College,VPO1,12-4,Amber Garriga,Life University W,False
+2019,101,Consi of 4,200,Jessica Rodriguez,University of the Cumberlands,VSU,11-0 5:33,Faye Cherrier,Life University W,False
+2019,101,Consi-Semis,237,Junnette Caldera,University of Jamestown,VFA,2:43 12-4,Kassidy Ramirez,Lyon College,False
+2019,101,Consi-Semis,238,Hiba Salem,Menlo,VSU,13-0 3:00,Jessica Rodriguez,University of the Cumberlands,False
+2019,101,3rd Place,257,Junnette Caldera,University of Jamestown,VFA,3:30 7-8,Hiba Salem,Menlo,False
+2019,101,5th Place,258,Jessica Rodriguez,University of the Cumberlands,VFA,1:50 8-0,Kassidy Ramirez,Lyon College,False
+2019,101,7th Place,259,Faye Cherrier,Life University W,VIN,,Amber Garriga,Life University W,False
+2019,109,Round of 16,17,Alleida Martinez,Menlo,VFA,0:23 4-0,Citlali Palafox,Central Christian College of Kansas,False
+2019,109,Round of 16,,Alessia Cokeley,Ottawa University W,BYE,,BYE,,True
+2019,109,Round of 16,,Tyesha Topps,Life University W,BYE,,BYE,,True
+2019,109,Round of 16,,Brianna Ribucan-Leong,Lyon College,BYE,,BYE,,True
+2019,109,Round of 16,,Raven Guidry,Oklahoma City University,BYE,,BYE,,True
+2019,109,Round of 16,18,Cassidy Freeman,Eastern Oregon University,VFA,2:24 10-0,Claire Payne,York College,False
+2019,109,Round of 16,,Diana Leyva,Waldorf University,BYE,,BYE,,True
+2019,109,Round of 16,,McKayla Campbell,Campbellsville University W,BYE,,BYE,,True
+2019,109,Quarter-Finals,96,Alleida Martinez,Menlo,VFA,0:53 10-0,Alessia Cokeley,Ottawa University W,False
+2019,109,Quarter-Finals,97,Tyesha Topps,Life University W,VSU1,11-1 4:41,Brianna Ribucan-Leong,Lyon College,False
+2019,109,Quarter-Finals,98,Raven Guidry,Oklahoma City University,VSU1,14-4 3:10,Cassidy Freeman,Eastern Oregon University,False
+2019,109,Quarter-Finals,99,McKayla Campbell,Campbellsville University W,VFA,0:30 6-0,Diana Leyva,Waldorf University,False
+2019,109,Semi-Finals,201,Alleida Martinez,Menlo,VFA,1:42 6-0,Tyesha Topps,Life University W,False
+2019,109,Semi-Finals,202,McKayla Campbell,Campbellsville University W,VSU1,12-2 3:16,Raven Guidry,Oklahoma City University,False
+2019,109,Finals,264,Alleida Martinez,Menlo,VFA,3:22 10-0,McKayla Campbell,Campbellsville University W,False
+2019,109,Consi of 8 #1,,Citlali Palafox,Central Christian College of Kansas,BYE,,BYE,,True
+2019,109,Consi of 8 #1,,,,BYE,,,,True
+2019,109,Consi of 8 #1,,Claire Payne,York College,BYE,,BYE,,True
+2019,109,Consi of 8 #1,,,,BYE,,,,True
+2019,109,Consi of 8 #2,163,Diana Leyva,Waldorf University,VFA,2:29 4-1,Citlali Palafox,Central Christian College of Kansas,False
+2019,109,Consi of 8 #2,,Cassidy Freeman,Eastern Oregon University,BYE,,BYE,,True
+2019,109,Consi of 8 #2,164,Brianna Ribucan-Leong,Lyon College,VFA,2:28 10-0,Claire Payne,York College,False
+2019,109,Consi of 8 #2,,Alessia Cokeley,Ottawa University W,BYE,,BYE,,True
+2019,109,Consi of 4,203,Cassidy Freeman,Eastern Oregon University,VFA,1:13 2-0,Diana Leyva,Waldorf University,False
+2019,109,Consi of 4,204,Brianna Ribucan-Leong,Lyon College,VSU,10-0 2:08,Alessia Cokeley,Ottawa University W,False
+2019,109,Consi-Semis,239,Tyesha Topps,Life University W,VSU,11-0 2:31,Cassidy Freeman,Eastern Oregon University,False
+2019,109,Consi-Semis,240,Raven Guidry,Oklahoma City University,VPO1,4-4,Brianna Ribucan-Leong,Lyon College,False
+2019,109,3rd Place,261,Tyesha Topps,Life University W,VPO1,6-2,Raven Guidry,Oklahoma City University,False
+2019,109,5th Place,262,Brianna Ribucan-Leong,Lyon College,VFA,1:22 8-0,Cassidy Freeman,Eastern Oregon University,False
+2019,109,7th Place,263,Diana Leyva,Waldorf University,VSU1,14-1 4:24,Alessia Cokeley,Ottawa University W,False
+2019,116,Round of 32,1,Gracie Figueroa,Menlo,VFA,1:01 4-0,Jasmine Hernandez,Lyon College,False
+2019,116,Round of 32,,Kayla Fitts,Wayland Baptist University W,BYE,,BYE,,True
+2019,116,Round of 32,,Mia Rodriguez,Campbellsville University W,BYE,,BYE,,True
+2019,116,Round of 32,,Jamayia Blackston,University of Jamestown,BYE,,BYE,,True
+2019,116,Round of 32,,Madison Angelito,University of the Cumberlands,BYE,,BYE,,True
+2019,116,Round of 32,,Emily Fergeson,York College,BYE,,BYE,,True
+2019,116,Round of 32,,Gabrielle Grimes,Missouri Valley College,BYE,,BYE,,True
+2019,116,Round of 32,,Cassidy Jasperson,Oklahoma City University,BYE,,BYE,,True
+2019,116,Round of 32,,Yurie Yoneoka,Providence,BYE,,BYE,,True
+2019,116,Round of 32,2,Glory Konecny,Southern Oregon,VFA,1:31 4-0,Jessienna Burkett-Erice,Lyon College,False
+2019,116,Round of 32,,Katie Brock,Campbellsville University W,BYE,,BYE,,True
+2019,116,Round of 32,,Chelsea Dionisio,University of Jamestown,BYE,,BYE,,True
+2019,116,Round of 32,,Taryn Ichimura,Menlo,BYE,,BYE,,True
+2019,116,Round of 32,,Ashley Tobe,University of the Cumberlands,BYE,,BYE,,True
+2019,116,Round of 32,,Amber Pair,Eastern Oregon University,BYE,,BYE,,True
+2019,116,Round of 32,,Jathiya Isaac,Wayland Baptist University W,BYE,,BYE,,True
+2019,116,Round of 16,19,Gracie Figueroa,Menlo,VSU,10-0 3:11,Kayla Fitts,Wayland Baptist University W,False
+2019,116,Round of 16,20,Jamayia Blackston,University of Jamestown,VSU1,14-4 5:32,Mia Rodriguez,Campbellsville University W,False
+2019,116,Round of 16,21,Madison Angelito,University of the Cumberlands,VSU,10-0 3:29,Emily Fergeson,York College,False
+2019,116,Round of 16,22,Cassidy Jasperson,Oklahoma City University,VFA,0:54 6-0,Gabrielle Grimes,Missouri Valley College,False
+2019,116,Round of 16,23,Glory Konecny,Southern Oregon,VFA,4:56 4-3,Yurie Yoneoka,Providence,False
+2019,116,Round of 16,24,Chelsea Dionisio,University of Jamestown,VFA,3:54 12-1,Katie Brock,Campbellsville University W,False
+2019,116,Round of 16,25,Taryn Ichimura,Menlo,VPO1,11-6,Ashley Tobe,University of the Cumberlands,False
+2019,116,Round of 16,26,Jathiya Isaac,Wayland Baptist University W,VSU,10-0 1:15,Amber Pair,Eastern Oregon University,False
+2019,116,Quarter-Finals,100,Gracie Figueroa,Menlo,VSU,10-0 3:37,Jamayia Blackston,University of Jamestown,False
+2019,116,Quarter-Finals,101,Cassidy Jasperson,Oklahoma City University,VFA,2:10 8-0,Madison Angelito,University of the Cumberlands,False
+2019,116,Quarter-Finals,102,Glory Konecny,Southern Oregon,VPO1,5-2,Chelsea Dionisio,University of Jamestown,False
+2019,116,Quarter-Finals,103,Jathiya Isaac,Wayland Baptist University W,VSU,10-0 1:57,Taryn Ichimura,Menlo,False
+2019,116,Semi-Finals,205,Gracie Figueroa,Menlo,VFA,2:32 11-0,Cassidy Jasperson,Oklahoma City University,False
+2019,116,Semi-Finals,206,Jathiya Isaac,Wayland Baptist University W,VSU,10-0 3:49,Glory Konecny,Southern Oregon,False
+2019,116,Finals,116,Jathiya Isaac,Wayland Baptist University W,VSU1,3-2 6:00,Gracie Figueroa,Menlo,False
+2019,116,Consi of 16 #1,,Jasmine Hernandez,Lyon College,BYE,,BYE,,True
+2019,116,Consi of 16 #1,,,,BYE,,,,True
+2019,116,Consi of 16 #1,,,,BYE,,,,True
+2019,116,Consi of 16 #1,,,,BYE,,,,True
+2019,116,Consi of 16 #1,,Jessienna Burkett-Erice,Lyon College,BYE,,BYE,,True
+2019,116,Consi of 16 #1,,,,BYE,,,,True
+2019,116,Consi of 16 #1,,,,BYE,,,,True
+2019,116,Consi of 16 #1,,,,BYE,,,,True
+2019,116,Consi of 16 #2,79,Amber Pair,Eastern Oregon University,VFA,2:53 5-4,Jasmine Hernandez,Lyon College,False
+2019,116,Consi of 16 #2,,Ashley Tobe,University of the Cumberlands,BYE,,BYE,,True
+2019,116,Consi of 16 #2,,Katie Brock,Campbellsville University W,BYE,,BYE,,True
+2019,116,Consi of 16 #2,,Yurie Yoneoka,Providence,BYE,,BYE,,True
+2019,116,Consi of 16 #2,80,Gabrielle Grimes,Missouri Valley College,VSU,11-0 2:55,Jessienna Burkett-Erice,Lyon College,False
+2019,116,Consi of 16 #2,,Emily Fergeson,York College,BYE,,BYE,,True
+2019,116,Consi of 16 #2,,Mia Rodriguez,Campbellsville University W,BYE,,BYE,,True
+2019,116,Consi of 16 #2,,Kayla Fitts,Wayland Baptist University W,BYE,,BYE,,True
+2019,116,Consi of 8 #1,104,Amber Pair,Eastern Oregon University,VPO1,9-3,Ashley Tobe,University of the Cumberlands,False
+2019,116,Consi of 8 #1,105,Katie Brock,Campbellsville University W,VPO1,6-4,Yurie Yoneoka,Providence,False
+2019,116,Consi of 8 #1,106,Emily Fergeson,York College,VFA,2:30 6-2,Gabrielle Grimes,Missouri Valley College,False
+2019,116,Consi of 8 #1,107,Mia Rodriguez,Campbellsville University W,VPO1,9-4,Kayla Fitts,Wayland Baptist University W,False
+2019,116,Consi of 8 #2,165,Madison Angelito,University of the Cumberlands,VSU,10-0 0:47,Amber Pair,Eastern Oregon University,False
+2019,116,Consi of 8 #2,166,Jamayia Blackston,University of Jamestown,VSU1,12-2 4:44,Katie Brock,Campbellsville University W,False
+2019,116,Consi of 8 #2,167,Taryn Ichimura,Menlo,VSU1,12-2 2:48,Emily Fergeson,York College,False
+2019,116,Consi of 8 #2,168,Chelsea Dionisio,University of Jamestown,VSU,10-0 5:21,Mia Rodriguez,Campbellsville University W,False
+2019,116,Consi of 4,207,Madison Angelito,University of the Cumberlands,VSU,11-0 5:11,Jamayia Blackston,University of Jamestown,False
+2019,116,Consi of 4,208,Taryn Ichimura,Menlo,VPO1,12-5,Chelsea Dionisio,University of Jamestown,False
+2019,116,Consi-Semis,241,Madison Angelito,University of the Cumberlands,VSU,11-0 6:00,Glory Konecny,Southern Oregon,False
+2019,116,Consi-Semis,242,Cassidy Jasperson,Oklahoma City University,VFA,0:55 4-0,Taryn Ichimura,Menlo,False
+2019,116,3rd Place,265,Cassidy Jasperson,Oklahoma City University,VSU,12-0 6:00,Madison Angelito,University of the Cumberlands,False
+2019,116,5th Place,266,Glory Konecny,Southern Oregon,VFA,3:35 8-2,Taryn Ichimura,Menlo,False
+2019,116,7th Place,267,Chelsea Dionisio,University of Jamestown,VSU,10-0 4:46,Jamayia Blackston,University of Jamestown,False
+2019,123,Round of 32,,Macy Higa,Eastern Oregon University,BYE,,BYE,,True
+2019,123,Round of 32,,Kailyn Ramos,Oklahoma City University,BYE,,BYE,,True
+2019,123,Round of 32,,Kimberly Lambert,Central Christian College of Kansas,BYE,,BYE,,True
+2019,123,Round of 32,,Victoria Norris,Ottawa University W,BYE,,BYE,,True
+2019,123,Round of 32,,Brigitte Mihalca,Missouri Baptist University,BYE,,BYE,,True
+2019,123,Round of 32,,Alanah Vetterick,Midland University,BYE,,BYE,,True
+2019,123,Round of 32,,Jasmine Davis,Wayland Baptist University W,BYE,,BYE,,True
+2019,123,Round of 32,,Tiana Jackson,Menlo,BYE,,BYE,,True
+2019,123,Round of 32,,Dajan Treder,Providence,BYE,,BYE,,True
+2019,123,Round of 32,,Arianna Marrufo,University of Jamestown,BYE,,BYE,,True
+2019,123,Round of 32,,Haley Schiermeyer,Midland University,BYE,,BYE,,True
+2019,123,Round of 32,,,,BYE,,,,True
+2019,123,Round of 32,3,Daniela Flores,Oklahoma City University,VFA,1:20 6-0,Emma DeBrum,Lyon College,False
+2019,123,Round of 32,,Rosa Ramirez,Eastern Oregon University,BYE,,BYE,,True
+2019,123,Round of 32,,Trynadii Rocha,Warner Pacific,BYE,,BYE,,True
+2019,123,Round of 32,,Koral Sugiyama,Campbellsville University W,BYE,,BYE,,True
+2019,123,Round of 16,27,Kailyn Ramos,Oklahoma City University,VFA,1:42 6-0,Macy Higa,Eastern Oregon University,False
+2019,123,Round of 16,28,Victoria Norris,Ottawa University W,VSU,10-0 0:27,Kimberly Lambert,Central Christian College of Kansas,False
+2019,123,Round of 16,29,Alanah Vetterick,Midland University,VFA,0:44 4-0,Brigitte Mihalca,Missouri Baptist University,False
+2019,123,Round of 16,30,Tiana Jackson,Menlo,VFA,2:03 6-0,Jasmine Davis,Wayland Baptist University W,False
+2019,123,Round of 16,31,Dajan Treder,Providence,VSU1,12-2 2:21,Arianna Marrufo,University of Jamestown,False
+2019,123,Round of 16,32,Haley Schiermeyer,Midland University,BYE,,BYE,,True
+2019,123,Round of 16,33,Daniela Flores,Oklahoma City University,VFA,0:38 6-0,Rosa Ramirez,Eastern Oregon University,False
+2019,123,Round of 16,34,Koral Sugiyama,Campbellsville University W,VFA,2:17 12-0,Trynadii Rocha,Warner Pacific,False
+2019,123,Quarter-Finals,108,Victoria Norris,Ottawa University W,VSU1,16-4 6:00,Kailyn Ramos,Oklahoma City University,False
+2019,123,Quarter-Finals,109,Tiana Jackson,Menlo,VSU1,12-2 5:44,Alanah Vetterick,Midland University,False
+2019,123,Quarter-Finals,110,Dajan Treder,Providence,VIN,0:55 4-0,Haley Schiermeyer,Midland University,False
+2019,123,Quarter-Finals,111,Koral Sugiyama,Campbellsville University W,VFA,1:39 8-2,Daniela Flores,Oklahoma City University,False
+2019,123,Semi-Finals,209,Tiana Jackson,Menlo,VPO,11-0,Victoria Norris,Ottawa University W,False
+2019,123,Semi-Finals,210,Koral Sugiyama,Campbellsville University W,VPO1,5-2,Dajan Treder,Providence,False
+2019,123,Finals,123,Tiana Jackson,Menlo,VSU1,5-2 6:00,Koral Sugiyama,Campbellsville University W,False
+2019,123,Consi of 16 #1,,,,BYE,,,,True
+2019,123,Consi of 16 #1,,,,BYE,,,,True
+2019,123,Consi of 16 #1,,,,BYE,,,,True
+2019,123,Consi of 16 #1,,,,BYE,,,,True
+2019,123,Consi of 16 #1,,,,BYE,,,,True
+2019,123,Consi of 16 #1,,,,BYE,,,,True
+2019,123,Consi of 16 #1,,Emma DeBrum,Lyon College,BYE,,BYE,,True
+2019,123,Consi of 16 #1,,,,BYE,,,,True
+2019,123,Consi of 16 #2,,Trynadii Rocha,Warner Pacific,BYE,,BYE,,True
+2019,123,Consi of 16 #2,,Rosa Ramirez,Eastern Oregon University,BYE,,BYE,,True
+2019,123,Consi of 16 #2,,,,BYE,,,,True
+2019,123,Consi of 16 #2,,Arianna Marrufo,University of Jamestown,BYE,,BYE,,True
+2019,123,Consi of 16 #2,,Jasmine Davis,Wayland Baptist University W,BYE,,BYE,,True
+2019,123,Consi of 16 #2,,Brigitte Mihalca,Missouri Baptist University,BYE,,BYE,,True
+2019,123,Consi of 16 #2,81,Emma DeBrum,Lyon College,VSU,10-0 1:35,Kimberly Lambert,Central Christian College of Kansas,False
+2019,123,Consi of 16 #2,,Macy Higa,Eastern Oregon University,BYE,,BYE,,True
+2019,123,Consi of 8 #1,112,Trynadii Rocha,Warner Pacific,VSU,10-0 0:45,Rosa Ramirez,Eastern Oregon University,False
+2019,123,Consi of 8 #1,113,Arianna Marrufo,University of Jamestown,BYE,,BYE,,True
+2019,123,Consi of 8 #1,114,Brigitte Mihalca,Missouri Baptist University,VFA,1:21 8-0,Jasmine Davis,Wayland Baptist University W,False
+2019,123,Consi of 8 #1,115,Macy Higa,Eastern Oregon University,VSU,12-0 2:45,Emma DeBrum,Lyon College,False
+2019,123,Consi of 8 #2,169,Alanah Vetterick,Midland University,VSU,10-0 5:23,Trynadii Rocha,Warner Pacific,False
+2019,123,Consi of 8 #2,170,Arianna Marrufo,University of Jamestown,VFA,4:58 8-0,Kailyn Ramos,Oklahoma City University,False
+2019,123,Consi of 8 #2,171,Daniela Flores,Oklahoma City University,VFA,4:13 10-1,Brigitte Mihalca,Missouri Baptist University,False
+2019,123,Consi of 8 #2,172,Macy Higa,Eastern Oregon University,VFA,5:04 10-2,Haley Schiermeyer,Midland University,False
+2019,123,Consi of 4,211,Alanah Vetterick,Midland University,VFA,2:12 2-0,Arianna Marrufo,University of Jamestown,False
+2019,123,Consi of 4,212,Macy Higa,Eastern Oregon University,VSU1,12-2 5:45,Daniela Flores,Oklahoma City University,False
+2019,123,Consi-Semis,243,Dajan Treder,Providence,VFA,1:00 4-0,Alanah Vetterick,Midland University,False
+2019,123,Consi-Semis,244,Macy Higa,Eastern Oregon University,VFA,1:33 4-4,Victoria Norris,Ottawa University W,False
+2019,123,3rd Place,269,Dajan Treder,Providence,VPO1,8-4,Macy Higa,Eastern Oregon University,False
+2019,123,5th Place,270,Alanah Vetterick,Midland University,VFA,3:52 4-4,Victoria Norris,Ottawa University W,False
+2019,123,7th Place,271,Arianna Marrufo,University of Jamestown,VPO1,6-5,Daniela Flores,Oklahoma City University,False
+2019,130,Round of 32,,Andribeth Rivera,Campbellsville University W,BYE,,BYE,,True
+2019,130,Round of 32,,Krystal Fabricante,Eastern Oregon University,BYE,,BYE,,True
+2019,130,Round of 32,,Aysia Cortez,Life University W,BYE,,BYE,,True
+2019,130,Round of 32,,Breannah Duduoit-Vasquez,Wayland Baptist University W,BYE,,BYE,,True
+2019,130,Round of 32,,Jocelyn Murphy,Missouri Valley College,BYE,,BYE,,True
+2019,130,Round of 32,,Sydney Freund,Oklahoma City University,BYE,,BYE,,True
+2019,130,Round of 32,,Rebekah Garcia,Lyon College,BYE,,BYE,,True
+2019,130,Round of 32,,Anesia Ramirez,Southern Oregon,BYE,,BYE,,True
+2019,130,Round of 32,,Julissa Taitano,Southern Oregon,BYE,,BYE,,True
+2019,130,Round of 32,,Alexandria Enriquez,Life University W,BYE,,BYE,,True
+2019,130,Round of 32,,Ashley Ikner,University of the Cumberlands,BYE,,BYE,,True
+2019,130,Round of 32,,,,BYE,,,,True
+2019,130,Round of 32,,Savannah Vold,Waldorf University,BYE,,BYE,,True
+2019,130,Round of 32,,Leah Olguin,Wayland Baptist University W,BYE,,BYE,,True
+2019,130,Round of 32,,,,BYE,,,,True
+2019,130,Round of 32,4,Cara Romeike,University of Jamestown,VSU,10-0 1:02,Nadia Escamilia,Missouri Baptist University,False
+2019,130,Round of 16,35,Andribeth Rivera,Campbellsville University W,VFA,0:41 10-0,Krystal Fabricante,Eastern Oregon University,False
+2019,130,Round of 16,36,Aysia Cortez,Life University W,VPO1,10-4,Breannah Duduoit-Vasquez,Wayland Baptist University W,False
+2019,130,Round of 16,37,Sydney Freund,Oklahoma City University,VSU,10-0 1:34,Jocelyn Murphy,Missouri Valley College,False
+2019,130,Round of 16,38,Anesia Ramirez,Southern Oregon,VFA,1:13 5-0,Rebekah Garcia,Lyon College,False
+2019,130,Round of 16,39,Julissa Taitano,Southern Oregon,VPO1,7-5,Alexandria Enriquez,Life University W,False
+2019,130,Round of 16,40,Ashley Ikner,University of the Cumberlands,BYE,,BYE,,True
+2019,130,Round of 16,41,Leah Olguin,Wayland Baptist University W,VFA,5:14 6-0,Savannah Vold,Waldorf University,False
+2019,130,Round of 16,42,Cara Romeike,University of Jamestown,BYE,,BYE,,True
+2019,130,Quarter-Finals,116,Andribeth Rivera,Campbellsville University W,VFA,3:00 10-0,Aysia Cortez,Life University W,False
+2019,130,Quarter-Finals,117,Anesia Ramirez,Southern Oregon,VPO1,11-2,Sydney Freund,Oklahoma City University,False
+2019,130,Quarter-Finals,118,Julissa Taitano,Southern Oregon,VSU1,13-3 5:21,Ashley Ikner,University of the Cumberlands,False
+2019,130,Quarter-Finals,119,Cara Romeike,University of Jamestown,VSU,10-0 1:24,Leah Olguin,Wayland Baptist University W,False
+2019,130,Semi-Finals,213,Andribeth Rivera,Campbellsville University W,VSU,10-0 1:27,Anesia Ramirez,Southern Oregon,False
+2019,130,Semi-Finals,214,Cara Romeike,University of Jamestown,VFA,2:31 5-0,Julissa Taitano,Southern Oregon,False
+2019,130,Finals,130,Andribeth Rivera,Campbellsville University W,VFA,1:47 6-2,Cara Romeike,University of Jamestown,False
+2019,130,Consi of 16 #1,,,,BYE,,,,True
+2019,130,Consi of 16 #1,,,,BYE,,,,True
+2019,130,Consi of 16 #1,,,,BYE,,,,True
+2019,130,Consi of 16 #1,,,,BYE,,,,True
+2019,130,Consi of 16 #1,,,,BYE,,,,True
+2019,130,Consi of 16 #1,,,,BYE,,,,True
+2019,130,Consi of 16 #1,,,,BYE,,,,True
+2019,130,Consi of 16 #1,,Nadia Escamilia,Missouri Baptist University,BYE,,BYE,,True
+2019,130,Consi of 16 #2,,,,BYE,,,,True
+2019,130,Consi of 16 #2,,Savannah Vold,Waldorf University,BYE,,BYE,,True
+2019,130,Consi of 16 #2,,,,BYE,,,,True
+2019,130,Consi of 16 #2,,Alexandria Enriquez,Life University W,BYE,,BYE,,True
+2019,130,Consi of 16 #2,,Rebekah Garcia,Lyon College,BYE,,BYE,,True
+2019,130,Consi of 16 #2,,Jocelyn Murphy,Missouri Valley College,BYE,,BYE,,True
+2019,130,Consi of 16 #2,,Breannah Duduoit-Vasquez,Wayland Baptist University W,BYE,,BYE,,True
+2019,130,Consi of 16 #2,82,Nadia Escamilia,Missouri Baptist University,VFA,2:11 11-6,Krystal Fabricante,Eastern Oregon University,False
+2019,130,Consi of 8 #1,120,Savannah Vold,Waldorf University,BYE,,BYE,,True
+2019,130,Consi of 8 #1,121,Alexandria Enriquez,Life University W,BYE,,BYE,,True
+2019,130,Consi of 8 #1,122,Jocelyn Murphy,Missouri Valley College,VFA,1:23 2-2,Rebekah Garcia,Lyon College,False
+2019,130,Consi of 8 #1,123,Breannah Duduoit-Vasquez,Wayland Baptist University W,VFA,2:31 8-0,Nadia Escamilia,Missouri Baptist University,False
+2019,130,Consi of 8 #2,173,Sydney Freund,Oklahoma City University,VPO1,2-1,Savannah Vold,Waldorf University,False
+2019,130,Consi of 8 #2,174,Aysia Cortez,Life University W,VPO1,9-4,Alexandria Enriquez,Life University W,False
+2019,130,Consi of 8 #2,175,Jocelyn Murphy,Missouri Valley College,VSU,12-0 1:35,Leah Olguin,Wayland Baptist University W,False
+2019,130,Consi of 8 #2,176,Breannah Duduoit-Vasquez,Wayland Baptist University W,VSU1,14-4 4:42,Ashley Ikner,University of the Cumberlands,False
+2019,130,Consi of 4,215,Sydney Freund,Oklahoma City University,VPO,6-0,Aysia Cortez,Life University W,False
+2019,130,Consi of 4,216,Jocelyn Murphy,Missouri Valley College,VFA,3:50 7-12,Breannah Duduoit-Vasquez,Wayland Baptist University W,False
+2019,130,Consi-Semis,245,Sydney Freund,Oklahoma City University,VSU1,11-3 6:00,Julissa Taitano,Southern Oregon,False
+2019,130,Consi-Semis,246,Anesia Ramirez,Southern Oregon,VSU1,18-7 4:35,Jocelyn Murphy,Missouri Valley College,False
+2019,130,3rd Place,273,Sydney Freund,Oklahoma City University,VPO1,2-1,Anesia Ramirez,Southern Oregon,False
+2019,130,5th Place,274,Julissa Taitano,Southern Oregon,VPO1,14-9,Jocelyn Murphy,Missouri Valley College,False
+2019,130,7th Place,275,Breannah Duduoit-Vasquez,Wayland Baptist University W,VSU,10-0 3:23,Aysia Cortez,Life University W,False
+2019,136,Round of 32,,Solin Piearcy,Menlo,BYE,,BYE,,True
+2019,136,Round of 32,,Alexandrea Banag,Lyon College,BYE,,BYE,,True
+2019,136,Round of 32,,Fatima Avalos,Missouri Baptist University,BYE,,BYE,,True
+2019,136,Round of 32,,Julia Mata,Missouri Valley College,BYE,,BYE,,True
+2019,136,Round of 32,,Destiny Lyng,Oklahoma City University,BYE,,BYE,,True
+2019,136,Round of 32,,Jenna Awana,Providence,BYE,,BYE,,True
+2019,136,Round of 32,,Akina Yamada,Waldorf University,BYE,,BYE,,True
+2019,136,Round of 32,5,Bridgette Duty,University of the Cumberlands,VSU1,12-2 2:09,Sophia Carson,Campbellsville University W,False
+2019,136,Round of 32,,Erica Sotelo,Life University W,BYE,,BYE,,True
+2019,136,Round of 32,,Analy Gonsalez,University of Jamestown,BYE,,BYE,,True
+2019,136,Round of 32,,Rosa Vallejo,York College,BYE,,BYE,,True
+2019,136,Round of 32,,Brittany Woods-Orrison,Menlo,BYE,,BYE,,True
+2019,136,Round of 32,,Elissa Douglass,Lyon College,BYE,,BYE,,True
+2019,136,Round of 32,,Lilia Rangel,Waldorf University,BYE,,BYE,,True
+2019,136,Round of 32,,Kellyann Jimenez,University of the Cumberlands,BYE,,BYE,,True
+2019,136,Round of 32,,Abnelis Yambo,Brewton-Parker College,BYE,,BYE,,True
+2019,136,Round of 16,43,Solin Piearcy,Menlo,VSU,10-0 0:38,Alexandrea Banag,Lyon College,False
+2019,136,Round of 16,44,Julia Mata,Missouri Valley College,VFA,0:40 4-0,Fatima Avalos,Missouri Baptist University,False
+2019,136,Round of 16,45,Destiny Lyng,Oklahoma City University,VFA,1:27 8-0,Jenna Awana,Providence,False
+2019,136,Round of 16,46,Bridgette Duty,University of the Cumberlands,VSU,10-0 3:40,Akina Yamada,Waldorf University,False
+2019,136,Round of 16,47,Erica Sotelo,Life University W,VSU,10-0 2:57,Analy Gonsalez,University of Jamestown,False
+2019,136,Round of 16,48,Brittany Woods-Orrison,Menlo,VFA,2:05 11-0,Rosa Vallejo,York College,False
+2019,136,Round of 16,49,Elissa Douglass,Lyon College,VFA,0:17 4-0,Lilia Rangel,Waldorf University,False
+2019,136,Round of 16,50,Abnelis Yambo,Brewton-Parker College,VFA,3:33 15-6,Kellyann Jimenez,University of the Cumberlands,False
+2019,136,Quarter-Finals,124,Solin Piearcy,Menlo,VSU,10-0 0:32,Julia Mata,Missouri Valley College,False
+2019,136,Quarter-Finals,125,Bridgette Duty,University of the Cumberlands,VFA,3:24 6-8,Destiny Lyng,Oklahoma City University,False
+2019,136,Quarter-Finals,126,Erica Sotelo,Life University W,VSU1,12-2 5:39,Brittany Woods-Orrison,Menlo,False
+2019,136,Quarter-Finals,127,Elissa Douglass,Lyon College,VFA,2:39 6-8,Abnelis Yambo,Brewton-Parker College,False
+2019,136,Semi-Finals,217,Solin Piearcy,Menlo,VPO1,9-4,Bridgette Duty,University of the Cumberlands,False
+2019,136,Semi-Finals,218,Erica Sotelo,Life University W,VPO,7-0,Elissa Douglass,Lyon College,False
+2019,136,Finals,136,Solin Piearcy,Menlo,VSU1,8-1 6:00,Erica Sotelo,Life University W,False
+2019,136,Consi of 16 #1,,,,BYE,,,,True
+2019,136,Consi of 16 #1,,,,BYE,,,,True
+2019,136,Consi of 16 #1,,,,BYE,,,,True
+2019,136,Consi of 16 #1,,Sophia Carson,Campbellsville University W,BYE,,BYE,,True
+2019,136,Consi of 16 #1,,,,BYE,,,,True
+2019,136,Consi of 16 #1,,,,BYE,,,,True
+2019,136,Consi of 16 #1,,,,BYE,,,,True
+2019,136,Consi of 16 #1,,,,BYE,,,,True
+2019,136,Consi of 16 #2,,Kellyann Jimenez,University of the Cumberlands,BYE,,BYE,,True
+2019,136,Consi of 16 #2,,Lilia Rangel,Waldorf University,BYE,,BYE,,True
+2019,136,Consi of 16 #2,,Rosa Vallejo,York College,BYE,,BYE,,True
+2019,136,Consi of 16 #2,83,Sophia Carson,Campbellsville University W,VSU,10-0 2:20,Analy Gonsalez,University of Jamestown,False
+2019,136,Consi of 16 #2,,Akina Yamada,Waldorf University,BYE,,BYE,,True
+2019,136,Consi of 16 #2,,Jenna Awana,Providence,BYE,,BYE,,True
+2019,136,Consi of 16 #2,,Fatima Avalos,Missouri Baptist University,BYE,,BYE,,True
+2019,136,Consi of 16 #2,,Alexandrea Banag,Lyon College,BYE,,BYE,,True
+2019,136,Consi of 8 #1,128,Kellyann Jimenez,University of the Cumberlands,VFA,1:02 6-0,Lilia Rangel,Waldorf University,False
+2019,136,Consi of 8 #1,129,Sophia Carson,Campbellsville University W,VFA,1:09 4-0,Rosa Vallejo,York College,False
+2019,136,Consi of 8 #1,130,Akina Yamada,Waldorf University,VFA,0:33 4-0,Jenna Awana,Providence,False
+2019,136,Consi of 8 #1,131,Alexandrea Banag,Lyon College,VFA,1:22 8-0,Fatima Avalos,Missouri Baptist University,False
+2019,136,Consi of 8 #2,177,Destiny Lyng,Oklahoma City University,VFA,3:15 9-0,Kellyann Jimenez,University of the Cumberlands,False
+2019,136,Consi of 8 #2,178,Sophia Carson,Campbellsville University W,VSU,10-0 0:51,Julia Mata,Missouri Valley College,False
+2019,136,Consi of 8 #2,179,Akina Yamada,Waldorf University,VPO1,10-6,Abnelis Yambo,Brewton-Parker College,False
+2019,136,Consi of 8 #2,180,Brittany Woods-Orrison,Menlo,VFA,2:43 7-7,Alexandrea Banag,Lyon College,False
+2019,136,Consi of 4,219,Destiny Lyng,Oklahoma City University,VFA,4:47 10-0,Sophia Carson,Campbellsville University W,False
+2019,136,Consi of 4,220,Akina Yamada,Waldorf University,VSU1,14-2 4:57,Brittany Woods-Orrison,Menlo,False
+2019,136,Consi-Semis,247,Destiny Lyng,Oklahoma City University,VPO1,9-6,Elissa Douglass,Lyon College,False
+2019,136,Consi-Semis,248,Bridgette Duty,University of the Cumberlands,VSU1,12-2 3:25,Akina Yamada,Waldorf University,False
+2019,136,3rd Place,277,Destiny Lyng,Oklahoma City University,VSU,10-0 3:00,Bridgette Duty,University of the Cumberlands,False
+2019,136,5th Place,278,Akina Yamada,Waldorf University,VFA,1:57 8-2,Elissa Douglass,Lyon College,False
+2019,136,7th Place,279,Brittany Woods-Orrison,Menlo,VFA,4:25 7-4,Sophia Carson,Campbellsville University W,False
+2019,143,Round of 32,,Margaret Douma,Oklahoma City University,BYE,,BYE,,True
+2019,143,Round of 32,,Lori Archuleta,Missouri Valley College,BYE,,BYE,,True
+2019,143,Round of 32,,Sara Angelo,Eastern Oregon University,BYE,,BYE,,True
+2019,143,Round of 32,,Morgan Shines,Life University W,BYE,,BYE,,True
+2019,143,Round of 32,6,Zoe Wight,Life University W,VFA,0:19 4-0,Katie Bell,York College,False
+2019,143,Round of 32,,Yulissa Medrano-Lagunas,Missouri Baptist University,BYE,,BYE,,True
+2019,143,Round of 32,,Lacey Henderson,Ottawa University W,BYE,,BYE,,True
+2019,143,Round of 32,,Marilyn Garcia,Menlo,BYE,,BYE,,True
+2019,143,Round of 32,7,Cierra Foster,Oklahoma City University,VPO1,8-7,Sienna Ramirez,Southern Oregon,False
+2019,143,Round of 32,,Lyric Gonsalves,Ottawa University W,BYE,,BYE,,True
+2019,143,Round of 32,,Selina Medrano-Perez,Missouri Baptist University,BYE,,BYE,,True
+2019,143,Round of 32,,Joy Muniz,University of Jamestown,BYE,,BYE,,True
+2019,143,Round of 32,,Andrea Prince,University of Jamestown,BYE,,BYE,,True
+2019,143,Round of 32,,Kylie Godinez,University of the Cumberlands,BYE,,BYE,,True
+2019,143,Round of 32,,Nancy Becerra,Missouri Valley College,BYE,,BYE,,True
+2019,143,Round of 32,,Angela Peralta,Menlo,BYE,,BYE,,True
+2019,143,Round of 16,51,Margaret Douma,Oklahoma City University,VFA,1:54 8-0,Lori Archuleta,Missouri Valley College,False
+2019,143,Round of 16,52,Morgan Shines,Life University W,VPO1,12-5,Sara Angelo,Eastern Oregon University,False
+2019,143,Round of 16,53,Zoe Wight,Life University W,VFA,0:50 4-0,Yulissa Medrano-Lagunas,Missouri Baptist University,False
+2019,143,Round of 16,54,Marilyn Garcia,Menlo,VSU,10-0 3:51,Lacey Henderson,Ottawa University W,False
+2019,143,Round of 16,55,Cierra Foster,Oklahoma City University,VSU1,12-2 3:00,Lyric Gonsalves,Ottawa University W,False
+2019,143,Round of 16,56,Joy Muniz,University of Jamestown,VSU,11-0 2:48,Selina Medrano-Perez,Missouri Baptist University,False
+2019,143,Round of 16,57,Andrea Prince,University of Jamestown,VSU1,16-6 4:40,Kylie Godinez,University of the Cumberlands,False
+2019,143,Round of 16,58,Angela Peralta,Menlo,VSU1,12-2 5:53,Nancy Becerra,Missouri Valley College,False
+2019,143,Quarter-Finals,132,Margaret Douma,Oklahoma City University,VFA,0:30 2-0,Morgan Shines,Life University W,False
+2019,143,Quarter-Finals,133,Marilyn Garcia,Menlo,VPO1,6-2,Zoe Wight,Life University W,False
+2019,143,Quarter-Finals,134,Cierra Foster,Oklahoma City University,VFA,3:24 6-5,Joy Muniz,University of Jamestown,False
+2019,143,Quarter-Finals,135,Angela Peralta,Menlo,VSU,11-0 5:50,Andrea Prince,University of Jamestown,False
+2019,143,Semi-Finals,221,Marilyn Garcia,Menlo,VPO1,8-1,Margaret Douma,Oklahoma City University,False
+2019,143,Semi-Finals,222,Angela Peralta,Menlo,VPO,7-0,Cierra Foster,Oklahoma City University,False
+2019,143,Finals,143,Marilyn Garcia,Menlo,VSU,2-0 6:00,Angela Peralta,Menlo,False
+2019,143,Consi of 16 #1,,,,BYE,,,,True
+2019,143,Consi of 16 #1,,,,BYE,,,,True
+2019,143,Consi of 16 #1,,Katie Bell,York College,BYE,,BYE,,True
+2019,143,Consi of 16 #1,,,,BYE,,,,True
+2019,143,Consi of 16 #1,,Sienna Ramirez,Southern Oregon,BYE,,BYE,,True
+2019,143,Consi of 16 #1,,,,BYE,,,,True
+2019,143,Consi of 16 #1,,,,BYE,,,,True
+2019,143,Consi of 16 #1,,,,BYE,,,,True
+2019,143,Consi of 16 #2,,Nancy Becerra,Missouri Valley College,BYE,,BYE,,True
+2019,143,Consi of 16 #2,,Kylie Godinez,University of the Cumberlands,BYE,,BYE,,True
+2019,143,Consi of 16 #2,84,Katie Bell,York College,VFA,4:02 12-6,Selina Medrano-Perez,Missouri Baptist University,False
+2019,143,Consi of 16 #2,,Lyric Gonsalves,Ottawa University W,BYE,,BYE,,True
+2019,143,Consi of 16 #2,85,Sienna Ramirez,Southern Oregon,VSU,10-0 2:31,Lacey Henderson,Ottawa University W,False
+2019,143,Consi of 16 #2,,Yulissa Medrano-Lagunas,Missouri Baptist University,BYE,,BYE,,True
+2019,143,Consi of 16 #2,,Sara Angelo,Eastern Oregon University,BYE,,BYE,,True
+2019,143,Consi of 16 #2,,Lori Archuleta,Missouri Valley College,BYE,,BYE,,True
+2019,143,Consi of 8 #1,136,Kylie Godinez,University of the Cumberlands,VFA,3:56 9-5,Nancy Becerra,Missouri Valley College,False
+2019,143,Consi of 8 #1,137,Lyric Gonsalves,Ottawa University W,VFA,1:26 7-2,Katie Bell,York College,False
+2019,143,Consi of 8 #1,138,Sienna Ramirez,Southern Oregon,VSU,10-0 1:38,Yulissa Medrano-Lagunas,Missouri Baptist University,False
+2019,143,Consi of 8 #1,139,Lori Archuleta,Missouri Valley College,VPO1,6-2,Sara Angelo,Eastern Oregon University,False
+2019,143,Consi of 8 #2,181,Zoe Wight,Life University W,VSU,10-0 0:55,Kylie Godinez,University of the Cumberlands,False
+2019,143,Consi of 8 #2,182,Morgan Shines,Life University W,VPO,9-0,Lyric Gonsalves,Ottawa University W,False
+2019,143,Consi of 8 #2,183,Sienna Ramirez,Southern Oregon,VFA,2:06 4-0,Andrea Prince,University of Jamestown,False
+2019,143,Consi of 8 #2,184,Joy Muniz,University of Jamestown,VSU,10-0 5:42,Lori Archuleta,Missouri Valley College,False
+2019,143,Consi of 4,223,Zoe Wight,Life University W,VSU,11-0 3:15,Morgan Shines,Life University W,False
+2019,143,Consi of 4,224,Sienna Ramirez,Southern Oregon,VFA,1:17 4-0,Joy Muniz,University of Jamestown,False
+2019,143,Consi-Semis,249,Zoe Wight,Life University W,VSU1,12-2 4:51,Cierra Foster,Oklahoma City University,False
+2019,143,Consi-Semis,250,Margaret Douma,Oklahoma City University,VPO1,6-6,Sienna Ramirez,Southern Oregon,False
+2019,143,3rd Place,281,Margaret Douma,Oklahoma City University,VFA,1:21 4-0,Zoe Wight,Life University W,False
+2019,143,5th Place,282,Sienna Ramirez,Southern Oregon,VIN,,Cierra Foster,Oklahoma City University,False
+2019,143,7th Place,283,Joy Muniz,University of Jamestown,VFA,2:07 7-0,Morgan Shines,Life University W,False
+2019,155,Round of 32,,Iman Kazem,Menlo,BYE,,BYE,,True
+2019,155,Round of 32,,Sierra Alfonso,Lyon College,BYE,,BYE,,True
+2019,155,Round of 32,,Pella Wisniowski,Central Christian College of Kansas,BYE,,BYE,,True
+2019,155,Round of 32,8,Destinee Rivera,Life University W,VPO1,3-2,Dempsi Talkington,Eastern Oregon University,False
+2019,155,Round of 32,,,,BYE,,,,True
+2019,155,Round of 32,,Gabriela Hunter,Midland University,BYE,,BYE,,True
+2019,155,Round of 32,9,Isabella Ricchiazzi,University of the Cumberlands,BYE,,BYE,,True
+2019,155,Round of 32,,Myranda Velazquez,University of Jamestown,BYE,,BYE,,True
+2019,155,Round of 32,10,Shamera McTier,Missouri Valley College,VSU1,15-2 5:17,Brooke Logan,Oklahoma City University,False
+2019,155,Round of 32,,Renay Monohan,Eastern Oregon University,BYE,,BYE,,True
+2019,155,Round of 32,,Chyna Rodriguez,Midland University,BYE,,BYE,,True
+2019,155,Round of 32,,Sierra Talmadge,University of Jamestown,BYE,,BYE,,True
+2019,155,Round of 32,,Alexia Foca,Campbellsville University W,BYE,,BYE,,True
+2019,155,Round of 32,,Brighton Hutton,Missouri Baptist University,BYE,,BYE,,True
+2019,155,Round of 32,,Randie Scoon,Ottawa University W,BYE,,BYE,,True
+2019,155,Round of 32,11,Anna Naylor,University of the Cumberlands,VFA,1:31 10-0,Taylor Cooks,Life University W,False
+2019,155,Round of 16,59,Iman Kazem,Menlo,VSU,10-0 0:56,Sierra Alfonso,Lyon College,False
+2019,155,Round of 16,60,Destinee Rivera,Life University W,VPO,2-0,Pella Wisniowski,Central Christian College of Kansas,False
+2019,155,Round of 16,61,Gabriela Hunter,Midland University,BYE,,BYE,,True
+2019,155,Round of 16,62,Isabella Ricchiazzi,University of the Cumberlands,VSU1,10-10 6:00,Myranda Velazquez,University of Jamestown,False
+2019,155,Round of 16,63,Shamera McTier,Missouri Valley College,VSU1,12-2 3:37,Renay Monohan,Eastern Oregon University,False
+2019,155,Round of 16,64,Sierra Talmadge,University of Jamestown,VSU,10-0 1:49,Chyna Rodriguez,Midland University,False
+2019,155,Round of 16,65,Alexia Foca,Campbellsville University W,VSU,10-0 0:38,Brighton Hutton,Missouri Baptist University,False
+2019,155,Round of 16,66,Anna Naylor,University of the Cumberlands,VFA,0:47 4-0,Randie Scoon,Ottawa University W,False
+2019,155,Quarter-Finals,140,Iman Kazem,Menlo,VSU1,12-1 3:46,Destinee Rivera,Life University W,False
+2019,155,Quarter-Finals,141,Gabriela Hunter,Midland University,VFA,5:10 4-9,Isabella Ricchiazzi,University of the Cumberlands,False
+2019,155,Quarter-Finals,142,Shamera McTier,Missouri Valley College,VSU1,12-1 3:52,Sierra Talmadge,University of Jamestown,False
+2019,155,Quarter-Finals,143,Anna Naylor,University of the Cumberlands,VPO1,13-8,Alexia Foca,Campbellsville University W,False
+2019,155,Semi-Finals,225,Iman Kazem,Menlo,VFA,1:00 6-0,Gabriela Hunter,Midland University,False
+2019,155,Semi-Finals,226,Anna Naylor,University of the Cumberlands,VPO1,16-7,Shamera McTier,Missouri Valley College,False
+2019,155,Finals,155,Iman Kazem,Menlo,VFA,0:39 2-0,Anna Naylor,University of the Cumberlands,False
+2019,155,Consi of 16 #1,,,,BYE,,,,True
+2019,155,Consi of 16 #1,,Dempsi Talkington,Eastern Oregon University,BYE,,BYE,,True
+2019,155,Consi of 16 #1,,,,BYE,,,,True
+2019,155,Consi of 16 #1,,,,BYE,,,,True
+2019,155,Consi of 16 #1,,Brooke Logan,Oklahoma City University,BYE,,BYE,,True
+2019,155,Consi of 16 #1,,,,BYE,,,,True
+2019,155,Consi of 16 #1,,,,BYE,,,,True
+2019,155,Consi of 16 #1,,Taylor Cooks,Life University W,BYE,,BYE,,True
+2019,155,Consi of 16 #2,,Randie Scoon,Ottawa University W,BYE,,BYE,,True
+2019,155,Consi of 16 #2,86,Brighton Hutton,Missouri Baptist University,VFA,1:42 4-4,Dempsi Talkington,Eastern Oregon University,False
+2019,155,Consi of 16 #2,,Chyna Rodriguez,Midland University,BYE,,BYE,,True
+2019,155,Consi of 16 #2,87,Renay Monohan,Eastern Oregon University,BYE,,BYE,,True
+2019,155,Consi of 16 #2,88,Myranda Velazquez,University of Jamestown,VFA,4:38 9-6,Brooke Logan,Oklahoma City University,False
+2019,155,Consi of 16 #2,,,,BYE,,,,True
+2019,155,Consi of 16 #2,,Pella Wisniowski,Central Christian College of Kansas,BYE,,BYE,,True
+2019,155,Consi of 16 #2,89,Taylor Cooks,Life University W,VFA,1:03 4-0,Sierra Alfonso,Lyon College,False
+2019,155,Consi of 8 #1,144,Brighton Hutton,Missouri Baptist University,VFA,0:55 2-2,Randie Scoon,Ottawa University W,False
+2019,155,Consi of 8 #1,145,Renay Monohan,Eastern Oregon University,VFA,5:20 10-2,Chyna Rodriguez,Midland University,False
+2019,155,Consi of 8 #1,146,Myranda Velazquez,University of Jamestown,BYE,,BYE,,True
+2019,155,Consi of 8 #1,147,Pella Wisniowski,Central Christian College of Kansas,VSU,10-0 1:42,Taylor Cooks,Life University W,False
+2019,155,Consi of 8 #2,185,Isabella Ricchiazzi,University of the Cumberlands,VSU1,12-1 5:25,Brighton Hutton,Missouri Baptist University,False
+2019,155,Consi of 8 #2,186,Destinee Rivera,Life University W,VPO,10-0,Renay Monohan,Eastern Oregon University,False
+2019,155,Consi of 8 #2,187,Myranda Velazquez,University of Jamestown,VSU,10-0 0:56,Alexia Foca,Campbellsville University W,False
+2019,155,Consi of 8 #2,188,Sierra Talmadge,University of Jamestown,VPO1,12-2,Pella Wisniowski,Central Christian College of Kansas,False
+2019,155,Consi of 4,227,Destinee Rivera,Life University W,VPO1,2-1,Isabella Ricchiazzi,University of the Cumberlands,False
+2019,155,Consi of 4,228,Myranda Velazquez,University of Jamestown,VFA,2:24 8-0,Sierra Talmadge,University of Jamestown,False
+2019,155,Consi-Semis,251,Shamera McTier,Missouri Valley College,VSU,10-0 4:39,Destinee Rivera,Life University W,False
+2019,155,Consi-Semis,252,Myranda Velazquez,University of Jamestown,VSU,10-0 1:51,Gabriela Hunter,Midland University,False
+2019,155,3rd Place,285,Myranda Velazquez,University of Jamestown,VSU,,Shamera McTier,Missouri Valley College,False
+2019,155,5th Place,286,Destinee Rivera,Life University W,VPO1,4-1,Gabriela Hunter,Midland University,False
+2019,155,7th Place,287,Sierra Talmadge,University of Jamestown,VPO1,4-3,Isabella Ricchiazzi,University of the Cumberlands,False
+2019,170,Round of 32,,Dymond Guilford,Missouri Baptist University,BYE,,BYE,,True
+2019,170,Round of 32,,Marissa Patterson,York College,BYE,,BYE,,True
+2019,170,Round of 32,,Chasity Cortez,University of the Cumberlands,BYE,,BYE,,True
+2019,170,Round of 32,12,Alyssa Schrull,University of Jamestown,VPO1,9-1,Yuneris Taveras,Missouri Valley College,False
+2019,170,Round of 32,,Rachel Watters,Oklahoma City University,BYE,,BYE,,True
+2019,170,Round of 32,,Latiana Tauaese,Southern Oregon,BYE,,BYE,,True
+2019,170,Round of 32,,Joanna Mack,Midland University,BYE,,BYE,,True
+2019,170,Round of 32,,Stephanie Pantoja,Life University W,BYE,,BYE,,True
+2019,170,Round of 32,,Precious Bell,Menlo,BYE,,BYE,,True
+2019,170,Round of 32,,,,BYE,,,,True
+2019,170,Round of 32,,,,BYE,,,,True
+2019,170,Round of 32,,Jordan Nelson,Life University W,BYE,,BYE,,True
+2019,170,Round of 32,13,Kenya-Lee Sloan,Campbellsville University W,VFA,2:05 10-0,Karrah Smith,Southern Oregon,False
+2019,170,Round of 32,,Payton Rigert,University of the Cumberlands,BYE,,BYE,,True
+2019,170,Round of 32,,Charity Goldsmith - Ding,York College,BYE,,BYE,,True
+2019,170,Round of 32,,Mariah Harris,Campbellsville University W,BYE,,BYE,,True
+2019,170,Round of 16,67,Dymond Guilford,Missouri Baptist University,VFA,3:35 10-0,Marissa Patterson,York College,False
+2019,170,Round of 16,68,Alyssa Schrull,University of Jamestown,VFA,1:25 6-0,Chasity Cortez,University of the Cumberlands,False
+2019,170,Round of 16,69,Rachel Watters,Oklahoma City University,VSU,10-0 3:50,Latiana Tauaese,Southern Oregon,False
+2019,170,Round of 16,70,Stephanie Pantoja,Life University W,VPO1,9-1,Joanna Mack,Midland University,False
+2019,170,Round of 16,71,Precious Bell,Menlo,BYE,,BYE,,True
+2019,170,Round of 16,72,Jordan Nelson,Life University W,BYE,,BYE,,True
+2019,170,Round of 16,73,Payton Rigert,University of the Cumberlands,VFA,4:56 4-9,Kenya-Lee Sloan,Campbellsville University W,False
+2019,170,Round of 16,74,Mariah Harris,Campbellsville University W,VSU,12-0 0:39,Charity Goldsmith - Ding,York College,False
+2019,170,Quarter-Finals,148,Dymond Guilford,Missouri Baptist University,VSU,10-0 1:22,Alyssa Schrull,University of Jamestown,False
+2019,170,Quarter-Finals,149,Rachel Watters,Oklahoma City University,VPO1,5-1,Stephanie Pantoja,Life University W,False
+2019,170,Quarter-Finals,150,Precious Bell,Menlo,VPO1,7-3,Jordan Nelson,Life University W,False
+2019,170,Quarter-Finals,151,Mariah Harris,Campbellsville University W,VSU,10-0 2:49,Payton Rigert,University of the Cumberlands,False
+2019,170,Semi-Finals,229,Dymond Guilford,Missouri Baptist University,VSU,10-0 4:36,Rachel Watters,Oklahoma City University,False
+2019,170,Semi-Finals,230,Precious Bell,Menlo,VPO,4-0,Mariah Harris,Campbellsville University W,False
+2019,170,Finals,170,Dymond Guilford,Missouri Baptist University,VFA,2:36,Precious Bell,Menlo,False
+2019,170,Consi of 16 #1,,,,BYE,,,,True
+2019,170,Consi of 16 #1,,Yuneris Taveras,Missouri Valley College,BYE,,BYE,,True
+2019,170,Consi of 16 #1,,,,BYE,,,,True
+2019,170,Consi of 16 #1,,,,BYE,,,,True
+2019,170,Consi of 16 #1,,,,BYE,,,,True
+2019,170,Consi of 16 #1,,,,BYE,,,,True
+2019,170,Consi of 16 #1,,Karrah Smith,Southern Oregon,BYE,,BYE,,True
+2019,170,Consi of 16 #1,,,,BYE,,,,True
+2019,170,Consi of 16 #2,,Charity Goldsmith - Ding,York College,BYE,,BYE,,True
+2019,170,Consi of 16 #2,90,Kenya-Lee Sloan,Campbellsville University W,VPO1,5-3,Yuneris Taveras,Missouri Valley College,False
+2019,170,Consi of 16 #2,,,,BYE,,,,True
+2019,170,Consi of 16 #2,,,,BYE,,,,True
+2019,170,Consi of 16 #2,,Joanna Mack,Midland University,BYE,,BYE,,True
+2019,170,Consi of 16 #2,,Latiana Tauaese,Southern Oregon,BYE,,BYE,,True
+2019,170,Consi of 16 #2,91,Karrah Smith,Southern Oregon,VFA,0:29 4-0,Chasity Cortez,University of the Cumberlands,False
+2019,170,Consi of 16 #2,,Marissa Patterson,York College,BYE,,BYE,,True
+2019,170,Consi of 8 #1,152,Kenya-Lee Sloan,Campbellsville University W,VFA,1:05 8-0,Charity Goldsmith - Ding,York College,False
+2019,170,Consi of 8 #1,153,,,BYE,,,,True
+2019,170,Consi of 8 #1,154,Latiana Tauaese,Southern Oregon,VPO1,15-12,Joanna Mack,Midland University,False
+2019,170,Consi of 8 #1,155,Karrah Smith,Southern Oregon,VFA,0:42 4-0,Marissa Patterson,York College,False
+2019,170,Consi of 8 #2,189,Kenya-Lee Sloan,Campbellsville University W,VFA,5:00 8-3,Stephanie Pantoja,Life University W,False
+2019,170,Consi of 8 #2,190,Alyssa Schrull,University of Jamestown,BYE,,BYE,,True
+2019,170,Consi of 8 #2,191,Payton Rigert,University of the Cumberlands,VFA,4:35 4-0,Latiana Tauaese,Southern Oregon,False
+2019,170,Consi of 8 #2,192,Jordan Nelson,Life University W,VSU,10-0 2:21,Karrah Smith,Southern Oregon,False
+2019,170,Consi of 4,231,Kenya-Lee Sloan,Campbellsville University W,VFA,2:15 6-4,Alyssa Schrull,University of Jamestown,False
+2019,170,Consi of 4,232,Jordan Nelson,Life University W,VPO,4-0,Payton Rigert,University of the Cumberlands,False
+2019,170,Consi-Semis,253,Mariah Harris,Campbellsville University W,VPO1,5-4,Kenya-Lee Sloan,Campbellsville University W,False
+2019,170,Consi-Semis,254,Rachel Watters,Oklahoma City University,VSU1,12-1 4:49,Jordan Nelson,Life University W,False
+2019,170,3rd Place,289,Rachel Watters,Oklahoma City University,VPO1,4-4,Mariah Harris,Campbellsville University W,False
+2019,170,5th Place,290,Jordan Nelson,Life University W,VSU1,12-1 5:58,Kenya-Lee Sloan,Campbellsville University W,False
+2019,170,7th Place,291,Payton Rigert,University of the Cumberlands,VPO1,8-6,Alyssa Schrull,University of Jamestown,False
+2019,191,Round of 16,75,Chi Chi Nwankwo,Oklahoma City University,VPO1,7-2,Emily Sandoval,Menlo,False
+2019,191,Round of 16,,Angel Ochoa,Missouri Baptist University,BYE,,BYE,,True
+2019,191,Round of 16,,Jesse Kirby,University of the Cumberlands,BYE,,BYE,,True
+2019,191,Round of 16,76,Leilani Camargo-Naone,Midland University,VFA,5:33 6-1,Tristyn Borden,Southern Oregon,False
+2019,191,Round of 16,,Paige Baynes,Wayland Baptist University W,BYE,,BYE,,True
+2019,191,Round of 16,77,Alexandra Castillo,Campbellsville University W,VFA,0:33 4-0,Maranda Dornan,Ottawa University W,False
+2019,191,Round of 16,,Serena Sanchez,Midland University,BYE,,BYE,,True
+2019,191,Round of 16,78,Agatha Andrews,University of Jamestown,VFA,1:38 12-0,Madison Bozovich,Eastern Oregon University,False
+2019,191,Quarter-Finals,156,Chi Chi Nwankwo,Oklahoma City University,VFA,0:29 2-0,Angel Ochoa,Missouri Baptist University,False
+2019,191,Quarter-Finals,157,Leilani Camargo-Naone,Midland University,VFA,2:46 10-2,Jesse Kirby,University of the Cumberlands,False
+2019,191,Quarter-Finals,158,Paige Baynes,Wayland Baptist University W,VPO1,6-3,Alexandra Castillo,Campbellsville University W,False
+2019,191,Quarter-Finals,159,Agatha Andrews,University of Jamestown,VFA,0:13 2-0,Serena Sanchez,Midland University,False
+2019,191,Semi-Finals,233,Chi Chi Nwankwo,Oklahoma City University,VFA,1:22 8-0,Leilani Camargo-Naone,Midland University,False
+2019,191,Semi-Finals,234,Paige Baynes,Wayland Baptist University W,VSU1,8-2 6:00,Agatha Andrews,University of Jamestown,False
+2019,191,Finals,191,Paige Baynes,Wayland Baptist University W,VSU1,7-5 6:00,Chi Chi Nwankwo,Oklahoma City University,False
+2019,191,Consi of 8 #1,,Emily Sandoval,Menlo,BYE,,BYE,,True
+2019,191,Consi of 8 #1,,Tristyn Borden,Southern Oregon,BYE,,BYE,,True
+2019,191,Consi of 8 #1,,Maranda Dornan,Ottawa University W,BYE,,BYE,,True
+2019,191,Consi of 8 #1,,Madison Bozovich,Eastern Oregon University,BYE,,BYE,,True
+2019,191,Consi of 8 #2,193,Emily Sandoval,Menlo,VFA,0:55 4-2,Serena Sanchez,Midland University,False
+2019,191,Consi of 8 #2,194,Alexandra Castillo,Campbellsville University W,VSU,10-0 5:24,Tristyn Borden,Southern Oregon,False
+2019,191,Consi of 8 #2,195,Jesse Kirby,University of the Cumberlands,VFA,0:42 8-0,Maranda Dornan,Ottawa University W,False
+2019,191,Consi of 8 #2,196,Angel Ochoa,Missouri Baptist University,VFA,0:46 8-0,Madison Bozovich,Eastern Oregon University,False
+2019,191,Consi of 4,235,Alexandra Castillo,Campbellsville University W,VPO1,11-4,Emily Sandoval,Menlo,False
+2019,191,Consi of 4,236,Jesse Kirby,University of the Cumberlands,VFA,0:55 4-0,Angel Ochoa,Missouri Baptist University,False
+2019,191,Consi-Semis,255,Leilani Camargo-Naone,Midland University,VPO1,6-4,Alexandra Castillo,Campbellsville University W,False
+2019,191,Consi-Semis,256,Agatha Andrews,University of Jamestown,VFA,4:28 8-6,Jesse Kirby,University of the Cumberlands,False
+2019,191,3rd Place,293,Leilani Camargo-Naone,Midland University,VPO1,6-5,Agatha Andrews,University of Jamestown,False
+2019,191,5th Place,294,Alexandra Castillo,Campbellsville University W,VPO1,8-2,Jesse Kirby,University of the Cumberlands,False
+2019,191,7th Place,295,Emily Sandoval,Menlo,VSU,10-0 0:33,Angel Ochoa,Missouri Baptist University,False

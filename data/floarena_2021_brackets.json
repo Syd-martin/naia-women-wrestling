@@ -1,0 +1,2000 @@
+{
+  "status": "SUCCESS",
+  "response": {
+    "guid": "dcc7ee38-84ea-42bd-83f5-12c21108a3e5",
+    "name": "2021 NAIA Women's National Invitational",
+    "divisions": [
+      {
+        "guid": "faca000c-60d0-4caa-89c1-12034e50c33f",
+        "name": "NAIA",
+        "sequence": 2,
+        "isDual": false,
+        "divisionProfile": {
+          "guid": "6e59959d-8208-4b66-a6ba-19777d7783c2"
+        },
+        "maskSeeds": false,
+        "showSeedsTo": 8,
+        "hideByes": false,
+        "measurementUnit": "lbs",
+        "weightClasses": [
+          {
+            "guid": "a0219763-653e-4516-8efb-067d59a58e68",
+            "name": "101",
+            "boutPools": [
+              {
+                "guid": "ae86e502-92e6-4d37-9e44-df6e2702be30",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "9b6d4432-8d37-44a8-9967-f28ffb7342b5",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "8703ebb5-081c-49f1-859b-5bd473160131",
+                    "wrestler": {
+                      "guid": "177c4f11-3c28-4571-a602-fd59015020e4",
+                      "firstName": "Nina",
+                      "lastName": "Pham",
+                      "team": {
+                        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+                        "name": "Wayland Baptist (W)",
+                        "abbreviation": "WBU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/7e40138e-9dc8-4bd0-9c0c-e17b388bf3be.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:14:39+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "6148b484-c3b4-4c8d-978b-9449099d4fe1"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "af4dac2b-dedc-4395-b718-4149714d4043",
+                    "wrestler": {
+                      "guid": "0399e07e-c1d6-431d-b223-68bda33122d5",
+                      "firstName": "Ivy",
+                      "lastName": "Navarro",
+                      "team": {
+                        "guid": "5e56c3eb-d9b7-4756-aefd-6705698916bd",
+                        "name": "Providence (W)",
+                        "abbreviation": "PRO",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/5e56c3eb-d9b7-4756-aefd-6705698916bd.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:09:49+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "b0ac406c-a66b-42b1-bc26-04b7680d2e58",
+                    "wrestler": {
+                      "guid": "a14791de-0422-4799-8218-caaa7c7cc1f3",
+                      "firstName": "Esthella",
+                      "lastName": "Trevino",
+                      "team": {
+                        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+                        "name": "Southern Oregon (W)",
+                        "abbreviation": "SO",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/42b96684-17cb-4965-8a3e-6f2a8add03a0.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:12:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "98a5e063-8489-4460-ac80-dc349f7b741e",
+                    "wrestler": {
+                      "guid": "a5990be1-2ff6-4efc-8a6f-04dba6b807e9",
+                      "firstName": "Madison",
+                      "lastName": "Brown",
+                      "team": {
+                        "guid": "220acdc8-eddd-472f-b9b0-182b677876eb",
+                        "name": "Texas Wesleyan (W)",
+                        "abbreviation": "TXWS",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/220acdc8-eddd-472f-b9b0-182b677876eb.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:12:24+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 7,
+                      "identityPersonGuid": "51bb1302-121e-49a6-b365-cc6539ff2355"
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "41292f47-9fca-4ad0-b43e-ddb8f59b4d23",
+                    "wrestler": {
+                      "guid": "85559b4d-c3a2-4fd7-9f7f-e7c72414c4dd",
+                      "firstName": "Ira",
+                      "lastName": "Navarro",
+                      "team": {
+                        "guid": "5e56c3eb-d9b7-4756-aefd-6705698916bd",
+                        "name": "Providence (W)",
+                        "abbreviation": "PRO",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/5e56c3eb-d9b7-4756-aefd-6705698916bd.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:09:49+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 9,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "c8c1cd78-5d28-423d-9bc4-f7ed846ce703",
+                    "wrestler": {
+                      "guid": "2ddbe3c4-7789-4b69-b876-121c971d7db5",
+                      "firstName": "Devyn",
+                      "lastName": "Gomez",
+                      "team": {
+                        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+                        "name": "Life (W)",
+                        "abbreviation": "LIFE",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/79f9ed40-b958-414c-9f18-3aeac01d7e64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:37+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "0c9df606-c9ce-4534-be1d-4cae1e289bd6",
+                    "wrestler": {
+                      "guid": "7c02b2d0-ca01-4948-84ef-047387baea31",
+                      "firstName": "Alaura",
+                      "lastName": "Couch",
+                      "team": {
+                        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+                        "name": "Grand View (W)",
+                        "abbreviation": "GRVW",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/8eb68ba5-cba2-4954-a566-8d47588f8b12.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:56:31+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 8,
+                      "identityPersonGuid": "c5cfa662-7188-4eee-809f-b0ff4a1b4386"
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "6a8c3496-a374-4af3-a668-4f0c67f77790",
+                    "wrestler": {
+                      "guid": "e433a767-ff9d-49a0-9194-bc1938e3aa6e",
+                      "firstName": "Angelina",
+                      "lastName": "Casteneda",
+                      "team": {
+                        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+                        "name": "Cumberlands (W)",
+                        "abbreviation": "UC",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/3c081418-3bff-4d57-afee-f3fdebcc75b4.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:56:00+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 1,
+            "divisionGuid": "faca000c-60d0-4caa-89c1-12034e50c33f"
+          },
+          {
+            "guid": "036bf4cf-2f5e-47e5-890c-e8402485ef07",
+            "name": "109",
+            "boutPools": [
+              {
+                "guid": "d173570f-a408-4fb5-8cce-fcd678087a2b",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "9b6d4432-8d37-44a8-9967-f28ffb7342b5",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "48eca9d6-e6d2-4cd9-99b4-22e03e048dfd",
+                    "wrestler": {
+                      "guid": "63f5b215-b58f-4288-856c-6355590f354f",
+                      "firstName": "McKayla",
+                      "lastName": "Campbell",
+                      "team": {
+                        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+                        "name": "Campbellsville (W)",
+                        "abbreviation": "CU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/a948d257-7dad-41a6-bb77-b06a10e3ef64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:55:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "acaff9d1-6363-48dc-94a4-a034eb39177c"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "43dc18da-01ed-4f70-9ae2-3d42c8a861ad",
+                    "wrestler": {
+                      "guid": "5a3eed22-85f0-4199-81f3-e0ec407c7db3",
+                      "firstName": "Asia",
+                      "lastName": "Ray",
+                      "team": {
+                        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+                        "name": "Wayland Baptist (W)",
+                        "abbreviation": "WBU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/7e40138e-9dc8-4bd0-9c0c-e17b388bf3be.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:14:39+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": "3fe56018-47ba-47a6-80b3-e9fe4e8a5437"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "54cfa7fd-43ef-4319-acbd-e15441f7c727",
+                    "wrestler": {
+                      "guid": "79d0a1dd-3f90-4436-ad79-c8b3da7b0c7e",
+                      "firstName": "Macie",
+                      "lastName": "Stewart",
+                      "team": {
+                        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+                        "name": "Southern Oregon (W)",
+                        "abbreviation": "SO",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/42b96684-17cb-4965-8a3e-6f2a8add03a0.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:12:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 10,
+                      "identityPersonGuid": "e5f2165e-cf76-432b-895c-d419c6279e1e"
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "0d1a940b-d2e1-42a2-ae90-c173db4255de",
+                    "wrestler": {
+                      "guid": "ffbf5975-0d9c-4242-bca0-a0c220a0bab2",
+                      "firstName": "Tehani",
+                      "lastName": "Soares",
+                      "team": {
+                        "guid": "9ca94678-e6c9-4308-a21d-d5327259a6a4",
+                        "name": "Indiana Tech",
+                        "abbreviation": "INDT",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "0a49c154-72f5-4d1c-89b5-117dd1b9be5e",
+                    "wrestler": {
+                      "guid": "08d44d71-64da-43e5-a4b4-e7bef682e504",
+                      "firstName": "Emma",
+                      "lastName": "Cochran",
+                      "team": {
+                        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+                        "name": "Grand View (W)",
+                        "abbreviation": "GRVW",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/8eb68ba5-cba2-4954-a566-8d47588f8b12.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:56:31+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 6,
+                      "identityPersonGuid": "8606d1e5-cfbd-4cc2-9d2d-9b3bcfac2de4"
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "1ca4419d-b9dd-4331-9fcd-b9e99d244608",
+                    "wrestler": {
+                      "guid": "076002c8-4d95-444c-ac67-6047d99c0e50",
+                      "firstName": "Katalina",
+                      "lastName": "Bartelt",
+                      "team": {
+                        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+                        "name": "Life (W)",
+                        "abbreviation": "LIFE",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/79f9ed40-b958-414c-9f18-3aeac01d7e64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:37+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 7,
+                      "identityPersonGuid": "1de5a79f-5abe-429f-a304-38e2cb4d8188"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "ed877e85-833c-4ac6-bd4f-41d778509603",
+                    "wrestler": {
+                      "guid": "e547c695-c839-48cf-b0d2-d9c9e260c659",
+                      "firstName": "Rayana",
+                      "lastName": "Sahagun",
+                      "team": {
+                        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+                        "name": "Jamestown (W)",
+                        "abbreviation": "JMST",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:28+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "9c88f0df-ebb0-49e8-a8b5-da05589243ee",
+                    "wrestler": {
+                      "guid": "6ec55c90-fde1-4453-8cb2-882ab68ff21d",
+                      "firstName": "Kory",
+                      "lastName": "Phillips",
+                      "team": {
+                        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+                        "name": "Life (W)",
+                        "abbreviation": "LIFE",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/79f9ed40-b958-414c-9f18-3aeac01d7e64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:37+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 9,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 2,
+            "divisionGuid": "faca000c-60d0-4caa-89c1-12034e50c33f"
+          },
+          {
+            "guid": "10705f4f-2274-4f78-a4d3-5c00e67018ba",
+            "name": "116",
+            "boutPools": [
+              {
+                "guid": "44b41115-276f-4302-8912-d8e99cbbf9e6",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "9b6d4432-8d37-44a8-9967-f28ffb7342b5",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "7818145f-badc-40ae-b3d0-525bb4e607e4",
+                    "wrestler": {
+                      "guid": "c1ff5a37-eef0-4f44-bfb1-160f9747c474",
+                      "firstName": "Peyton",
+                      "lastName": "Prussin",
+                      "team": {
+                        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+                        "name": "Life (W)",
+                        "abbreviation": "LIFE",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/79f9ed40-b958-414c-9f18-3aeac01d7e64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:37+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "eb0ee827-87ba-47c3-bc87-9bcfec401a21"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "34545ac9-03f8-4f20-8603-badeefc230da",
+                    "wrestler": {
+                      "guid": "9b1a3788-ecae-4942-bb00-5d30d1eba886",
+                      "firstName": "Charlotte",
+                      "lastName": "Fowler",
+                      "team": {
+                        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+                        "name": "Campbellsville (W)",
+                        "abbreviation": "CU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/a948d257-7dad-41a6-bb77-b06a10e3ef64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:55:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 7,
+                      "identityPersonGuid": "1e779ae6-9c6f-4875-8e0e-0e34e40a7d5f"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "5b2354a4-2ae3-44c2-a5e9-36d0dee60e57",
+                    "wrestler": {
+                      "guid": "5201bef0-e55a-4639-a47d-3cc86a99abb4",
+                      "firstName": "Stefana",
+                      "lastName": "Jelacic",
+                      "team": {
+                        "guid": "bc976fb7-29e6-4e21-91b9-cfbbb6aae557",
+                        "name": "Lourdes",
+                        "abbreviation": "LRDS",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/bc976fb7-29e6-4e21-91b9-cfbbb6aae557.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:07:58+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "50bdfb61-8b72-4457-8979-e9a4f6903f64",
+                    "wrestler": {
+                      "guid": "896b1bfd-82f3-4490-861e-398d096cba7f",
+                      "firstName": "Camille",
+                      "lastName": "Fournier",
+                      "team": {
+                        "guid": "220acdc8-eddd-472f-b9b0-182b677876eb",
+                        "name": "Texas Wesleyan (W)",
+                        "abbreviation": "TXWS",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/220acdc8-eddd-472f-b9b0-182b677876eb.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:12:24+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "0ef3918e-0f4f-4ca2-9af8-379234d25345",
+                    "wrestler": {
+                      "guid": "1b654e46-ce5a-46cd-b489-7ed913eaa92d",
+                      "firstName": "Arianna",
+                      "lastName": "Marrufo",
+                      "team": {
+                        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+                        "name": "Jamestown (W)",
+                        "abbreviation": "JMST",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:28+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 8,
+                      "identityPersonGuid": "d9e60d66-ef53-4b38-b4cf-24ff5f72c8ec"
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "8c687ece-7c07-4313-b692-788bbf2966a3",
+                    "wrestler": {
+                      "guid": "07362e19-c8bf-425b-ae9b-fb7eff437f2b",
+                      "firstName": "Josie",
+                      "lastName": "Bartishofski",
+                      "team": {
+                        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+                        "name": "Jamestown (W)",
+                        "abbreviation": "JMST",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:28+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "71cea8f1-a3f3-4dd5-a925-a67d573d2154",
+                    "wrestler": {
+                      "guid": "99708107-b643-4349-91bc-f76f38cc2b3a",
+                      "firstName": "Serenity",
+                      "lastName": "Durham Goree",
+                      "team": {
+                        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+                        "name": "Midland (W)",
+                        "abbreviation": "MIDL",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/6a6641dc-96c3-4b26-8ea6-2345cf5f611c.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:08:28+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "1f35ac84-4078-430c-9602-84c5004cfc35",
+                    "wrestler": {
+                      "guid": "0c17e7ce-9426-4814-94df-bcfe07e25cdd",
+                      "firstName": "Carolina",
+                      "lastName": "Johnson",
+                      "team": {
+                        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+                        "name": "Southern Oregon (W)",
+                        "abbreviation": "SO",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/42b96684-17cb-4965-8a3e-6f2a8add03a0.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:12:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "4abefa8c-3372-47c2-8b30-7c53b6c7db1f"
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 3,
+            "divisionGuid": "faca000c-60d0-4caa-89c1-12034e50c33f"
+          },
+          {
+            "guid": "3ffc7fe6-c0f8-4aad-998f-8ac1513d9eb8",
+            "name": "123",
+            "boutPools": [
+              {
+                "guid": "537ff980-169b-4781-b171-b469e2fa3486",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "9b6d4432-8d37-44a8-9967-f28ffb7342b5",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "807d6bc9-7284-453c-8efe-ef983817256d",
+                    "wrestler": {
+                      "guid": "ff220726-fa3e-4ad5-a76c-06d2d0692cc4",
+                      "firstName": "Jasmine",
+                      "lastName": "Hernandez",
+                      "team": {
+                        "guid": "61fca54f-e41b-4ddd-aee6-e35bb01ed5e5",
+                        "name": "Lyon (W)",
+                        "abbreviation": "LC",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/61fca54f-e41b-4ddd-aee6-e35bb01ed5e5.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:08:13+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "54415849-6c7e-4cfc-ab79-a42179e43bdc"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "5a892053-5515-4522-9ccc-889cd8eec5b3",
+                    "wrestler": {
+                      "guid": "74e9b45d-84e0-488b-aebd-07c5d9960089",
+                      "firstName": "Julia",
+                      "lastName": "Vidallon",
+                      "team": {
+                        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+                        "name": "Life (W)",
+                        "abbreviation": "LIFE",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/79f9ed40-b958-414c-9f18-3aeac01d7e64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:37+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "01c054c7-4014-4d1f-b71a-1bc587e40960"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "33ea802b-4e1a-4dbf-8a54-271afa378bc0",
+                    "wrestler": {
+                      "guid": "0b4a35d6-042a-47a6-a8ac-e34af50e20ad",
+                      "firstName": "Katlyn",
+                      "lastName": "Pizzo",
+                      "team": {
+                        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+                        "name": "Campbellsville (W)",
+                        "abbreviation": "CU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/a948d257-7dad-41a6-bb77-b06a10e3ef64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:55:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": "97a07ca4-3f22-4322-934d-b3a55c6007fc"
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "2f9fe1fd-5fc4-4091-bb58-6859542bb475",
+                    "wrestler": {
+                      "guid": "19cb3711-1b64-47bf-a52e-d942e70e6434",
+                      "firstName": "Jacqueline",
+                      "lastName": "Ghent",
+                      "team": {
+                        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+                        "name": "Campbellsville (W)",
+                        "abbreviation": "CU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/a948d257-7dad-41a6-bb77-b06a10e3ef64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:55:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 6,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "4c3006b5-8d54-4bf4-9a36-f5e7f44acd12",
+                    "wrestler": {
+                      "guid": "c4e70ae2-bee5-4b3d-a191-0aacb5db70f3",
+                      "firstName": "Theresa",
+                      "lastName": "Rankin",
+                      "team": {
+                        "guid": "bc976fb7-29e6-4e21-91b9-cfbbb6aae557",
+                        "name": "Lourdes",
+                        "abbreviation": "LRDS",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/bc976fb7-29e6-4e21-91b9-cfbbb6aae557.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:07:58+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 9,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "c3ebc8b2-736e-4818-b1e7-776995927b47",
+                    "wrestler": {
+                      "guid": "70645e49-8708-41a0-b283-c3df7fc1313d",
+                      "firstName": "Nichole",
+                      "lastName": "Moore",
+                      "team": {
+                        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+                        "name": "Baker (W)",
+                        "abbreviation": "BKR",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/26f2631f-2430-40ae-9fd7-4c2a573f4bc8.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:54:20+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": "85d153ca-db6e-49a2-be57-78bf3e5252e8"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "4ec6b98e-c513-4210-9de7-8601af79683a",
+                    "wrestler": {
+                      "guid": "6216093d-9698-4400-bce8-d88898e6dc0f",
+                      "firstName": "Glory",
+                      "lastName": "Konecny",
+                      "team": {
+                        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+                        "name": "Southern Oregon (W)",
+                        "abbreviation": "SO",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/42b96684-17cb-4965-8a3e-6f2a8add03a0.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:12:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 10,
+                      "identityPersonGuid": "06d69f6a-0ee9-4df7-8738-1b48db3b5e28"
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "bd4e63b9-007f-4a63-99b1-a9971d279ab5",
+                    "wrestler": {
+                      "guid": "a24eb45c-a8e4-4893-8e20-b8383578b175",
+                      "firstName": "Jasmin",
+                      "lastName": "Davis",
+                      "team": {
+                        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+                        "name": "Wayland Baptist (W)",
+                        "abbreviation": "WBU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/7e40138e-9dc8-4bd0-9c0c-e17b388bf3be.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:14:39+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 7,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 4,
+            "divisionGuid": "faca000c-60d0-4caa-89c1-12034e50c33f"
+          },
+          {
+            "guid": "bf34ecf1-1c1d-45d5-8693-1314aa7655e7",
+            "name": "130",
+            "boutPools": [
+              {
+                "guid": "f4374ba0-8840-4ffe-b669-ab35d9a9b96f",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "9b6d4432-8d37-44a8-9967-f28ffb7342b5",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "23bdaec8-6c8e-44f5-91b8-e0a6112b717e",
+                    "wrestler": {
+                      "guid": "2774d913-845c-4338-883b-6c776d1551af",
+                      "firstName": "Bridgette",
+                      "lastName": "Duty",
+                      "team": {
+                        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+                        "name": "Cumberlands (W)",
+                        "abbreviation": "UC",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/3c081418-3bff-4d57-afee-f3fdebcc75b4.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:56:00+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "cb395fd1-3c45-4de1-a91c-b14d6e10d721"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "895c6889-d50a-479e-bb54-0cf491980996",
+                    "wrestler": {
+                      "guid": "17748856-b7fd-4151-8323-9b8e0b8bd623",
+                      "firstName": "Angela",
+                      "lastName": "Vitiritti",
+                      "team": {
+                        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+                        "name": "Campbellsville (W)",
+                        "abbreviation": "CU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/a948d257-7dad-41a6-bb77-b06a10e3ef64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:55:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "dcb4589a-6fe2-4425-80e9-e3662e180cf7",
+                    "wrestler": {
+                      "guid": "b5c2dec3-4b0c-494a-9cba-68a11b37b06b",
+                      "firstName": "Mea",
+                      "lastName": "Mohler",
+                      "team": {
+                        "guid": "220acdc8-eddd-472f-b9b0-182b677876eb",
+                        "name": "Texas Wesleyan (W)",
+                        "abbreviation": "TXWS",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/220acdc8-eddd-472f-b9b0-182b677876eb.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:12:24+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "b1d6d791-37d3-421b-8c45-17b32d0d64ac",
+                    "wrestler": {
+                      "guid": "02ab4514-2f9e-4ec2-b116-83b6cb6e1026",
+                      "firstName": "De'anna",
+                      "lastName": "Prince",
+                      "team": {
+                        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+                        "name": "Wayland Baptist (W)",
+                        "abbreviation": "WBU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/7e40138e-9dc8-4bd0-9c0c-e17b388bf3be.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:14:39+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 10,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "77cacab3-f4c5-48ae-9b4c-f1480417959c",
+                    "wrestler": {
+                      "guid": "7c613749-5c10-4da5-885c-7b0b5cc94cd2",
+                      "firstName": "Alexandra",
+                      "lastName": "Baudhuin",
+                      "team": {
+                        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+                        "name": "Jamestown (W)",
+                        "abbreviation": "JMST",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:28+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 6,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "b6495435-bea9-41cd-a77d-694e734be691",
+                    "wrestler": {
+                      "guid": "a252cb63-7c34-43ab-bbf1-f509c93c287e",
+                      "firstName": "Diana",
+                      "lastName": "Dzasezeva",
+                      "team": {
+                        "guid": "77a8aaf6-ee1e-4560-89f4-6432eedc6e6c",
+                        "name": "Waldorf (W)",
+                        "abbreviation": "WU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/77a8aaf6-ee1e-4560-89f4-6432eedc6e6c.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:13:29+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 11,
+                      "identityPersonGuid": "7af50065-3daa-46e7-9535-d288d4661a15"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "5c552fcf-d446-4a23-8429-8b07aab8a31a",
+                    "wrestler": {
+                      "guid": "8bf69162-b980-4ca7-8eea-5914836260ba",
+                      "firstName": "Briana",
+                      "lastName": "Kellin",
+                      "team": {
+                        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+                        "name": "Life (W)",
+                        "abbreviation": "LIFE",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/79f9ed40-b958-414c-9f18-3aeac01d7e64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:37+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "b58d8dba-fb90-47bf-8e8f-3070704daf4f",
+                    "wrestler": {
+                      "guid": "5f2606b7-db30-4345-9ab6-ce4d9983f51a",
+                      "firstName": "Sophia",
+                      "lastName": "Smith",
+                      "team": {
+                        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+                        "name": "Oklahoma City (W)",
+                        "abbreviation": "OCU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:09:18+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 9,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 5,
+            "divisionGuid": "faca000c-60d0-4caa-89c1-12034e50c33f"
+          },
+          {
+            "guid": "0aefdcd2-5b3b-4cdf-906f-1a1dc8253405",
+            "name": "136",
+            "boutPools": [
+              {
+                "guid": "2cb56533-9d6f-482d-9ecd-2c598b7ca503",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "9b6d4432-8d37-44a8-9967-f28ffb7342b5",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "b9e165d5-24cc-4a30-aa10-9d7097a73851",
+                    "wrestler": {
+                      "guid": "ae09acc3-512f-479a-a1be-6ae4199d9aee",
+                      "firstName": "Desiree",
+                      "lastName": "Zavala",
+                      "team": {
+                        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+                        "name": "Wayland Baptist (W)",
+                        "abbreviation": "WBU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/7e40138e-9dc8-4bd0-9c0c-e17b388bf3be.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:14:39+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "836e9a42-e6f4-406f-b96a-75b2ccc251c2"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "49d94f1e-48cd-4282-bcb8-80fa8cb2be14",
+                    "wrestler": {
+                      "guid": "1d5673db-4c6b-436a-9c2e-da7fc3272c20",
+                      "firstName": "Randi",
+                      "lastName": "Robison",
+                      "team": {
+                        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+                        "name": "Campbellsville (W)",
+                        "abbreviation": "CU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/a948d257-7dad-41a6-bb77-b06a10e3ef64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:55:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "4a370634-b6ab-4084-b065-5a692cca0d63"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "99ea0e39-9aca-49e6-bd97-e0796fa9ffc3",
+                    "wrestler": {
+                      "guid": "863a3a37-7f5e-4186-a224-bbc4db7edb7e",
+                      "firstName": "Andrea",
+                      "lastName": "Schlabach",
+                      "team": {
+                        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+                        "name": "Grand View (W)",
+                        "abbreviation": "GRVW",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/8eb68ba5-cba2-4954-a566-8d47588f8b12.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:56:31+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "16c2606e-8816-4258-a39b-afb6447a9c25",
+                    "wrestler": {
+                      "guid": "12e6ee05-db3e-47d0-8981-f59f6f9e212c",
+                      "firstName": "Savanna",
+                      "lastName": "McCutchen",
+                      "team": {
+                        "guid": "6bc6e0ab-85a5-449f-beed-8f54ffeb10ed",
+                        "name": "Missouri Valley (W)",
+                        "abbreviation": "MVC",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/6bc6e0ab-85a5-449f-beed-8f54ffeb10ed.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:08:58+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 9,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "f6f83cc4-1f07-4e5c-8a36-0cbcaac73ba3",
+                    "wrestler": {
+                      "guid": "d44cab3b-b951-47a7-8cd4-a65673f5b264",
+                      "firstName": "Destiny",
+                      "lastName": "Lyng",
+                      "team": {
+                        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+                        "name": "Oklahoma City (W)",
+                        "abbreviation": "OCU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:09:18+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": "3e6862c3-d1a7-4333-b6f6-bcf7da0ae6d0"
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "5b57acc7-9b71-49a8-b6a1-c0a259a51e2a",
+                    "wrestler": {
+                      "guid": "0f44e551-2dbc-4f65-b5c6-84b0b0fb2068",
+                      "firstName": "Brigid",
+                      "lastName": "Shannon",
+                      "team": {
+                        "guid": "b02b0ced-a830-491a-ae8f-2888bcd1940c",
+                        "name": "Corban",
+                        "abbreviation": "CRBN",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/b02b0ced-a830-491a-ae8f-2888bcd1940c.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:05:27+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "0ac46eb3-c1e1-46fe-8e68-6c940b14ecee",
+                    "wrestler": {
+                      "guid": "f5339dbd-98c9-4e23-a59d-727d8447e194",
+                      "firstName": "Angelina",
+                      "lastName": "Prado",
+                      "team": {
+                        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+                        "name": "Life (W)",
+                        "abbreviation": "LIFE",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/79f9ed40-b958-414c-9f18-3aeac01d7e64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:37+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "7d1d05eb-d726-4204-8366-6eb21b405454",
+                    "wrestler": {
+                      "guid": "86742ad0-7165-4888-9711-3b3461558e32",
+                      "firstName": "Luisita",
+                      "lastName": "Jara",
+                      "team": {
+                        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+                        "name": "Jamestown (W)",
+                        "abbreviation": "JMST",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:28+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 6,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 6,
+            "divisionGuid": "faca000c-60d0-4caa-89c1-12034e50c33f"
+          },
+          {
+            "guid": "4b1b22fb-8e84-4d14-8ff1-4e22669dbb00",
+            "name": "143",
+            "boutPools": [
+              {
+                "guid": "0b758d71-fbf4-433b-9c49-09102488217c",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "9b6d4432-8d37-44a8-9967-f28ffb7342b5",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "0fe94dee-bef2-4ba1-995c-ecfb4bdb9796",
+                    "wrestler": {
+                      "guid": "1b1cb719-f336-4d2c-a3f8-a875be13cc29",
+                      "firstName": "Waipuilani",
+                      "lastName": "Estrella-Beauchamp",
+                      "team": {
+                        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+                        "name": "Midland (W)",
+                        "abbreviation": "MIDL",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/6a6641dc-96c3-4b26-8ea6-2345cf5f611c.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:08:28+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "c6e9fe66-6713-4b41-85b0-5d290ef1a896",
+                    "wrestler": {
+                      "guid": "58f309cf-d2d6-44a0-b54a-697eccfa2b49",
+                      "firstName": "Erin",
+                      "lastName": "Redford",
+                      "team": {
+                        "guid": "3427cbee-a47d-4e63-ac2a-c5642681b296",
+                        "name": "Eastern Oregon (W)",
+                        "abbreviation": "EOU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/3427cbee-a47d-4e63-ac2a-c5642681b296.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:56:10+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 6,
+                      "identityPersonGuid": "774f977b-b25e-4d02-877d-2f767d4b1ff8"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "28ed3ae4-b1aa-4d53-9155-0f15f2b86e0b",
+                    "wrestler": {
+                      "guid": "032109be-5242-4727-87c2-bedbdaf149d7",
+                      "firstName": "Emma",
+                      "lastName": "Walker",
+                      "team": {
+                        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+                        "name": "Campbellsville (W)",
+                        "abbreviation": "CU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/a948d257-7dad-41a6-bb77-b06a10e3ef64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:55:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "1dbe6b06-c16a-441c-bad1-f52407154bd1",
+                    "wrestler": {
+                      "guid": "c4db8b5a-7d8e-4f1b-a531-c492e3d74491",
+                      "firstName": "Samantha",
+                      "lastName": "Snow",
+                      "team": {
+                        "guid": "9ca94678-e6c9-4308-a21d-d5327259a6a4",
+                        "name": "Indiana Tech",
+                        "abbreviation": "INDT",
+                        "teamLogo": null
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "a8af4295-07cd-464d-ab5f-065ea521ddcf",
+                    "wrestler": {
+                      "guid": "1dad225f-043a-4059-8a98-6616a47f2fd7",
+                      "firstName": "Jordan",
+                      "lastName": "Suarez",
+                      "team": {
+                        "guid": "7e40138e-9dc8-4bd0-9c0c-e17b388bf3be",
+                        "name": "Wayland Baptist (W)",
+                        "abbreviation": "WBU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/7e40138e-9dc8-4bd0-9c0c-e17b388bf3be.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:14:39+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "223b07e5-a1b7-4cea-b595-63496d5e6f27",
+                    "wrestler": {
+                      "guid": "cc6c3099-6b0e-47ae-bccd-a7c7e31f4b45",
+                      "firstName": "Sydney",
+                      "lastName": "Freund",
+                      "team": {
+                        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+                        "name": "Oklahoma City (W)",
+                        "abbreviation": "OCU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:09:18+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "a8d81d38-c8b2-4971-ab9f-9aea2a2d476d"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "ae32ca6a-621a-4c51-a496-8f95c9b9559d",
+                    "wrestler": {
+                      "guid": "1acdc865-f89c-489d-87c2-8e51fb4d0565",
+                      "firstName": "Ashley",
+                      "lastName": "Ikner",
+                      "team": {
+                        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+                        "name": "Cumberlands (W)",
+                        "abbreviation": "UC",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/3c081418-3bff-4d57-afee-f3fdebcc75b4.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:56:00+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 7,
+                      "identityPersonGuid": "c824f46f-9040-4dee-9012-5f20316b5638"
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "af8bf875-e19d-4692-b6ef-ae0f6f956313",
+                    "wrestler": {
+                      "guid": "66e52cd1-8dec-4315-86c1-73a601e1b0e2",
+                      "firstName": "Nancy",
+                      "lastName": "Becerra",
+                      "team": {
+                        "guid": "6bc6e0ab-85a5-449f-beed-8f54ffeb10ed",
+                        "name": "Missouri Valley (W)",
+                        "abbreviation": "MVC",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/6bc6e0ab-85a5-449f-beed-8f54ffeb10ed.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:08:58+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 8,
+                      "identityPersonGuid": "82354690-4783-41a9-8c3b-f993c296aa35"
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 7,
+            "divisionGuid": "faca000c-60d0-4caa-89c1-12034e50c33f"
+          },
+          {
+            "guid": "32412149-fe0f-4fc2-88fe-6789e4f3377c",
+            "name": "155",
+            "boutPools": [
+              {
+                "guid": "23c9537d-db93-47be-8d74-a8d4b2915e26",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "9b6d4432-8d37-44a8-9967-f28ffb7342b5",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "87275760-1adb-476e-892d-3d0d5fb10091",
+                    "wrestler": {
+                      "guid": "d83ada40-42cb-4a98-89f3-203041be50d4",
+                      "firstName": "Sienna",
+                      "lastName": "Ramirez",
+                      "team": {
+                        "guid": "42b96684-17cb-4965-8a3e-6f2a8add03a0",
+                        "name": "Southern Oregon (W)",
+                        "abbreviation": "SO",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/42b96684-17cb-4965-8a3e-6f2a8add03a0.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:12:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 8,
+                      "identityPersonGuid": "1ea9e155-4214-4391-bb14-edaaf2a0ec63"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "292db6ae-26ff-47f8-85cb-b5433645937c",
+                    "wrestler": {
+                      "guid": "b9735081-f461-400e-afa9-69fb7dcabfae",
+                      "firstName": "Morgan",
+                      "lastName": "Mayginnes",
+                      "team": {
+                        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+                        "name": "Baker (W)",
+                        "abbreviation": "BKR",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/26f2631f-2430-40ae-9fd7-4c2a573f4bc8.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:54:20+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "ec28b1e9-9eed-40b7-ab23-7e7dc714c976"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "5b711b47-b130-4437-9579-eb775d88fffe",
+                    "wrestler": {
+                      "guid": "d0ff827f-3058-4e33-9b6a-e022e1615f1e",
+                      "firstName": "Kendra",
+                      "lastName": "Thompson",
+                      "team": {
+                        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+                        "name": "Campbellsville (W)",
+                        "abbreviation": "CU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/a948d257-7dad-41a6-bb77-b06a10e3ef64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:55:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "9604a919-77f7-4263-92af-b3b9777c2a6a",
+                    "wrestler": {
+                      "guid": "830ad134-cfb3-4ea5-bb16-88d29d95f784",
+                      "firstName": "Kamalamaokapomahealani",
+                      "lastName": "Lewis",
+                      "team": {
+                        "guid": "6a6641dc-96c3-4b26-8ea6-2345cf5f611c",
+                        "name": "Midland (W)",
+                        "abbreviation": "MIDL",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/6a6641dc-96c3-4b26-8ea6-2345cf5f611c.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:08:28+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "d7578bb6-893d-4cac-9474-f430886970ad",
+                    "wrestler": {
+                      "guid": "b6871c28-83c5-4325-b653-d9d7598b6e89",
+                      "firstName": "Cierra",
+                      "lastName": "Foster",
+                      "team": {
+                        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+                        "name": "Oklahoma City (W)",
+                        "abbreviation": "OCU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:09:18+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "52e23b86-9ee0-4b19-9bf9-32d0193e37be"
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "072414df-5cd6-4b52-b7eb-34b6f9e4a10a",
+                    "wrestler": {
+                      "guid": "33af43fa-58c5-4870-9ce2-c6be06aca318",
+                      "firstName": "Destinee",
+                      "lastName": "Rivera",
+                      "team": {
+                        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+                        "name": "Life (W)",
+                        "abbreviation": "LIFE",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/79f9ed40-b958-414c-9f18-3aeac01d7e64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:37+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 7,
+                      "identityPersonGuid": "ad4cb126-c69c-43c4-a274-82762f8e7aec"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "0204748d-5d16-41d3-ab07-e32802af3b1a",
+                    "wrestler": {
+                      "guid": "dda5f50b-4916-4557-8aef-012647f150e9",
+                      "firstName": "Tiyahna",
+                      "lastName": "Askew",
+                      "team": {
+                        "guid": "798b7d9e-62df-40d6-901a-d5d2b1ab39ea",
+                        "name": "Missouri Baptist (W)",
+                        "abbreviation": "MBU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/798b7d9e-62df-40d6-901a-d5d2b1ab39ea.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:08:43+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": "58488fe3-cefa-4623-be21-5e96c1e1cd4c"
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "54a17233-14af-48cd-a8d6-a0b42fef1d72",
+                    "wrestler": {
+                      "guid": "280152f4-5044-480b-909c-736c2f6cb38d",
+                      "firstName": "Dempsi",
+                      "lastName": "Talkington",
+                      "team": {
+                        "guid": "3427cbee-a47d-4e63-ac2a-c5642681b296",
+                        "name": "Eastern Oregon (W)",
+                        "abbreviation": "EOU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/3427cbee-a47d-4e63-ac2a-c5642681b296.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:56:10+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": "2e1b1ec3-b75e-424c-ba3b-4817602923f1"
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 8,
+            "divisionGuid": "faca000c-60d0-4caa-89c1-12034e50c33f"
+          },
+          {
+            "guid": "9805190d-ceb1-4eab-b2f2-b92e5db0693e",
+            "name": "170",
+            "boutPools": [
+              {
+                "guid": "b8ad5f93-981c-4cc7-a09a-ec0246efa46f",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "9b6d4432-8d37-44a8-9967-f28ffb7342b5",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "e268ff74-27ce-47ae-bb24-473c14512c11",
+                    "wrestler": {
+                      "guid": "dd1db4cb-2c11-488c-a50d-b3a00125bd30",
+                      "firstName": "Jordan",
+                      "lastName": "Nelson",
+                      "team": {
+                        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+                        "name": "Life (W)",
+                        "abbreviation": "LIFE",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/79f9ed40-b958-414c-9f18-3aeac01d7e64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:37+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "62410458-7af3-4bdb-bf9d-a82b43ba50f5"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "05f1c575-bdb5-4f06-907c-d779b5c51677",
+                    "wrestler": {
+                      "guid": "92c4a6c6-239f-4c6f-a5a8-74311bfc6347",
+                      "firstName": "Alexandra",
+                      "lastName": "Castillo",
+                      "team": {
+                        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+                        "name": "Campbellsville (W)",
+                        "abbreviation": "CU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/a948d257-7dad-41a6-bb77-b06a10e3ef64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:55:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "7601377e-25c8-4fc3-8aed-6e42636fc089"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "2abe6444-47f9-44f2-8674-79f81adfb0cf",
+                    "wrestler": {
+                      "guid": "079ac45f-17e4-4fc6-b4d5-a6db38c2d257",
+                      "firstName": "Sierra",
+                      "lastName": "Talmadge",
+                      "team": {
+                        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+                        "name": "Jamestown (W)",
+                        "abbreviation": "JMST",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:28+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": "2cb3fd7e-f999-4960-8cbc-c14def87c7ed"
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "dd4d846a-02d3-45fe-ac00-10af65bffb8f",
+                    "wrestler": {
+                      "guid": "00e0850c-8441-4de6-a0b0-cb3732c80089",
+                      "firstName": "Hunter",
+                      "lastName": "Robinson",
+                      "team": {
+                        "guid": "8eb68ba5-cba2-4954-a566-8d47588f8b12",
+                        "name": "Grand View (W)",
+                        "abbreviation": "GRVW",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/8eb68ba5-cba2-4954-a566-8d47588f8b12.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:56:31+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "7f09e2aa-5233-4c2a-b5b9-127ba9e95160",
+                    "wrestler": {
+                      "guid": "b764233e-bec5-4cdf-99ba-8caf804bd5ca",
+                      "firstName": "Chamira",
+                      "lastName": "Cooper",
+                      "team": {
+                        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+                        "name": "Cumberlands (W)",
+                        "abbreviation": "UC",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/3c081418-3bff-4d57-afee-f3fdebcc75b4.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:56:00+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "4edeee08-df1d-49e6-88b3-b825d3e66e83",
+                    "wrestler": {
+                      "guid": "80329fbb-41c8-4ccb-be21-4f7b866debdf",
+                      "firstName": "Jennifer",
+                      "lastName": "Curry",
+                      "team": {
+                        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+                        "name": "Baker (W)",
+                        "abbreviation": "BKR",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/26f2631f-2430-40ae-9fd7-4c2a573f4bc8.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:54:20+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 7,
+                      "identityPersonGuid": "916ed70d-beed-4033-9d02-fc2f3ed5290f"
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "3d5835ab-4afb-440a-83e2-6b76e024b458",
+                    "wrestler": {
+                      "guid": "fa4be474-ebfd-4ca1-8407-4420238cf7cb",
+                      "firstName": "Shania",
+                      "lastName": "Gowan",
+                      "team": {
+                        "guid": "798b7d9e-62df-40d6-901a-d5d2b1ab39ea",
+                        "name": "Missouri Baptist (W)",
+                        "abbreviation": "MBU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/798b7d9e-62df-40d6-901a-d5d2b1ab39ea.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:08:43+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 8,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "e5a216b0-3dab-4ad9-ac7c-e74c04af739c",
+                    "wrestler": {
+                      "guid": "5deae358-0615-4ecf-8687-d267c8395b95",
+                      "firstName": "Danielle",
+                      "lastName": "Saldivar",
+                      "team": {
+                        "guid": "6bc6e0ab-85a5-449f-beed-8f54ffeb10ed",
+                        "name": "Missouri Valley (W)",
+                        "abbreviation": "MVC",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/6bc6e0ab-85a5-449f-beed-8f54ffeb10ed.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:08:58+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 9,
+                      "identityPersonGuid": "a0b09fe4-2be8-4e06-bac7-68051da002dc"
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 9,
+            "divisionGuid": "faca000c-60d0-4caa-89c1-12034e50c33f"
+          },
+          {
+            "guid": "81f6b449-5e1a-4744-bebb-4492ddfee5bb",
+            "name": "191",
+            "boutPools": [
+              {
+                "guid": "c40a2712-4d56-4c1b-af20-4a58b7ae98db",
+                "name": "Pool A",
+                "sequence": 1,
+                "bracketPhase": {
+                  "guid": "9b6d4432-8d37-44a8-9967-f28ffb7342b5",
+                  "sequenceNumber": 1,
+                  "segmentSize": 1,
+                  "segmentFinalsSize": 8
+                },
+                "bracketPlacements": [
+                  {
+                    "guid": "323c3d46-9703-4a78-97fc-23108fef1816",
+                    "wrestler": {
+                      "guid": "0ad379d9-6653-4698-9b80-51e79ad618df",
+                      "firstName": "Nkechinyere",
+                      "lastName": "Nwankwo",
+                      "team": {
+                        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+                        "name": "Oklahoma City (W)",
+                        "abbreviation": "OCU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:09:18+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 1,
+                      "identityPersonGuid": "ca1b0456-a7ec-4635-a517-02f0de5fdfe4"
+                    },
+                    "placement": 1
+                  },
+                  {
+                    "guid": "b425cdd6-f85b-4b72-a62a-626ebf78199a",
+                    "wrestler": {
+                      "guid": "19674856-c440-4db1-9945-97d98cddf567",
+                      "firstName": "Elisa",
+                      "lastName": "Robinson",
+                      "team": {
+                        "guid": "26f2631f-2430-40ae-9fd7-4c2a573f4bc8",
+                        "name": "Baker (W)",
+                        "abbreviation": "BKR",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/26f2631f-2430-40ae-9fd7-4c2a573f4bc8.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:54:20+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 2,
+                      "identityPersonGuid": "8ab6ca43-ca9f-4c1b-9b4a-4331bf3cad51"
+                    },
+                    "placement": 2
+                  },
+                  {
+                    "guid": "c952ae85-7f46-4897-a19d-f589e494a578",
+                    "wrestler": {
+                      "guid": "7fa516c5-24ed-458a-83c1-8b2ab74fdf5e",
+                      "firstName": "Kelani",
+                      "lastName": "Corbett",
+                      "team": {
+                        "guid": "61fca54f-e41b-4ddd-aee6-e35bb01ed5e5",
+                        "name": "Lyon (W)",
+                        "abbreviation": "LC",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/61fca54f-e41b-4ddd-aee6-e35bb01ed5e5.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:08:13+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 4,
+                      "identityPersonGuid": "48646283-49a0-4f11-9624-2d33359cbe2d"
+                    },
+                    "placement": 3
+                  },
+                  {
+                    "guid": "e69ebe00-f6dd-42e6-963d-efcc6356f3b7",
+                    "wrestler": {
+                      "guid": "612219d2-592e-4973-beb8-4bf7e4b3ece2",
+                      "firstName": "Brianna",
+                      "lastName": "Staebler",
+                      "team": {
+                        "guid": "a948d257-7dad-41a6-bb77-b06a10e3ef64",
+                        "name": "Campbellsville (W)",
+                        "abbreviation": "CU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/a948d257-7dad-41a6-bb77-b06a10e3ef64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:55:04+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 4
+                  },
+                  {
+                    "guid": "f9c0aa0a-037b-4857-aed4-bd78d34ca652",
+                    "wrestler": {
+                      "guid": "233072bb-ddda-4cf7-9f6b-04232522ad07",
+                      "firstName": "MaQuoia",
+                      "lastName": "Bernabe",
+                      "team": {
+                        "guid": "3c081418-3bff-4d57-afee-f3fdebcc75b4",
+                        "name": "Cumberlands (W)",
+                        "abbreviation": "UC",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/3c081418-3bff-4d57-afee-f3fdebcc75b4.png",
+                          "modifiedDateTimeUtc": "2021-03-12T02:56:00+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 3,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 5
+                  },
+                  {
+                    "guid": "767d95d3-e2e7-44a2-98bf-5a94a1a2a609",
+                    "wrestler": {
+                      "guid": "cd9de4a1-b5e7-47d9-acac-7cd599f53179",
+                      "firstName": "Victoria",
+                      "lastName": "Hinojo",
+                      "team": {
+                        "guid": "5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5",
+                        "name": "Oklahoma City (W)",
+                        "abbreviation": "OCU",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/5ed34c5f-c2c9-4d2d-aaf4-9325f08822a5.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:09:18+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": null,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 6
+                  },
+                  {
+                    "guid": "34847c34-43f4-4c07-a6e2-9b767d7c701e",
+                    "wrestler": {
+                      "guid": "c7ae3f84-1993-4ac5-9048-556821e25f3d",
+                      "firstName": "Catherine",
+                      "lastName": "Palmieri",
+                      "team": {
+                        "guid": "79f9ed40-b958-414c-9f18-3aeac01d7e64",
+                        "name": "Life (W)",
+                        "abbreviation": "LIFE",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/79f9ed40-b958-414c-9f18-3aeac01d7e64.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:37+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 5,
+                      "identityPersonGuid": "17598bfd-a577-478f-bf40-5131c731dba3"
+                    },
+                    "placement": 7
+                  },
+                  {
+                    "guid": "c1ea36ac-3bdf-422b-ad79-e2b1390d4fe3",
+                    "wrestler": {
+                      "guid": "18c61f15-1106-4a60-b0be-46db845d365c",
+                      "firstName": "Kelly",
+                      "lastName": "LaCost",
+                      "team": {
+                        "guid": "7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835",
+                        "name": "Jamestown (W)",
+                        "abbreviation": "JMST",
+                        "teamLogo": {
+                          "logoUrl": "https://s3-us-west-2.amazonaws.com/flosports-eventsetup-uploads/team-logos/7ef09d9e-b7fa-4e4d-9b75-3d95c8aa7835.png",
+                          "modifiedDateTimeUtc": "2021-03-12T03:06:28+0000",
+                          "hasLogo": true
+                        }
+                      },
+                      "weightClass": null,
+                      "seed": 7,
+                      "identityPersonGuid": null
+                    },
+                    "placement": 8
+                  }
+                ]
+              }
+            ],
+            "sequence": 10,
+            "divisionGuid": "faca000c-60d0-4caa-89c1-12034e50c33f"
+          }
+        ],
+        "bracketPhase": {
+          "guid": "9b6d4432-8d37-44a8-9967-f28ffb7342b5",
+          "sequenceNumber": 1,
+          "segmentSize": 1,
+          "segmentFinalsSize": 8
+        },
+        "dualPools": [],
+        "firstColor": "red",
+        "secondColor": "blue",
+        "publishBrackets": true,
+        "publishWrestlersDateTimeUtc": null
+      }
+    ],
+    "timeZone": "America/Chicago",
+    "startDateTimezone": "2021-03-12T12:00:00-06:00",
+    "endDateTimezone": "2021-03-14T23:59:59-05:00"
+  }
+}

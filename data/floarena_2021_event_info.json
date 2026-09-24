@@ -1,0 +1,19 @@
+{
+  "status": "SUCCESS",
+  "response": {
+    "guid": "dcc7ee38-84ea-42bd-83f5-12c21108a3e5",
+    "name": "2021 NAIA Women's National Invitational",
+    "startDate": "2021-03-12T12:00:00+0000",
+    "endDate": "2021-03-14T05:00:00+0000",
+    "locationName": "University of Jamestown",
+    "status": "concluded",
+    "firebaseHost": "https://floarena.firebaseio.com",
+    "numRecentResults": null,
+    "slug": "2021-naia-women-s-national-invitational",
+    "timeZone": "America/Chicago",
+    "startDateTimezone": "2021-03-12T12:00:00-06:00",
+    "endDateTimezone": "2021-03-14T23:59:59-05:00",
+    "isDual": false,
+    "hasBrackets": true
+  }
+}
