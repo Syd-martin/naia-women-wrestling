@@ -1,5 +1,5 @@
 ---
-title: "About Sydney Martin"
+toc: false
 ---
 
 <div class="byline-text">By: Sydney Martin</div>

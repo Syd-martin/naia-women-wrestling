@@ -1,6 +1,5 @@
 ---
-title: "📋 All-Time Match Results"
-subtitle: "Search 3,100+ championship bouts from 2019 to 2026 by round, winner, method, and score."
+toc: false
 ---
 
 ```{r}

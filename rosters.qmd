@@ -1,6 +1,5 @@
 ---
-title: "🤼 Wrestler Rosters by School"
-subtitle: "Explore collegiate programs and expand any school to view all affiliated athletes, weight classes, and tournament records."
+toc: false
 ---
 
 ::: {.callout-note appearance="simple" icon="false"}

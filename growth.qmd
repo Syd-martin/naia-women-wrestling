@@ -1,6 +1,5 @@
 ---
-title: "📈 Growth Explosion"
-subtitle: "How NAIA women's wrestling participation surged from 2019 to 2026."
+toc: false
 ---
 
 ::: {.grid .mb-3}

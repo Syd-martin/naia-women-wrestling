@@ -1,6 +1,5 @@
 ---
-title: "👑 National Placers (1st–8th)"
-subtitle: "Explore national champions and All-American podium finishers across all weight classes (2019–2026)."
+toc: false
 ---
 
 ```{r}

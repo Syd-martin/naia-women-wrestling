@@ -1,6 +1,5 @@
 ---
-title: "🏫 Team & State Search"
-subtitle: "Filter collegiate programs by state or school to see their national championship legacy."
+toc: false
 ---
 
 ```{r}
